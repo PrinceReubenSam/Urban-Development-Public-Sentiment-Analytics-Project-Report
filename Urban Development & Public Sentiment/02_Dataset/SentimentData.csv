@@ -1,0 +1,1001 @@
+Post_ID,Neighborhood,Topic,Date,Sentiment,Text,Sentiment_Score
+1,Harlem,Sanitation,2025-02-19,Neutral,Mixed feelings about transport.,0.05
+2,Brooklyn Heights,Parks,2025-01-30,Neutral,Mixed feelings about transport.,-0.08
+3,SoHo,Housing,2025-03-12,Negative,Too much noise and trash!,-0.4
+4,SoHo,Infrastructure,2025-03-20,Positive,Great improvement in road maintenance.,0.24
+5,Queens Village,Parks,2025-03-07,Negative,Buses keep getting delayed.,-0.84
+6,Brooklyn Heights,Sanitation,2025-02-19,Neutral,Mixed feelings about transport.,0.06
+7,Uptown,Parks,2025-04-01,Positive,Feeling safer at night recently.,0.79
+8,Chinatown,Sanitation,2025-02-22,Neutral,Mixed feelings about transport.,-0.0
+9,Downtown,Infrastructure,2025-02-20,Positive,Great improvement in road maintenance.,0.24
+10,Uptown,Infrastructure,2025-02-08,Positive,Buses are on time lately!,0.69
+11,Downtown,Transport,2025-02-06,Positive,Great improvement in road maintenance.,0.53
+12,Midtown,Infrastructure,2025-03-31,Positive,Great improvement in road maintenance.,0.45
+13,Midtown,Safety,2025-01-15,Neutral,Mixed feelings about transport.,0.03
+14,Brooklyn Heights,Parks,2025-01-16,Negative,Buses keep getting delayed.,-0.65
+15,Brooklyn Heights,Parks,2025-01-25,Neutral,Mixed feelings about transport.,-0.08
+16,SoHo,Sanitation,2025-01-30,Positive,Feeling safer at night recently.,0.93
+17,Harlem,Infrastructure,2025-02-12,Neutral,Average service overall.,0.06
+18,Queens Village,Transport,2025-02-13,Positive,Great improvement in road maintenance.,0.25
+19,Harlem,Transport,2025-01-09,Neutral,Parks are okay but could be better.,0.01
+20,Uptown,Transport,2025-01-27,Neutral,Mixed feelings about transport.,-0.08
+21,SoHo,Housing,2025-03-26,Positive,Great improvement in road maintenance.,0.87
+22,Downtown,Safety,2025-03-12,Negative,Buses keep getting delayed.,-0.51
+23,Chinatown,Infrastructure,2025-01-31,Negative,Roads full of potholes again.,-0.86
+24,Bronx Park,Transport,2025-01-23,Positive,Great improvement in road maintenance.,0.22
+25,Chelsea,Safety,2025-03-16,Positive,Love how clean my area looks now!,0.23
+26,Midtown,Parks,2025-02-20,Negative,Roads full of potholes again.,-0.59
+27,Harlem,Sanitation,2025-03-15,Positive,Great improvement in road maintenance.,0.79
+28,Queens Village,Infrastructure,2025-02-25,Negative,Water leakage not fixed for weeks.,-0.9
+29,Chinatown,Infrastructure,2025-01-28,Neutral,Parks are okay but could be better.,-0.06
+30,Chinatown,Housing,2025-01-08,Positive,Feeling safer at night recently.,0.46
+31,Midtown,Parks,2025-02-14,Positive,Buses are on time lately!,0.37
+32,Chelsea,Infrastructure,2025-03-01,Neutral,Average service overall.,-0.02
+33,Brooklyn Heights,Housing,2025-02-19,Neutral,Parks are okay but could be better.,0.01
+34,Chinatown,Housing,2025-01-09,Neutral,Mixed feelings about transport.,0.04
+35,Uptown,Housing,2025-02-16,Negative,Too much noise and trash!,-0.23
+36,Uptown,Infrastructure,2025-02-16,Neutral,Average service overall.,0.09
+37,Brooklyn Heights,Infrastructure,2025-02-14,Neutral,Average service overall.,0.01
+38,Downtown,Infrastructure,2025-01-23,Negative,Too much noise and trash!,-0.41
+39,SoHo,Safety,2025-02-14,Neutral,Average service overall.,0.09
+40,Brooklyn Heights,Housing,2025-01-07,Negative,Water leakage not fixed for weeks.,-0.93
+41,Chelsea,Safety,2025-02-23,Neutral,Parks are okay but could be better.,-0.1
+42,Uptown,Sanitation,2025-03-28,Neutral,Parks are okay but could be better.,-0.09
+43,Chinatown,Infrastructure,2025-03-12,Neutral,Mixed feelings about transport.,0.01
+44,Uptown,Parks,2025-03-13,Positive,Buses are on time lately!,0.81
+45,Bronx Park,Transport,2025-02-10,Negative,Roads full of potholes again.,-0.71
+46,SoHo,Sanitation,2025-01-30,Positive,Love how clean my area looks now!,0.64
+47,Queens Village,Transport,2025-01-04,Positive,Feeling safer at night recently.,0.61
+48,Bronx Park,Transport,2025-03-05,Negative,Water leakage not fixed for weeks.,-0.92
+49,Downtown,Infrastructure,2025-01-27,Positive,Love how clean my area looks now!,0.46
+50,Midtown,Parks,2025-01-02,Negative,Too much noise and trash!,-0.98
+51,Bronx Park,Transport,2025-01-09,Negative,Too much noise and trash!,-0.91
+52,Downtown,Housing,2025-02-26,Positive,Love how clean my area looks now!,0.85
+53,Downtown,Transport,2025-01-13,Neutral,Mixed feelings about transport.,0.07
+54,Queens Village,Sanitation,2025-03-03,Negative,Water leakage not fixed for weeks.,-0.36
+55,Midtown,Parks,2025-03-08,Neutral,Mixed feelings about transport.,0.05
+56,Harlem,Parks,2025-01-25,Negative,Buses keep getting delayed.,-0.37
+57,Brooklyn Heights,Transport,2025-02-22,Negative,Too much noise and trash!,-0.46
+58,Chinatown,Parks,2025-01-16,Positive,Buses are on time lately!,0.74
+59,Chelsea,Sanitation,2025-03-13,Positive,Great improvement in road maintenance.,0.73
+60,Chelsea,Sanitation,2025-03-14,Negative,Buses keep getting delayed.,-0.59
+61,Chelsea,Sanitation,2025-03-25,Neutral,Average service overall.,-0.03
+62,Harlem,Housing,2025-03-20,Positive,Feeling safer at night recently.,0.78
+63,Brooklyn Heights,Infrastructure,2025-01-04,Negative,Too much noise and trash!,-0.76
+64,Chelsea,Transport,2025-01-20,Negative,Water leakage not fixed for weeks.,-0.57
+65,Brooklyn Heights,Parks,2025-02-15,Negative,Water leakage not fixed for weeks.,-0.65
+66,Chinatown,Sanitation,2025-01-21,Neutral,Average service overall.,-0.04
+67,Chelsea,Transport,2025-01-08,Neutral,Parks are okay but could be better.,0.09
+68,Midtown,Transport,2025-03-31,Negative,Water leakage not fixed for weeks.,-0.79
+69,Downtown,Infrastructure,2025-03-28,Negative,Water leakage not fixed for weeks.,-0.75
+70,Chelsea,Housing,2025-01-06,Negative,Buses keep getting delayed.,-0.87
+71,Brooklyn Heights,Parks,2025-02-15,Negative,Too much noise and trash!,-0.34
+72,Downtown,Housing,2025-01-22,Negative,Water leakage not fixed for weeks.,-0.53
+73,Queens Village,Parks,2025-03-31,Negative,Water leakage not fixed for weeks.,-0.51
+74,Chelsea,Sanitation,2025-02-21,Positive,Buses are on time lately!,0.86
+75,Chelsea,Sanitation,2025-03-24,Positive,Buses are on time lately!,0.47
+76,Bronx Park,Transport,2025-01-15,Negative,Buses keep getting delayed.,-0.85
+77,Downtown,Parks,2025-02-09,Positive,Feeling safer at night recently.,0.36
+78,Chelsea,Parks,2025-03-12,Positive,Feeling safer at night recently.,0.79
+79,Midtown,Housing,2025-01-01,Positive,Great improvement in road maintenance.,0.69
+80,Chinatown,Sanitation,2025-02-02,Positive,Buses are on time lately!,0.37
+81,Downtown,Safety,2025-01-17,Neutral,Parks are okay but could be better.,-0.07
+82,Chinatown,Transport,2025-02-27,Positive,Feeling safer at night recently.,0.3
+83,SoHo,Parks,2025-02-09,Negative,Water leakage not fixed for weeks.,-0.5
+84,Brooklyn Heights,Infrastructure,2025-01-09,Negative,Roads full of potholes again.,-1.0
+85,Queens Village,Infrastructure,2025-03-26,Negative,Too much noise and trash!,-0.99
+86,Bronx Park,Safety,2025-03-06,Positive,Buses are on time lately!,0.51
+87,Midtown,Sanitation,2025-01-12,Negative,Roads full of potholes again.,-0.45
+88,Queens Village,Sanitation,2025-02-26,Negative,Roads full of potholes again.,-0.44
+89,Bronx Park,Sanitation,2025-01-31,Negative,Buses keep getting delayed.,-0.66
+90,Queens Village,Housing,2025-03-26,Neutral,Parks are okay but could be better.,0.04
+91,Queens Village,Infrastructure,2025-03-10,Neutral,Average service overall.,0.0
+92,Uptown,Sanitation,2025-02-03,Neutral,Average service overall.,0.1
+93,Brooklyn Heights,Infrastructure,2025-03-03,Negative,Water leakage not fixed for weeks.,-0.87
+94,Harlem,Safety,2025-01-06,Negative,Water leakage not fixed for weeks.,-0.52
+95,Bronx Park,Transport,2025-01-11,Negative,Too much noise and trash!,-0.61
+96,Midtown,Housing,2025-01-17,Neutral,Mixed feelings about transport.,-0.06
+97,Downtown,Parks,2025-01-06,Negative,Water leakage not fixed for weeks.,-0.4
+98,Queens Village,Safety,2025-01-03,Positive,Buses are on time lately!,0.42
+99,Queens Village,Infrastructure,2025-03-30,Negative,Too much noise and trash!,-0.69
+100,Bronx Park,Safety,2025-03-12,Negative,Roads full of potholes again.,-0.7
+101,SoHo,Parks,2025-01-03,Neutral,Mixed feelings about transport.,-0.05
+102,Harlem,Housing,2025-03-21,Positive,Feeling safer at night recently.,0.54
+103,Queens Village,Transport,2025-02-25,Neutral,Parks are okay but could be better.,-0.01
+104,Chelsea,Parks,2025-01-12,Neutral,Mixed feelings about transport.,0.05
+105,Uptown,Housing,2025-03-23,Negative,Buses keep getting delayed.,-0.39
+106,Chinatown,Infrastructure,2025-02-14,Neutral,Parks are okay but could be better.,-0.07
+107,Uptown,Parks,2025-01-25,Positive,Feeling safer at night recently.,0.67
+108,Harlem,Safety,2025-01-17,Positive,Love how clean my area looks now!,0.92
+109,Chelsea,Sanitation,2025-01-04,Negative,Water leakage not fixed for weeks.,-0.91
+110,Uptown,Safety,2025-01-09,Neutral,Parks are okay but could be better.,-0.01
+111,Chinatown,Infrastructure,2025-03-19,Negative,Water leakage not fixed for weeks.,-0.4
+112,Downtown,Transport,2025-02-11,Neutral,Parks are okay but could be better.,0.02
+113,Brooklyn Heights,Parks,2025-01-31,Negative,Roads full of potholes again.,-0.92
+114,Downtown,Transport,2025-01-24,Neutral,Parks are okay but could be better.,-0.02
+115,Brooklyn Heights,Infrastructure,2025-02-03,Negative,Roads full of potholes again.,-0.59
+116,SoHo,Parks,2025-03-28,Neutral,Average service overall.,0.1
+117,SoHo,Housing,2025-02-13,Positive,Feeling safer at night recently.,0.34
+118,SoHo,Housing,2025-04-01,Positive,Great improvement in road maintenance.,0.99
+119,Uptown,Safety,2025-02-22,Neutral,Parks are okay but could be better.,-0.02
+120,SoHo,Safety,2025-03-18,Positive,Love how clean my area looks now!,0.36
+121,Brooklyn Heights,Infrastructure,2025-02-26,Positive,Feeling safer at night recently.,0.53
+122,Downtown,Housing,2025-01-26,Neutral,Average service overall.,0.02
+123,Bronx Park,Parks,2025-01-03,Negative,Water leakage not fixed for weeks.,-0.83
+124,Queens Village,Housing,2025-01-14,Negative,Too much noise and trash!,-0.77
+125,Brooklyn Heights,Safety,2025-01-08,Positive,Great improvement in road maintenance.,0.88
+126,Downtown,Infrastructure,2025-02-26,Negative,Roads full of potholes again.,-0.2
+127,Downtown,Housing,2025-02-18,Positive,Great improvement in road maintenance.,0.45
+128,Queens Village,Infrastructure,2025-01-12,Neutral,Average service overall.,-0.07
+129,Chelsea,Housing,2025-02-21,Positive,Feeling safer at night recently.,0.83
+130,Bronx Park,Transport,2025-03-17,Negative,Roads full of potholes again.,-0.52
+131,Chelsea,Housing,2025-01-26,Positive,Buses are on time lately!,0.28
+132,Chelsea,Safety,2025-03-22,Negative,Roads full of potholes again.,-0.24
+133,Downtown,Parks,2025-03-03,Neutral,Average service overall.,-0.08
+134,Chinatown,Safety,2025-01-14,Negative,Water leakage not fixed for weeks.,-0.5
+135,Midtown,Safety,2025-02-04,Negative,Too much noise and trash!,-0.66
+136,Brooklyn Heights,Safety,2025-02-14,Negative,Too much noise and trash!,-0.55
+137,Uptown,Infrastructure,2025-02-14,Negative,Too much noise and trash!,-0.83
+138,Chelsea,Sanitation,2025-02-28,Neutral,Average service overall.,0.04
+139,SoHo,Sanitation,2025-01-13,Neutral,Average service overall.,0.09
+140,Uptown,Transport,2025-01-23,Positive,Feeling safer at night recently.,0.57
+141,Harlem,Safety,2025-03-28,Positive,Feeling safer at night recently.,0.62
+142,Chinatown,Sanitation,2025-01-08,Neutral,Parks are okay but could be better.,-0.05
+143,Uptown,Transport,2025-02-07,Positive,Feeling safer at night recently.,0.91
+144,Queens Village,Infrastructure,2025-01-05,Neutral,Parks are okay but could be better.,0.09
+145,Midtown,Safety,2025-01-03,Neutral,Mixed feelings about transport.,0.06
+146,Bronx Park,Parks,2025-01-18,Neutral,Average service overall.,0.01
+147,Queens Village,Infrastructure,2025-02-01,Negative,Roads full of potholes again.,-0.23
+148,Chelsea,Transport,2025-03-25,Positive,Feeling safer at night recently.,0.32
+149,Chinatown,Infrastructure,2025-03-27,Negative,Water leakage not fixed for weeks.,-0.62
+150,Chinatown,Parks,2025-03-11,Negative,Water leakage not fixed for weeks.,-0.57
+151,Chelsea,Infrastructure,2025-02-27,Negative,Roads full of potholes again.,-0.61
+152,Midtown,Transport,2025-02-13,Positive,Buses are on time lately!,0.84
+153,Downtown,Parks,2025-01-19,Negative,Too much noise and trash!,-0.46
+154,Uptown,Parks,2025-01-08,Negative,Buses keep getting delayed.,-0.9
+155,SoHo,Infrastructure,2025-01-21,Negative,Buses keep getting delayed.,-0.72
+156,Chelsea,Parks,2025-01-11,Negative,Too much noise and trash!,-0.73
+157,SoHo,Infrastructure,2025-01-02,Positive,Feeling safer at night recently.,0.65
+158,Uptown,Safety,2025-03-05,Positive,Great improvement in road maintenance.,0.43
+159,Midtown,Parks,2025-01-02,Negative,Too much noise and trash!,-0.91
+160,Downtown,Infrastructure,2025-02-20,Neutral,Average service overall.,0.03
+161,Bronx Park,Safety,2025-01-13,Negative,Water leakage not fixed for weeks.,-0.32
+162,Midtown,Parks,2025-02-15,Negative,Water leakage not fixed for weeks.,-0.25
+163,SoHo,Safety,2025-01-06,Neutral,Average service overall.,0.09
+164,Chinatown,Housing,2025-02-23,Neutral,Average service overall.,0.06
+165,Chinatown,Parks,2025-01-27,Neutral,Average service overall.,-0.07
+166,Harlem,Housing,2025-03-28,Negative,Too much noise and trash!,-0.32
+167,Brooklyn Heights,Transport,2025-03-28,Negative,Water leakage not fixed for weeks.,-0.68
+168,Queens Village,Transport,2025-01-31,Negative,Buses keep getting delayed.,-0.42
+169,Queens Village,Infrastructure,2025-02-05,Negative,Water leakage not fixed for weeks.,-0.57
+170,Chelsea,Sanitation,2025-03-03,Negative,Buses keep getting delayed.,-0.34
+171,SoHo,Housing,2025-02-24,Neutral,Mixed feelings about transport.,-0.01
+172,Queens Village,Housing,2025-03-25,Neutral,Parks are okay but could be better.,-0.09
+173,Queens Village,Transport,2025-01-27,Neutral,Mixed feelings about transport.,0.01
+174,Midtown,Housing,2025-03-14,Neutral,Average service overall.,-0.07
+175,Bronx Park,Sanitation,2025-01-06,Positive,Great improvement in road maintenance.,0.97
+176,SoHo,Safety,2025-02-19,Positive,Buses are on time lately!,0.62
+177,Harlem,Safety,2025-02-24,Positive,Great improvement in road maintenance.,0.64
+178,Bronx Park,Sanitation,2025-03-17,Negative,Too much noise and trash!,-0.27
+179,Harlem,Housing,2025-01-09,Positive,Love how clean my area looks now!,0.7
+180,SoHo,Housing,2025-02-03,Positive,Great improvement in road maintenance.,0.44
+181,Downtown,Housing,2025-03-27,Positive,Buses are on time lately!,0.44
+182,Downtown,Infrastructure,2025-01-07,Negative,Water leakage not fixed for weeks.,-0.6
+183,Queens Village,Parks,2025-03-02,Positive,Love how clean my area looks now!,0.89
+184,Chelsea,Sanitation,2025-02-05,Neutral,Parks are okay but could be better.,0.06
+185,Chinatown,Sanitation,2025-01-14,Positive,Buses are on time lately!,0.97
+186,Midtown,Sanitation,2025-03-26,Negative,Buses keep getting delayed.,-0.94
+187,Queens Village,Sanitation,2025-02-06,Negative,Buses keep getting delayed.,-0.79
+188,Brooklyn Heights,Sanitation,2025-03-18,Negative,Roads full of potholes again.,-0.94
+189,Downtown,Housing,2025-02-02,Neutral,Parks are okay but could be better.,0.05
+190,Queens Village,Infrastructure,2025-02-14,Negative,Roads full of potholes again.,-0.89
+191,Chinatown,Transport,2025-03-13,Neutral,Parks are okay but could be better.,-0.08
+192,Harlem,Housing,2025-03-06,Positive,Great improvement in road maintenance.,0.65
+193,Harlem,Housing,2025-01-15,Neutral,Parks are okay but could be better.,-0.02
+194,Uptown,Parks,2025-03-28,Positive,Great improvement in road maintenance.,0.77
+195,Midtown,Transport,2025-02-09,Negative,Buses keep getting delayed.,-0.61
+196,Chelsea,Sanitation,2025-02-02,Positive,Great improvement in road maintenance.,0.54
+197,Harlem,Transport,2025-02-14,Neutral,Parks are okay but could be better.,-0.01
+198,Uptown,Infrastructure,2025-02-07,Positive,Love how clean my area looks now!,0.9
+199,Downtown,Safety,2025-01-04,Negative,Buses keep getting delayed.,-0.68
+200,Harlem,Housing,2025-03-12,Negative,Buses keep getting delayed.,-0.73
+201,Chelsea,Transport,2025-02-25,Neutral,Parks are okay but could be better.,-0.03
+202,Queens Village,Parks,2025-01-24,Negative,Water leakage not fixed for weeks.,-0.84
+203,Chinatown,Infrastructure,2025-03-01,Neutral,Parks are okay but could be better.,0.07
+204,Brooklyn Heights,Safety,2025-02-28,Positive,Great improvement in road maintenance.,0.32
+205,Harlem,Infrastructure,2025-03-15,Neutral,Parks are okay but could be better.,0.08
+206,Brooklyn Heights,Sanitation,2025-01-18,Negative,Water leakage not fixed for weeks.,-0.77
+207,Brooklyn Heights,Safety,2025-02-22,Negative,Too much noise and trash!,-0.28
+208,Brooklyn Heights,Parks,2025-02-03,Negative,Water leakage not fixed for weeks.,-0.37
+209,Bronx Park,Safety,2025-01-11,Neutral,Average service overall.,0.02
+210,Brooklyn Heights,Parks,2025-03-03,Positive,Buses are on time lately!,0.74
+211,Bronx Park,Sanitation,2025-02-10,Neutral,Mixed feelings about transport.,-0.03
+212,Chinatown,Parks,2025-03-12,Negative,Water leakage not fixed for weeks.,-0.54
+213,Brooklyn Heights,Infrastructure,2025-02-14,Negative,Roads full of potholes again.,-0.77
+214,Uptown,Transport,2025-03-17,Negative,Buses keep getting delayed.,-0.68
+215,Brooklyn Heights,Infrastructure,2025-02-27,Negative,Buses keep getting delayed.,-0.39
+216,SoHo,Housing,2025-03-02,Positive,Great improvement in road maintenance.,0.4
+217,Midtown,Infrastructure,2025-03-15,Positive,Great improvement in road maintenance.,0.87
+218,Uptown,Safety,2025-01-03,Positive,Great improvement in road maintenance.,0.5
+219,Chelsea,Sanitation,2025-01-02,Neutral,Mixed feelings about transport.,0.01
+220,Harlem,Housing,2025-02-11,Positive,Great improvement in road maintenance.,0.95
+221,Chinatown,Housing,2025-03-11,Negative,Roads full of potholes again.,-0.45
+222,Chinatown,Housing,2025-01-08,Neutral,Parks are okay but could be better.,0.03
+223,SoHo,Transport,2025-02-08,Positive,Love how clean my area looks now!,0.77
+224,SoHo,Parks,2025-03-27,Positive,Buses are on time lately!,0.93
+225,SoHo,Safety,2025-02-04,Positive,Feeling safer at night recently.,0.4
+226,SoHo,Sanitation,2025-01-12,Neutral,Average service overall.,0.02
+227,SoHo,Transport,2025-01-27,Positive,Buses are on time lately!,0.52
+228,Downtown,Infrastructure,2025-01-16,Neutral,Average service overall.,-0.1
+229,Queens Village,Sanitation,2025-01-07,Negative,Water leakage not fixed for weeks.,-0.9
+230,Chinatown,Housing,2025-01-22,Neutral,Average service overall.,-0.04
+231,SoHo,Sanitation,2025-01-20,Positive,Love how clean my area looks now!,0.65
+232,Harlem,Sanitation,2025-03-12,Negative,Roads full of potholes again.,-0.29
+233,Downtown,Infrastructure,2025-03-25,Negative,Roads full of potholes again.,-0.37
+234,Uptown,Parks,2025-01-30,Neutral,Average service overall.,0.01
+235,Uptown,Safety,2025-03-06,Positive,Feeling safer at night recently.,0.26
+236,Bronx Park,Housing,2025-03-19,Neutral,Average service overall.,-0.04
+237,Queens Village,Parks,2025-03-30,Negative,Buses keep getting delayed.,-0.71
+238,Uptown,Transport,2025-01-18,Positive,Buses are on time lately!,0.7
+239,SoHo,Housing,2025-02-21,Neutral,Parks are okay but could be better.,-0.09
+240,Chinatown,Safety,2025-01-02,Negative,Buses keep getting delayed.,-0.58
+241,Bronx Park,Transport,2025-01-08,Negative,Roads full of potholes again.,-0.28
+242,Midtown,Infrastructure,2025-03-29,Positive,Buses are on time lately!,0.76
+243,Downtown,Parks,2025-02-06,Positive,Great improvement in road maintenance.,0.84
+244,Midtown,Housing,2025-02-04,Positive,Feeling safer at night recently.,0.75
+245,Midtown,Sanitation,2025-01-21,Negative,Buses keep getting delayed.,-0.83
+246,SoHo,Safety,2025-03-16,Positive,Love how clean my area looks now!,0.29
+247,Midtown,Housing,2025-01-14,Positive,Great improvement in road maintenance.,0.86
+248,Midtown,Sanitation,2025-03-05,Positive,Feeling safer at night recently.,0.76
+249,Uptown,Housing,2025-01-20,Positive,Buses are on time lately!,0.66
+250,Chelsea,Transport,2025-01-16,Positive,Buses are on time lately!,0.35
+251,Bronx Park,Sanitation,2025-01-11,Positive,Love how clean my area looks now!,0.68
+252,Midtown,Sanitation,2025-03-20,Neutral,Average service overall.,-0.09
+253,Queens Village,Housing,2025-02-03,Positive,Love how clean my area looks now!,0.3
+254,Harlem,Infrastructure,2025-03-30,Positive,Love how clean my area looks now!,0.45
+255,Bronx Park,Infrastructure,2025-01-22,Negative,Water leakage not fixed for weeks.,-0.65
+256,Queens Village,Parks,2025-03-22,Negative,Roads full of potholes again.,-0.9
+257,Harlem,Transport,2025-03-19,Positive,Feeling safer at night recently.,0.3
+258,Midtown,Infrastructure,2025-01-09,Positive,Love how clean my area looks now!,0.78
+259,Chelsea,Housing,2025-02-08,Negative,Buses keep getting delayed.,-0.54
+260,Brooklyn Heights,Infrastructure,2025-03-07,Neutral,Average service overall.,0.01
+261,Chinatown,Parks,2025-02-17,Positive,Buses are on time lately!,0.56
+262,Queens Village,Safety,2025-03-22,Positive,Love how clean my area looks now!,0.98
+263,Midtown,Parks,2025-02-06,Positive,Feeling safer at night recently.,0.24
+264,Bronx Park,Sanitation,2025-01-10,Negative,Water leakage not fixed for weeks.,-0.86
+265,Uptown,Sanitation,2025-02-26,Negative,Water leakage not fixed for weeks.,-0.48
+266,Midtown,Infrastructure,2025-04-01,Negative,Roads full of potholes again.,-0.89
+267,Brooklyn Heights,Infrastructure,2025-03-31,Negative,Buses keep getting delayed.,-0.53
+268,Midtown,Parks,2025-02-28,Neutral,Average service overall.,0.01
+269,Midtown,Parks,2025-02-12,Neutral,Parks are okay but could be better.,0.09
+270,Chinatown,Housing,2025-02-13,Neutral,Mixed feelings about transport.,0.08
+271,Uptown,Transport,2025-01-17,Positive,Feeling safer at night recently.,0.96
+272,Queens Village,Housing,2025-02-18,Negative,Too much noise and trash!,-0.91
+273,SoHo,Sanitation,2025-02-02,Negative,Buses keep getting delayed.,-0.31
+274,SoHo,Housing,2025-02-28,Positive,Great improvement in road maintenance.,0.3
+275,Bronx Park,Parks,2025-03-08,Negative,Water leakage not fixed for weeks.,-0.49
+276,Chelsea,Housing,2025-01-23,Neutral,Mixed feelings about transport.,0.04
+277,Midtown,Safety,2025-01-25,Neutral,Parks are okay but could be better.,-0.07
+278,Bronx Park,Transport,2025-02-13,Positive,Feeling safer at night recently.,0.71
+279,Chelsea,Parks,2025-01-03,Neutral,Parks are okay but could be better.,-0.09
+280,Queens Village,Infrastructure,2025-02-24,Negative,Buses keep getting delayed.,-0.77
+281,Queens Village,Housing,2025-01-30,Negative,Buses keep getting delayed.,-0.26
+282,Uptown,Parks,2025-01-05,Positive,Buses are on time lately!,0.34
+283,SoHo,Infrastructure,2025-01-04,Positive,Love how clean my area looks now!,0.25
+284,SoHo,Infrastructure,2025-02-02,Positive,Love how clean my area looks now!,0.55
+285,Bronx Park,Sanitation,2025-01-16,Neutral,Parks are okay but could be better.,0.07
+286,Chinatown,Sanitation,2025-03-23,Neutral,Mixed feelings about transport.,-0.08
+287,SoHo,Parks,2025-01-22,Negative,Water leakage not fixed for weeks.,-0.72
+288,Chinatown,Parks,2025-03-28,Negative,Water leakage not fixed for weeks.,-0.28
+289,Chinatown,Safety,2025-01-31,Neutral,Mixed feelings about transport.,-0.08
+290,Queens Village,Transport,2025-02-05,Positive,Love how clean my area looks now!,0.45
+291,Uptown,Transport,2025-01-06,Positive,Great improvement in road maintenance.,0.82
+292,Bronx Park,Parks,2025-03-16,Negative,Buses keep getting delayed.,-0.57
+293,Harlem,Sanitation,2025-02-07,Negative,Buses keep getting delayed.,-0.33
+294,Bronx Park,Housing,2025-03-01,Negative,Too much noise and trash!,-0.91
+295,Chinatown,Safety,2025-02-19,Neutral,Average service overall.,0.08
+296,Chelsea,Transport,2025-02-04,Positive,Love how clean my area looks now!,0.95
+297,Chelsea,Parks,2025-03-24,Negative,Roads full of potholes again.,-0.88
+298,Uptown,Sanitation,2025-01-09,Negative,Buses keep getting delayed.,-0.97
+299,Queens Village,Sanitation,2025-01-25,Negative,Too much noise and trash!,-0.21
+300,Queens Village,Sanitation,2025-02-07,Positive,Buses are on time lately!,0.59
+301,Chinatown,Housing,2025-03-17,Neutral,Parks are okay but could be better.,0.01
+302,Chinatown,Infrastructure,2025-01-16,Negative,Too much noise and trash!,-0.51
+303,Brooklyn Heights,Housing,2025-03-16,Negative,Too much noise and trash!,-0.37
+304,Brooklyn Heights,Sanitation,2025-02-08,Negative,Water leakage not fixed for weeks.,-0.35
+305,Chinatown,Parks,2025-02-07,Positive,Feeling safer at night recently.,0.36
+306,SoHo,Safety,2025-03-15,Positive,Love how clean my area looks now!,0.39
+307,Bronx Park,Housing,2025-01-27,Positive,Great improvement in road maintenance.,0.9
+308,SoHo,Parks,2025-03-11,Negative,Too much noise and trash!,-0.34
+309,Queens Village,Sanitation,2025-03-20,Negative,Buses keep getting delayed.,-0.51
+310,Harlem,Safety,2025-02-03,Negative,Water leakage not fixed for weeks.,-0.2
+311,Bronx Park,Transport,2025-01-29,Positive,Feeling safer at night recently.,0.79
+312,SoHo,Transport,2025-03-31,Negative,Roads full of potholes again.,-0.83
+313,SoHo,Parks,2025-01-29,Neutral,Parks are okay but could be better.,0.07
+314,Downtown,Safety,2025-02-01,Neutral,Mixed feelings about transport.,-0.02
+315,Bronx Park,Parks,2025-01-10,Negative,Too much noise and trash!,-0.97
+316,Harlem,Safety,2025-03-31,Positive,Buses are on time lately!,0.46
+317,Uptown,Safety,2025-02-26,Positive,Buses are on time lately!,0.81
+318,Uptown,Parks,2025-02-25,Positive,Buses are on time lately!,0.97
+319,SoHo,Safety,2025-02-04,Negative,Too much noise and trash!,-0.78
+320,Chinatown,Housing,2025-02-26,Negative,Too much noise and trash!,-0.8
+321,Harlem,Sanitation,2025-02-14,Positive,Great improvement in road maintenance.,0.65
+322,Harlem,Safety,2025-01-22,Negative,Buses keep getting delayed.,-0.35
+323,Queens Village,Housing,2025-02-28,Negative,Water leakage not fixed for weeks.,-0.4
+324,Chelsea,Safety,2025-01-06,Negative,Water leakage not fixed for weeks.,-0.55
+325,Downtown,Housing,2025-02-25,Neutral,Mixed feelings about transport.,0.03
+326,Queens Village,Parks,2025-03-31,Negative,Water leakage not fixed for weeks.,-0.81
+327,Harlem,Transport,2025-03-08,Neutral,Average service overall.,-0.01
+328,Midtown,Infrastructure,2025-01-15,Positive,Feeling safer at night recently.,0.4
+329,Chinatown,Safety,2025-02-22,Positive,Great improvement in road maintenance.,0.91
+330,Harlem,Infrastructure,2025-03-02,Neutral,Parks are okay but could be better.,-0.08
+331,Downtown,Safety,2025-01-24,Neutral,Parks are okay but could be better.,0.04
+332,Harlem,Parks,2025-02-17,Negative,Buses keep getting delayed.,-0.79
+333,Bronx Park,Parks,2025-03-21,Positive,Buses are on time lately!,0.58
+334,Bronx Park,Housing,2025-02-17,Negative,Buses keep getting delayed.,-0.76
+335,Brooklyn Heights,Safety,2025-03-31,Neutral,Average service overall.,-0.04
+336,Downtown,Parks,2025-03-22,Positive,Buses are on time lately!,0.41
+337,SoHo,Parks,2025-03-23,Positive,Great improvement in road maintenance.,0.8
+338,Chelsea,Safety,2025-03-30,Negative,Buses keep getting delayed.,-0.71
+339,SoHo,Housing,2025-01-07,Neutral,Parks are okay but could be better.,0.05
+340,Chelsea,Housing,2025-01-07,Positive,Great improvement in road maintenance.,0.56
+341,Chelsea,Housing,2025-02-15,Positive,Buses are on time lately!,0.64
+342,Chelsea,Housing,2025-03-24,Neutral,Average service overall.,0.01
+343,Uptown,Transport,2025-03-27,Positive,Buses are on time lately!,0.98
+344,Chelsea,Safety,2025-03-19,Negative,Buses keep getting delayed.,-0.71
+345,Harlem,Transport,2025-01-24,Positive,Buses are on time lately!,0.37
+346,Midtown,Parks,2025-01-02,Neutral,Average service overall.,0.08
+347,Downtown,Transport,2025-01-15,Negative,Too much noise and trash!,-0.86
+348,Midtown,Housing,2025-01-16,Negative,Roads full of potholes again.,-0.33
+349,Brooklyn Heights,Parks,2025-03-20,Negative,Roads full of potholes again.,-0.88
+350,Harlem,Transport,2025-03-25,Positive,Love how clean my area looks now!,0.73
+351,Chelsea,Transport,2025-03-14,Positive,Great improvement in road maintenance.,0.32
+352,Uptown,Safety,2025-01-29,Neutral,Mixed feelings about transport.,0.08
+353,Queens Village,Transport,2025-02-06,Negative,Roads full of potholes again.,-0.55
+354,SoHo,Parks,2025-03-26,Negative,Buses keep getting delayed.,-0.74
+355,Bronx Park,Housing,2025-01-05,Negative,Water leakage not fixed for weeks.,-0.89
+356,Downtown,Safety,2025-03-26,Negative,Buses keep getting delayed.,-0.7
+357,Midtown,Transport,2025-03-21,Neutral,Average service overall.,0.04
+358,Harlem,Safety,2025-02-12,Neutral,Parks are okay but could be better.,-0.02
+359,Queens Village,Infrastructure,2025-02-09,Neutral,Average service overall.,-0.05
+360,Chinatown,Safety,2025-03-21,Positive,Feeling safer at night recently.,0.66
+361,Chinatown,Housing,2025-01-10,Neutral,Average service overall.,-0.02
+362,Bronx Park,Infrastructure,2025-01-15,Neutral,Parks are okay but could be better.,-0.07
+363,Chinatown,Infrastructure,2025-02-17,Positive,Love how clean my area looks now!,0.32
+364,SoHo,Safety,2025-03-17,Positive,Great improvement in road maintenance.,0.77
+365,Brooklyn Heights,Parks,2025-02-19,Positive,Love how clean my area looks now!,0.98
+366,Chinatown,Housing,2025-04-01,Positive,Love how clean my area looks now!,0.39
+367,Bronx Park,Parks,2025-03-10,Negative,Water leakage not fixed for weeks.,-0.38
+368,Brooklyn Heights,Housing,2025-02-09,Neutral,Parks are okay but could be better.,-0.08
+369,SoHo,Housing,2025-01-15,Positive,Buses are on time lately!,0.51
+370,Bronx Park,Parks,2025-03-09,Negative,Water leakage not fixed for weeks.,-0.59
+371,Chinatown,Sanitation,2025-03-16,Negative,Roads full of potholes again.,-0.79
+372,Chelsea,Infrastructure,2025-01-17,Positive,Great improvement in road maintenance.,0.62
+373,Downtown,Safety,2025-03-07,Neutral,Mixed feelings about transport.,0.08
+374,Chinatown,Parks,2025-01-01,Positive,Love how clean my area looks now!,0.96
+375,Bronx Park,Parks,2025-01-24,Neutral,Mixed feelings about transport.,-0.08
+376,Downtown,Safety,2025-02-05,Negative,Buses keep getting delayed.,-0.78
+377,Downtown,Infrastructure,2025-03-12,Negative,Roads full of potholes again.,-0.22
+378,Brooklyn Heights,Safety,2025-01-12,Negative,Buses keep getting delayed.,-0.78
+379,SoHo,Housing,2025-03-14,Positive,Buses are on time lately!,0.75
+380,Chinatown,Sanitation,2025-01-17,Neutral,Average service overall.,-0.05
+381,Queens Village,Housing,2025-03-26,Positive,Feeling safer at night recently.,0.49
+382,Chelsea,Sanitation,2025-01-12,Neutral,Mixed feelings about transport.,-0.06
+383,SoHo,Safety,2025-03-08,Positive,Love how clean my area looks now!,0.89
+384,Queens Village,Housing,2025-02-26,Neutral,Mixed feelings about transport.,0.08
+385,Queens Village,Infrastructure,2025-02-05,Neutral,Average service overall.,-0.04
+386,Midtown,Housing,2025-02-07,Negative,Buses keep getting delayed.,-0.34
+387,Brooklyn Heights,Parks,2025-01-08,Positive,Feeling safer at night recently.,0.49
+388,Uptown,Sanitation,2025-02-08,Positive,Buses are on time lately!,0.28
+389,Harlem,Sanitation,2025-01-02,Neutral,Mixed feelings about transport.,0.05
+390,Harlem,Infrastructure,2025-01-02,Positive,Buses are on time lately!,0.68
+391,Brooklyn Heights,Sanitation,2025-03-23,Negative,Too much noise and trash!,-0.78
+392,Brooklyn Heights,Sanitation,2025-01-28,Negative,Roads full of potholes again.,-0.8
+393,Queens Village,Infrastructure,2025-03-04,Negative,Buses keep getting delayed.,-0.22
+394,Brooklyn Heights,Housing,2025-01-19,Neutral,Average service overall.,0.07
+395,Queens Village,Safety,2025-01-23,Negative,Water leakage not fixed for weeks.,-0.35
+396,SoHo,Housing,2025-02-20,Negative,Roads full of potholes again.,-0.9
+397,Uptown,Parks,2025-03-13,Positive,Great improvement in road maintenance.,0.8
+398,Midtown,Parks,2025-01-31,Positive,Great improvement in road maintenance.,0.37
+399,Queens Village,Sanitation,2025-01-02,Negative,Buses keep getting delayed.,-0.22
+400,Brooklyn Heights,Parks,2025-02-13,Positive,Feeling safer at night recently.,0.24
+401,Downtown,Safety,2025-03-10,Neutral,Average service overall.,-0.03
+402,Chinatown,Sanitation,2025-01-01,Positive,Feeling safer at night recently.,0.54
+403,Harlem,Parks,2025-02-01,Positive,Buses are on time lately!,0.86
+404,Uptown,Transport,2025-04-01,Positive,Buses are on time lately!,0.81
+405,Chinatown,Transport,2025-03-20,Neutral,Average service overall.,-0.03
+406,Bronx Park,Transport,2025-01-31,Negative,Roads full of potholes again.,-0.55
+407,Brooklyn Heights,Transport,2025-01-14,Neutral,Mixed feelings about transport.,0.07
+408,Queens Village,Housing,2025-01-24,Negative,Buses keep getting delayed.,-0.99
+409,Midtown,Transport,2025-01-13,Neutral,Average service overall.,0.06
+410,Downtown,Sanitation,2025-03-04,Negative,Buses keep getting delayed.,-0.24
+411,Midtown,Infrastructure,2025-02-09,Negative,Buses keep getting delayed.,-0.97
+412,Chinatown,Housing,2025-03-20,Negative,Buses keep getting delayed.,-0.96
+413,Downtown,Infrastructure,2025-02-26,Negative,Roads full of potholes again.,-0.72
+414,Chelsea,Sanitation,2025-01-22,Negative,Too much noise and trash!,-0.93
+415,Harlem,Sanitation,2025-02-02,Negative,Water leakage not fixed for weeks.,-0.62
+416,Brooklyn Heights,Safety,2025-03-25,Neutral,Parks are okay but could be better.,0.05
+417,Bronx Park,Housing,2025-03-08,Neutral,Average service overall.,0.01
+418,Chinatown,Infrastructure,2025-03-04,Negative,Water leakage not fixed for weeks.,-0.84
+419,Queens Village,Transport,2025-01-19,Neutral,Mixed feelings about transport.,0.03
+420,Harlem,Sanitation,2025-01-26,Negative,Buses keep getting delayed.,-0.45
+421,Bronx Park,Transport,2025-02-13,Negative,Buses keep getting delayed.,-0.25
+422,Midtown,Infrastructure,2025-03-27,Positive,Love how clean my area looks now!,0.32
+423,Harlem,Housing,2025-02-07,Negative,Roads full of potholes again.,-0.45
+424,Bronx Park,Parks,2025-03-17,Positive,Love how clean my area looks now!,0.93
+425,Bronx Park,Parks,2025-01-31,Neutral,Average service overall.,0.0
+426,Midtown,Sanitation,2025-02-16,Neutral,Parks are okay but could be better.,-0.03
+427,Bronx Park,Safety,2025-01-02,Neutral,Parks are okay but could be better.,-0.07
+428,Uptown,Transport,2025-03-26,Positive,Feeling safer at night recently.,0.89
+429,Downtown,Sanitation,2025-03-02,Negative,Too much noise and trash!,-0.68
+430,Uptown,Safety,2025-02-21,Positive,Buses are on time lately!,0.94
+431,Midtown,Transport,2025-03-21,Negative,Roads full of potholes again.,-0.32
+432,SoHo,Infrastructure,2025-02-20,Neutral,Mixed feelings about transport.,-0.02
+433,Harlem,Parks,2025-03-27,Positive,Love how clean my area looks now!,0.66
+434,Chelsea,Safety,2025-03-01,Positive,Great improvement in road maintenance.,0.22
+435,Queens Village,Transport,2025-03-12,Negative,Roads full of potholes again.,-0.79
+436,Queens Village,Sanitation,2025-01-25,Negative,Too much noise and trash!,-0.43
+437,Chinatown,Transport,2025-03-19,Positive,Great improvement in road maintenance.,0.74
+438,Chinatown,Sanitation,2025-03-05,Positive,Feeling safer at night recently.,0.48
+439,Midtown,Parks,2025-03-08,Negative,Water leakage not fixed for weeks.,-0.35
+440,Chinatown,Parks,2025-01-10,Neutral,Mixed feelings about transport.,-0.05
+441,Queens Village,Transport,2025-02-09,Positive,Feeling safer at night recently.,0.57
+442,Uptown,Transport,2025-01-24,Positive,Feeling safer at night recently.,0.58
+443,Chelsea,Sanitation,2025-02-23,Neutral,Average service overall.,-0.03
+444,Queens Village,Sanitation,2025-03-26,Negative,Roads full of potholes again.,-0.24
+445,Uptown,Safety,2025-01-05,Positive,Buses are on time lately!,0.76
+446,SoHo,Safety,2025-03-07,Positive,Love how clean my area looks now!,0.63
+447,Midtown,Safety,2025-01-11,Positive,Buses are on time lately!,0.61
+448,Brooklyn Heights,Transport,2025-02-25,Negative,Buses keep getting delayed.,-0.87
+449,SoHo,Housing,2025-02-24,Neutral,Average service overall.,-0.03
+450,SoHo,Housing,2025-01-03,Neutral,Parks are okay but could be better.,0.03
+451,Queens Village,Housing,2025-02-04,Negative,Roads full of potholes again.,-0.26
+452,Midtown,Housing,2025-03-15,Neutral,Average service overall.,0.06
+453,Downtown,Safety,2025-03-06,Negative,Roads full of potholes again.,-0.76
+454,Bronx Park,Transport,2025-01-31,Positive,Love how clean my area looks now!,0.55
+455,SoHo,Housing,2025-03-13,Neutral,Mixed feelings about transport.,-0.08
+456,Chinatown,Parks,2025-02-25,Positive,Feeling safer at night recently.,0.28
+457,Uptown,Infrastructure,2025-01-14,Positive,Buses are on time lately!,0.58
+458,Downtown,Parks,2025-03-29,Negative,Too much noise and trash!,-0.58
+459,Midtown,Transport,2025-02-24,Negative,Water leakage not fixed for weeks.,-0.79
+460,Brooklyn Heights,Transport,2025-02-26,Negative,Buses keep getting delayed.,-0.49
+461,Chelsea,Infrastructure,2025-01-11,Neutral,Mixed feelings about transport.,0.04
+462,Downtown,Sanitation,2025-03-04,Neutral,Mixed feelings about transport.,-0.04
+463,Brooklyn Heights,Sanitation,2025-03-03,Negative,Water leakage not fixed for weeks.,-0.39
+464,Queens Village,Sanitation,2025-03-23,Neutral,Mixed feelings about transport.,-0.06
+465,Harlem,Safety,2025-02-21,Negative,Roads full of potholes again.,-0.56
+466,Bronx Park,Sanitation,2025-02-04,Negative,Buses keep getting delayed.,-0.36
+467,Queens Village,Safety,2025-01-31,Neutral,Average service overall.,0.01
+468,Midtown,Safety,2025-02-23,Positive,Buses are on time lately!,0.93
+469,Harlem,Sanitation,2025-01-18,Neutral,Mixed feelings about transport.,-0.09
+470,Brooklyn Heights,Sanitation,2025-02-13,Neutral,Mixed feelings about transport.,0.02
+471,Harlem,Infrastructure,2025-01-27,Positive,Buses are on time lately!,0.65
+472,Chelsea,Housing,2025-02-15,Positive,Buses are on time lately!,0.73
+473,Chinatown,Infrastructure,2025-02-26,Positive,Love how clean my area looks now!,0.87
+474,Chinatown,Safety,2025-02-27,Neutral,Average service overall.,0.05
+475,Queens Village,Infrastructure,2025-01-29,Negative,Roads full of potholes again.,-0.37
+476,Queens Village,Safety,2025-02-09,Positive,Feeling safer at night recently.,0.43
+477,Midtown,Transport,2025-01-03,Neutral,Mixed feelings about transport.,-0.02
+478,Midtown,Safety,2025-02-28,Positive,Great improvement in road maintenance.,0.7
+479,Uptown,Safety,2025-02-25,Positive,Buses are on time lately!,0.64
+480,Chelsea,Infrastructure,2025-01-23,Negative,Roads full of potholes again.,-0.23
+481,Midtown,Housing,2025-01-22,Neutral,Parks are okay but could be better.,-0.06
+482,SoHo,Transport,2025-03-17,Neutral,Average service overall.,-0.03
+483,Chelsea,Parks,2025-02-09,Neutral,Parks are okay but could be better.,0.01
+484,Uptown,Parks,2025-03-06,Neutral,Parks are okay but could be better.,0.07
+485,Chinatown,Housing,2025-03-17,Neutral,Average service overall.,0.09
+486,Downtown,Parks,2025-01-07,Negative,Too much noise and trash!,-0.73
+487,Uptown,Transport,2025-03-31,Negative,Roads full of potholes again.,-0.95
+488,Uptown,Sanitation,2025-02-07,Neutral,Average service overall.,-0.02
+489,Queens Village,Transport,2025-01-07,Negative,Water leakage not fixed for weeks.,-0.68
+490,Bronx Park,Infrastructure,2025-03-26,Positive,Love how clean my area looks now!,0.99
+491,Harlem,Safety,2025-01-25,Negative,Water leakage not fixed for weeks.,-0.66
+492,Chinatown,Safety,2025-02-18,Positive,Love how clean my area looks now!,0.44
+493,Brooklyn Heights,Infrastructure,2025-03-22,Neutral,Parks are okay but could be better.,-0.03
+494,Brooklyn Heights,Infrastructure,2025-01-20,Positive,Feeling safer at night recently.,0.52
+495,Midtown,Safety,2025-03-01,Negative,Water leakage not fixed for weeks.,-0.34
+496,Chinatown,Housing,2025-01-09,Negative,Buses keep getting delayed.,-0.94
+497,SoHo,Sanitation,2025-02-19,Negative,Water leakage not fixed for weeks.,-0.75
+498,Midtown,Sanitation,2025-01-25,Negative,Buses keep getting delayed.,-0.23
+499,Midtown,Sanitation,2025-01-16,Neutral,Parks are okay but could be better.,-0.07
+500,Uptown,Infrastructure,2025-03-27,Negative,Too much noise and trash!,-0.41
+501,Chinatown,Safety,2025-01-23,Negative,Water leakage not fixed for weeks.,-0.71
+502,Harlem,Housing,2025-03-31,Neutral,Parks are okay but could be better.,0.02
+503,Midtown,Safety,2025-03-02,Positive,Buses are on time lately!,0.28
+504,Bronx Park,Safety,2025-03-19,Negative,Buses keep getting delayed.,-0.75
+505,Chelsea,Housing,2025-02-11,Negative,Too much noise and trash!,-0.6
+506,SoHo,Transport,2025-03-12,Negative,Too much noise and trash!,-0.81
+507,SoHo,Housing,2025-02-06,Negative,Buses keep getting delayed.,-0.57
+508,Midtown,Transport,2025-01-21,Negative,Roads full of potholes again.,-0.82
+509,Bronx Park,Parks,2025-01-31,Negative,Buses keep getting delayed.,-0.48
+510,Chelsea,Transport,2025-01-11,Negative,Buses keep getting delayed.,-0.28
+511,Downtown,Sanitation,2025-03-18,Negative,Buses keep getting delayed.,-0.93
+512,Queens Village,Sanitation,2025-01-19,Neutral,Mixed feelings about transport.,-0.06
+513,Queens Village,Housing,2025-03-21,Negative,Buses keep getting delayed.,-0.32
+514,Queens Village,Sanitation,2025-02-25,Negative,Buses keep getting delayed.,-0.49
+515,Uptown,Sanitation,2025-02-01,Negative,Roads full of potholes again.,-0.94
+516,SoHo,Parks,2025-02-25,Positive,Feeling safer at night recently.,0.59
+517,Brooklyn Heights,Sanitation,2025-03-05,Positive,Great improvement in road maintenance.,0.37
+518,Brooklyn Heights,Infrastructure,2025-02-04,Positive,Buses are on time lately!,0.36
+519,Uptown,Infrastructure,2025-03-11,Neutral,Average service overall.,0.09
+520,Midtown,Infrastructure,2025-01-18,Neutral,Parks are okay but could be better.,0.05
+521,Chinatown,Transport,2025-01-04,Positive,Love how clean my area looks now!,0.76
+522,Chinatown,Housing,2025-01-04,Positive,Great improvement in road maintenance.,0.39
+523,Queens Village,Housing,2025-03-10,Neutral,Average service overall.,-0.08
+524,Chinatown,Safety,2025-02-24,Positive,Feeling safer at night recently.,0.9
+525,Midtown,Parks,2025-01-15,Positive,Buses are on time lately!,0.2
+526,Downtown,Infrastructure,2025-03-19,Neutral,Mixed feelings about transport.,-0.02
+527,Uptown,Infrastructure,2025-03-29,Positive,Buses are on time lately!,0.42
+528,Downtown,Sanitation,2025-03-14,Neutral,Average service overall.,0.01
+529,SoHo,Infrastructure,2025-02-27,Positive,Love how clean my area looks now!,0.4
+530,Chinatown,Sanitation,2025-01-26,Negative,Buses keep getting delayed.,-0.75
+531,Chelsea,Sanitation,2025-03-09,Positive,Love how clean my area looks now!,0.88
+532,Queens Village,Safety,2025-03-26,Neutral,Parks are okay but could be better.,0.02
+533,Uptown,Transport,2025-01-23,Positive,Great improvement in road maintenance.,0.32
+534,Queens Village,Sanitation,2025-02-13,Neutral,Average service overall.,0.05
+535,Chinatown,Sanitation,2025-03-16,Positive,Buses are on time lately!,0.37
+536,Harlem,Housing,2025-01-01,Positive,Feeling safer at night recently.,0.55
+537,Chinatown,Safety,2025-01-05,Neutral,Parks are okay but could be better.,0.03
+538,Uptown,Sanitation,2025-01-18,Neutral,Parks are okay but could be better.,-0.05
+539,Brooklyn Heights,Parks,2025-02-27,Negative,Too much noise and trash!,-0.69
+540,Uptown,Transport,2025-02-23,Neutral,Parks are okay but could be better.,0.05
+541,Bronx Park,Parks,2025-03-25,Positive,Feeling safer at night recently.,0.95
+542,Chelsea,Infrastructure,2025-01-14,Negative,Water leakage not fixed for weeks.,-0.58
+543,Chinatown,Transport,2025-02-09,Positive,Great improvement in road maintenance.,0.21
+544,Bronx Park,Infrastructure,2025-02-24,Negative,Roads full of potholes again.,-0.73
+545,Brooklyn Heights,Housing,2025-02-10,Positive,Love how clean my area looks now!,0.52
+546,Midtown,Sanitation,2025-01-19,Negative,Water leakage not fixed for weeks.,-0.73
+547,Midtown,Safety,2025-01-24,Neutral,Parks are okay but could be better.,-0.01
+548,Chelsea,Parks,2025-02-01,Positive,Buses are on time lately!,0.71
+549,SoHo,Infrastructure,2025-02-12,Neutral,Parks are okay but could be better.,-0.08
+550,Chelsea,Sanitation,2025-02-02,Positive,Buses are on time lately!,0.42
+551,Chelsea,Parks,2025-03-02,Negative,Too much noise and trash!,-0.59
+552,Chelsea,Parks,2025-01-03,Neutral,Mixed feelings about transport.,-0.04
+553,Chelsea,Housing,2025-02-23,Positive,Love how clean my area looks now!,0.99
+554,Chelsea,Housing,2025-02-19,Positive,Buses are on time lately!,0.55
+555,Downtown,Infrastructure,2025-03-03,Positive,Great improvement in road maintenance.,0.9
+556,Brooklyn Heights,Sanitation,2025-01-27,Negative,Buses keep getting delayed.,-0.28
+557,Uptown,Safety,2025-02-26,Positive,Great improvement in road maintenance.,0.87
+558,Chinatown,Infrastructure,2025-01-24,Neutral,Parks are okay but could be better.,-0.09
+559,Bronx Park,Parks,2025-02-21,Negative,Roads full of potholes again.,-0.24
+560,Chelsea,Parks,2025-03-06,Positive,Love how clean my area looks now!,0.3
+561,SoHo,Transport,2025-03-30,Negative,Buses keep getting delayed.,-0.97
+562,Queens Village,Sanitation,2025-03-20,Negative,Too much noise and trash!,-0.67
+563,Chinatown,Transport,2025-02-26,Positive,Buses are on time lately!,0.36
+564,Queens Village,Housing,2025-03-15,Neutral,Parks are okay but could be better.,-0.06
+565,Bronx Park,Safety,2025-03-19,Negative,Buses keep getting delayed.,-0.77
+566,Bronx Park,Infrastructure,2025-01-22,Neutral,Average service overall.,-0.05
+567,Chinatown,Parks,2025-01-03,Positive,Love how clean my area looks now!,0.75
+568,SoHo,Sanitation,2025-01-08,Positive,Buses are on time lately!,0.35
+569,Downtown,Parks,2025-02-17,Negative,Too much noise and trash!,-0.57
+570,Midtown,Housing,2025-02-14,Neutral,Average service overall.,0.1
+571,Bronx Park,Transport,2025-01-10,Negative,Too much noise and trash!,-0.65
+572,SoHo,Transport,2025-01-19,Positive,Feeling safer at night recently.,0.71
+573,Bronx Park,Infrastructure,2025-01-15,Negative,Buses keep getting delayed.,-0.22
+574,Harlem,Sanitation,2025-03-28,Negative,Roads full of potholes again.,-0.89
+575,Midtown,Housing,2025-01-06,Positive,Feeling safer at night recently.,0.53
+576,Bronx Park,Sanitation,2025-03-21,Positive,Feeling safer at night recently.,0.88
+577,SoHo,Infrastructure,2025-03-31,Negative,Buses keep getting delayed.,-0.25
+578,Bronx Park,Housing,2025-01-11,Negative,Buses keep getting delayed.,-0.52
+579,Queens Village,Housing,2025-02-28,Negative,Too much noise and trash!,-0.89
+580,Chinatown,Transport,2025-01-29,Negative,Buses keep getting delayed.,-0.28
+581,Chinatown,Transport,2025-01-19,Neutral,Mixed feelings about transport.,-0.07
+582,Bronx Park,Transport,2025-01-05,Neutral,Mixed feelings about transport.,-0.03
+583,SoHo,Parks,2025-03-09,Neutral,Parks are okay but could be better.,-0.02
+584,Queens Village,Safety,2025-03-25,Negative,Water leakage not fixed for weeks.,-0.64
+585,Downtown,Transport,2025-02-03,Negative,Roads full of potholes again.,-0.37
+586,Downtown,Safety,2025-03-12,Neutral,Mixed feelings about transport.,0.06
+587,Queens Village,Safety,2025-01-14,Negative,Water leakage not fixed for weeks.,-0.42
+588,Uptown,Sanitation,2025-01-23,Neutral,Mixed feelings about transport.,-0.1
+589,SoHo,Infrastructure,2025-03-24,Positive,Buses are on time lately!,0.65
+590,Downtown,Parks,2025-01-15,Neutral,Parks are okay but could be better.,0.05
+591,Uptown,Safety,2025-01-11,Negative,Roads full of potholes again.,-0.64
+592,SoHo,Parks,2025-02-09,Positive,Great improvement in road maintenance.,0.96
+593,Queens Village,Sanitation,2025-01-17,Negative,Too much noise and trash!,-0.34
+594,Chelsea,Transport,2025-01-13,Negative,Roads full of potholes again.,-0.49
+595,Uptown,Housing,2025-02-08,Positive,Buses are on time lately!,0.25
+596,Uptown,Safety,2025-01-03,Negative,Too much noise and trash!,-0.48
+597,Bronx Park,Infrastructure,2025-03-25,Negative,Roads full of potholes again.,-0.27
+598,Brooklyn Heights,Housing,2025-03-25,Neutral,Average service overall.,-0.02
+599,Brooklyn Heights,Sanitation,2025-01-14,Neutral,Parks are okay but could be better.,0.07
+600,SoHo,Parks,2025-03-17,Negative,Buses keep getting delayed.,-0.75
+601,Bronx Park,Transport,2025-03-16,Neutral,Mixed feelings about transport.,0.01
+602,Chinatown,Parks,2025-02-15,Positive,Love how clean my area looks now!,0.72
+603,Midtown,Infrastructure,2025-02-07,Positive,Buses are on time lately!,0.74
+604,Chelsea,Safety,2025-03-15,Positive,Feeling safer at night recently.,0.91
+605,Midtown,Infrastructure,2025-03-16,Neutral,Parks are okay but could be better.,-0.05
+606,Uptown,Parks,2025-02-09,Negative,Water leakage not fixed for weeks.,-0.79
+607,Harlem,Parks,2025-03-26,Negative,Buses keep getting delayed.,-0.44
+608,Downtown,Housing,2025-01-05,Neutral,Parks are okay but could be better.,-0.06
+609,Downtown,Infrastructure,2025-03-24,Neutral,Mixed feelings about transport.,-0.01
+610,Bronx Park,Infrastructure,2025-02-01,Negative,Water leakage not fixed for weeks.,-0.98
+611,Brooklyn Heights,Infrastructure,2025-02-04,Positive,Great improvement in road maintenance.,0.31
+612,Harlem,Transport,2025-03-08,Negative,Buses keep getting delayed.,-0.46
+613,Bronx Park,Parks,2025-03-23,Negative,Roads full of potholes again.,-0.4
+614,Uptown,Sanitation,2025-01-09,Negative,Too much noise and trash!,-0.91
+615,Harlem,Transport,2025-01-13,Positive,Buses are on time lately!,0.38
+616,Downtown,Transport,2025-03-02,Neutral,Average service overall.,-0.08
+617,SoHo,Transport,2025-03-09,Positive,Feeling safer at night recently.,0.55
+618,Uptown,Housing,2025-03-18,Positive,Love how clean my area looks now!,0.3
+619,Bronx Park,Sanitation,2025-03-01,Neutral,Mixed feelings about transport.,-0.01
+620,Chinatown,Infrastructure,2025-03-24,Negative,Too much noise and trash!,-0.41
+621,Queens Village,Housing,2025-02-11,Negative,Water leakage not fixed for weeks.,-0.45
+622,Uptown,Parks,2025-02-14,Negative,Water leakage not fixed for weeks.,-0.78
+623,Uptown,Safety,2025-02-12,Negative,Too much noise and trash!,-0.46
+624,Chinatown,Housing,2025-02-01,Positive,Feeling safer at night recently.,0.94
+625,Chelsea,Safety,2025-03-10,Neutral,Parks are okay but could be better.,-0.03
+626,SoHo,Parks,2025-03-20,Positive,Buses are on time lately!,0.46
+627,Chinatown,Sanitation,2025-01-20,Positive,Love how clean my area looks now!,0.66
+628,Midtown,Safety,2025-01-22,Neutral,Average service overall.,-0.05
+629,Midtown,Transport,2025-01-21,Negative,Buses keep getting delayed.,-0.48
+630,Uptown,Housing,2025-02-07,Neutral,Average service overall.,0.07
+631,Chelsea,Safety,2025-01-06,Positive,Buses are on time lately!,0.57
+632,Downtown,Parks,2025-01-06,Positive,Love how clean my area looks now!,0.74
+633,Chelsea,Transport,2025-03-15,Positive,Feeling safer at night recently.,0.72
+634,Midtown,Safety,2025-02-12,Positive,Buses are on time lately!,0.23
+635,Chelsea,Parks,2025-02-08,Positive,Love how clean my area looks now!,0.35
+636,Chelsea,Sanitation,2025-01-21,Neutral,Mixed feelings about transport.,0.08
+637,SoHo,Parks,2025-03-01,Neutral,Mixed feelings about transport.,0.09
+638,Uptown,Sanitation,2025-02-25,Positive,Buses are on time lately!,0.82
+639,SoHo,Transport,2025-01-29,Neutral,Mixed feelings about transport.,0.08
+640,Downtown,Parks,2025-02-07,Neutral,Parks are okay but could be better.,-0.04
+641,Downtown,Infrastructure,2025-01-08,Negative,Water leakage not fixed for weeks.,-0.8
+642,Midtown,Housing,2025-03-21,Positive,Love how clean my area looks now!,0.51
+643,Bronx Park,Infrastructure,2025-02-04,Negative,Roads full of potholes again.,-0.96
+644,Chinatown,Infrastructure,2025-02-04,Negative,Water leakage not fixed for weeks.,-0.35
+645,Brooklyn Heights,Infrastructure,2025-02-01,Negative,Water leakage not fixed for weeks.,-0.21
+646,Uptown,Housing,2025-02-24,Positive,Feeling safer at night recently.,0.86
+647,Bronx Park,Infrastructure,2025-01-19,Negative,Roads full of potholes again.,-0.56
+648,Uptown,Sanitation,2025-01-11,Positive,Great improvement in road maintenance.,0.44
+649,Chinatown,Parks,2025-01-10,Positive,Feeling safer at night recently.,0.36
+650,Chinatown,Transport,2025-02-11,Positive,Buses are on time lately!,0.49
+651,Harlem,Infrastructure,2025-03-25,Negative,Water leakage not fixed for weeks.,-0.47
+652,SoHo,Infrastructure,2025-01-11,Negative,Buses keep getting delayed.,-0.64
+653,Midtown,Transport,2025-04-01,Positive,Love how clean my area looks now!,0.95
+654,Harlem,Transport,2025-03-17,Neutral,Parks are okay but could be better.,0.07
+655,Downtown,Infrastructure,2025-02-01,Negative,Roads full of potholes again.,-0.92
+656,Brooklyn Heights,Sanitation,2025-02-22,Neutral,Parks are okay but could be better.,-0.07
+657,Midtown,Transport,2025-02-01,Positive,Love how clean my area looks now!,0.74
+658,Downtown,Parks,2025-01-12,Neutral,Parks are okay but could be better.,-0.05
+659,Chelsea,Parks,2025-02-11,Negative,Too much noise and trash!,-0.37
+660,SoHo,Sanitation,2025-03-26,Positive,Great improvement in road maintenance.,0.67
+661,SoHo,Housing,2025-01-28,Neutral,Average service overall.,-0.05
+662,SoHo,Safety,2025-01-17,Positive,Feeling safer at night recently.,0.58
+663,Harlem,Sanitation,2025-01-10,Positive,Love how clean my area looks now!,0.52
+664,Queens Village,Infrastructure,2025-03-27,Neutral,Mixed feelings about transport.,0.07
+665,Bronx Park,Safety,2025-02-19,Positive,Buses are on time lately!,0.23
+666,Chinatown,Infrastructure,2025-02-23,Neutral,Average service overall.,0.08
+667,Brooklyn Heights,Parks,2025-03-05,Positive,Love how clean my area looks now!,0.72
+668,Chinatown,Transport,2025-03-12,Negative,Roads full of potholes again.,-0.41
+669,Queens Village,Infrastructure,2025-02-15,Neutral,Parks are okay but could be better.,-0.1
+670,Chelsea,Parks,2025-03-19,Negative,Roads full of potholes again.,-0.5
+671,Chelsea,Sanitation,2025-03-17,Negative,Buses keep getting delayed.,-0.53
+672,Chelsea,Infrastructure,2025-03-03,Negative,Buses keep getting delayed.,-0.57
+673,Midtown,Parks,2025-01-06,Negative,Too much noise and trash!,-0.37
+674,Downtown,Transport,2025-03-23,Negative,Water leakage not fixed for weeks.,-0.56
+675,Downtown,Infrastructure,2025-01-08,Positive,Buses are on time lately!,0.89
+676,Chelsea,Housing,2025-01-20,Negative,Water leakage not fixed for weeks.,-0.81
+677,Brooklyn Heights,Parks,2025-03-17,Negative,Roads full of potholes again.,-0.36
+678,Harlem,Infrastructure,2025-03-10,Negative,Water leakage not fixed for weeks.,-0.86
+679,Brooklyn Heights,Transport,2025-01-12,Negative,Water leakage not fixed for weeks.,-0.35
+680,Brooklyn Heights,Infrastructure,2025-02-01,Negative,Too much noise and trash!,-0.25
+681,Downtown,Infrastructure,2025-03-06,Positive,Feeling safer at night recently.,0.47
+682,SoHo,Housing,2025-03-28,Neutral,Average service overall.,0.01
+683,Brooklyn Heights,Parks,2025-03-24,Positive,Feeling safer at night recently.,0.73
+684,Brooklyn Heights,Safety,2025-03-20,Neutral,Average service overall.,-0.08
+685,Chinatown,Infrastructure,2025-03-09,Neutral,Mixed feelings about transport.,-0.0
+686,SoHo,Safety,2025-03-03,Positive,Feeling safer at night recently.,0.49
+687,Downtown,Sanitation,2025-01-05,Positive,Love how clean my area looks now!,0.9
+688,Harlem,Infrastructure,2025-01-14,Negative,Roads full of potholes again.,-0.3
+689,Bronx Park,Safety,2025-02-22,Negative,Too much noise and trash!,-0.44
+690,Downtown,Sanitation,2025-01-13,Negative,Roads full of potholes again.,-0.48
+691,Downtown,Housing,2025-03-12,Negative,Water leakage not fixed for weeks.,-0.41
+692,Brooklyn Heights,Parks,2025-02-11,Negative,Too much noise and trash!,-0.71
+693,Chinatown,Infrastructure,2025-03-07,Positive,Feeling safer at night recently.,0.52
+694,Queens Village,Parks,2025-01-28,Negative,Buses keep getting delayed.,-0.56
+695,Chelsea,Sanitation,2025-01-20,Positive,Love how clean my area looks now!,0.95
+696,Uptown,Parks,2025-01-25,Positive,Love how clean my area looks now!,0.78
+697,Chinatown,Parks,2025-01-19,Neutral,Parks are okay but could be better.,0.01
+698,Queens Village,Transport,2025-03-19,Negative,Buses keep getting delayed.,-0.38
+699,Brooklyn Heights,Sanitation,2025-02-06,Positive,Love how clean my area looks now!,0.5
+700,Brooklyn Heights,Parks,2025-01-13,Neutral,Parks are okay but could be better.,0.05
+701,Harlem,Safety,2025-02-14,Neutral,Average service overall.,-0.02
+702,Queens Village,Sanitation,2025-01-24,Negative,Water leakage not fixed for weeks.,-0.78
+703,Midtown,Transport,2025-01-17,Neutral,Parks are okay but could be better.,0.02
+704,Chelsea,Infrastructure,2025-03-09,Positive,Great improvement in road maintenance.,0.75
+705,Uptown,Housing,2025-01-14,Positive,Great improvement in road maintenance.,0.57
+706,Harlem,Parks,2025-02-05,Positive,Love how clean my area looks now!,0.65
+707,Chinatown,Safety,2025-01-13,Positive,Love how clean my area looks now!,0.76
+708,Chinatown,Transport,2025-02-26,Neutral,Mixed feelings about transport.,0.05
+709,Queens Village,Sanitation,2025-01-30,Negative,Water leakage not fixed for weeks.,-0.28
+710,Chelsea,Housing,2025-01-16,Positive,Great improvement in road maintenance.,0.48
+711,Chelsea,Housing,2025-01-06,Positive,Feeling safer at night recently.,0.96
+712,Chinatown,Parks,2025-02-20,Neutral,Average service overall.,0.03
+713,Midtown,Transport,2025-02-13,Positive,Great improvement in road maintenance.,0.83
+714,Brooklyn Heights,Transport,2025-02-14,Neutral,Mixed feelings about transport.,0.04
+715,Chelsea,Safety,2025-02-01,Neutral,Parks are okay but could be better.,-0.06
+716,Queens Village,Infrastructure,2025-03-31,Positive,Buses are on time lately!,0.26
+717,Chinatown,Infrastructure,2025-03-13,Positive,Great improvement in road maintenance.,0.78
+718,Brooklyn Heights,Infrastructure,2025-01-10,Negative,Too much noise and trash!,-0.59
+719,SoHo,Housing,2025-02-16,Neutral,Average service overall.,0.04
+720,Downtown,Housing,2025-02-23,Negative,Roads full of potholes again.,-0.62
+721,Brooklyn Heights,Sanitation,2025-02-12,Negative,Too much noise and trash!,-0.75
+722,Chelsea,Housing,2025-03-08,Negative,Too much noise and trash!,-0.77
+723,Downtown,Housing,2025-03-27,Negative,Water leakage not fixed for weeks.,-0.42
+724,Chelsea,Transport,2025-01-08,Neutral,Parks are okay but could be better.,-0.04
+725,Queens Village,Sanitation,2025-02-12,Neutral,Parks are okay but could be better.,0.04
+726,Bronx Park,Transport,2025-01-31,Negative,Buses keep getting delayed.,-0.69
+727,Brooklyn Heights,Safety,2025-02-06,Neutral,Mixed feelings about transport.,0.05
+728,Downtown,Safety,2025-03-07,Negative,Too much noise and trash!,-0.89
+729,Queens Village,Sanitation,2025-03-15,Negative,Buses keep getting delayed.,-0.84
+730,Chelsea,Sanitation,2025-01-27,Negative,Water leakage not fixed for weeks.,-0.45
+731,Brooklyn Heights,Housing,2025-01-11,Negative,Roads full of potholes again.,-0.55
+732,Queens Village,Safety,2025-03-22,Positive,Feeling safer at night recently.,0.36
+733,Chelsea,Parks,2025-03-10,Positive,Great improvement in road maintenance.,0.92
+734,Bronx Park,Infrastructure,2025-03-16,Neutral,Mixed feelings about transport.,-0.04
+735,Bronx Park,Housing,2025-02-22,Positive,Feeling safer at night recently.,0.54
+736,Uptown,Infrastructure,2025-03-03,Positive,Love how clean my area looks now!,0.36
+737,Harlem,Safety,2025-02-25,Positive,Feeling safer at night recently.,0.51
+738,Queens Village,Infrastructure,2025-02-14,Neutral,Parks are okay but could be better.,-0.0
+739,Harlem,Parks,2025-03-26,Negative,Roads full of potholes again.,-0.76
+740,Uptown,Parks,2025-03-06,Positive,Feeling safer at night recently.,0.82
+741,Midtown,Transport,2025-02-24,Positive,Feeling safer at night recently.,0.52
+742,Brooklyn Heights,Sanitation,2025-01-01,Positive,Love how clean my area looks now!,0.78
+743,Chelsea,Infrastructure,2025-02-15,Neutral,Average service overall.,-0.06
+744,Chinatown,Parks,2025-01-15,Positive,Buses are on time lately!,0.5
+745,Harlem,Sanitation,2025-02-25,Neutral,Mixed feelings about transport.,-0.1
+746,Harlem,Sanitation,2025-02-11,Positive,Love how clean my area looks now!,0.81
+747,Queens Village,Transport,2025-03-22,Negative,Water leakage not fixed for weeks.,-0.5
+748,Brooklyn Heights,Sanitation,2025-02-04,Negative,Too much noise and trash!,-0.35
+749,Queens Village,Sanitation,2025-03-31,Positive,Buses are on time lately!,0.56
+750,Bronx Park,Housing,2025-02-21,Neutral,Average service overall.,0.06
+751,Harlem,Safety,2025-01-12,Neutral,Parks are okay but could be better.,0.03
+752,Brooklyn Heights,Transport,2025-01-20,Negative,Water leakage not fixed for weeks.,-1.0
+753,SoHo,Transport,2025-02-05,Positive,Great improvement in road maintenance.,0.4
+754,Midtown,Infrastructure,2025-03-26,Neutral,Average service overall.,-0.0
+755,Chelsea,Sanitation,2025-01-31,Negative,Too much noise and trash!,-0.51
+756,Uptown,Infrastructure,2025-01-02,Positive,Great improvement in road maintenance.,0.25
+757,Midtown,Housing,2025-02-22,Positive,Great improvement in road maintenance.,0.76
+758,Uptown,Parks,2025-02-26,Positive,Great improvement in road maintenance.,0.63
+759,Harlem,Sanitation,2025-02-18,Negative,Water leakage not fixed for weeks.,-0.58
+760,Midtown,Parks,2025-01-17,Negative,Too much noise and trash!,-0.77
+761,Midtown,Safety,2025-03-21,Negative,Buses keep getting delayed.,-0.52
+762,Chelsea,Housing,2025-03-12,Negative,Water leakage not fixed for weeks.,-0.98
+763,Chinatown,Sanitation,2025-01-15,Negative,Water leakage not fixed for weeks.,-0.95
+764,Chelsea,Infrastructure,2025-03-08,Neutral,Parks are okay but could be better.,0.05
+765,Queens Village,Infrastructure,2025-01-14,Negative,Buses keep getting delayed.,-0.74
+766,Chinatown,Sanitation,2025-01-07,Neutral,Average service overall.,-0.03
+767,Midtown,Infrastructure,2025-03-17,Neutral,Average service overall.,-0.06
+768,Chinatown,Sanitation,2025-02-04,Positive,Feeling safer at night recently.,0.56
+769,Chinatown,Transport,2025-02-26,Positive,Great improvement in road maintenance.,0.24
+770,Queens Village,Infrastructure,2025-02-16,Negative,Water leakage not fixed for weeks.,-0.76
+771,Brooklyn Heights,Sanitation,2025-03-02,Neutral,Parks are okay but could be better.,0.01
+772,Harlem,Sanitation,2025-01-13,Positive,Buses are on time lately!,0.57
+773,Brooklyn Heights,Infrastructure,2025-03-27,Neutral,Average service overall.,0.1
+774,Harlem,Transport,2025-03-02,Negative,Too much noise and trash!,-0.69
+775,Brooklyn Heights,Infrastructure,2025-03-16,Negative,Buses keep getting delayed.,-0.69
+776,Brooklyn Heights,Sanitation,2025-01-19,Negative,Buses keep getting delayed.,-0.6
+777,Uptown,Transport,2025-01-16,Positive,Buses are on time lately!,0.35
+778,Chinatown,Parks,2025-02-25,Neutral,Mixed feelings about transport.,0.08
+779,Bronx Park,Safety,2025-01-17,Positive,Feeling safer at night recently.,0.66
+780,Queens Village,Infrastructure,2025-03-03,Neutral,Mixed feelings about transport.,-0.06
+781,Brooklyn Heights,Housing,2025-01-19,Negative,Water leakage not fixed for weeks.,-0.37
+782,Midtown,Sanitation,2025-03-23,Positive,Love how clean my area looks now!,0.23
+783,SoHo,Transport,2025-03-21,Positive,Buses are on time lately!,0.99
+784,Uptown,Transport,2025-03-30,Positive,Great improvement in road maintenance.,0.89
+785,SoHo,Parks,2025-03-10,Positive,Love how clean my area looks now!,0.66
+786,Downtown,Infrastructure,2025-03-25,Positive,Feeling safer at night recently.,0.29
+787,Chelsea,Housing,2025-01-29,Neutral,Parks are okay but could be better.,-0.06
+788,Downtown,Transport,2025-03-12,Negative,Water leakage not fixed for weeks.,-0.78
+789,Harlem,Parks,2025-02-12,Negative,Buses keep getting delayed.,-0.81
+790,Brooklyn Heights,Sanitation,2025-02-03,Negative,Too much noise and trash!,-0.6
+791,Queens Village,Parks,2025-03-31,Neutral,Parks are okay but could be better.,0.09
+792,Midtown,Infrastructure,2025-03-07,Neutral,Parks are okay but could be better.,-0.01
+793,Bronx Park,Parks,2025-01-03,Negative,Buses keep getting delayed.,-0.47
+794,Bronx Park,Transport,2025-01-14,Positive,Great improvement in road maintenance.,0.75
+795,Uptown,Transport,2025-02-09,Neutral,Mixed feelings about transport.,0.07
+796,Uptown,Safety,2025-02-06,Negative,Too much noise and trash!,-0.97
+797,Uptown,Parks,2025-02-15,Positive,Buses are on time lately!,0.52
+798,Uptown,Sanitation,2025-01-01,Neutral,Average service overall.,0.06
+799,Chinatown,Housing,2025-02-22,Negative,Buses keep getting delayed.,-0.35
+800,Brooklyn Heights,Housing,2025-02-19,Negative,Roads full of potholes again.,-0.26
+801,SoHo,Infrastructure,2025-02-07,Neutral,Parks are okay but could be better.,0.04
+802,Brooklyn Heights,Safety,2025-01-17,Neutral,Parks are okay but could be better.,-0.05
+803,Brooklyn Heights,Parks,2025-03-11,Neutral,Mixed feelings about transport.,0.0
+804,Downtown,Sanitation,2025-03-16,Negative,Water leakage not fixed for weeks.,-0.97
+805,Queens Village,Safety,2025-01-30,Negative,Too much noise and trash!,-0.48
+806,Midtown,Transport,2025-02-27,Negative,Water leakage not fixed for weeks.,-0.56
+807,Harlem,Infrastructure,2025-03-24,Positive,Buses are on time lately!,0.73
+808,Queens Village,Parks,2025-02-04,Neutral,Mixed feelings about transport.,0.09
+809,Uptown,Housing,2025-03-07,Positive,Buses are on time lately!,0.75
+810,SoHo,Sanitation,2025-03-20,Positive,Feeling safer at night recently.,0.46
+811,Downtown,Transport,2025-02-17,Neutral,Parks are okay but could be better.,-0.06
+812,Chinatown,Safety,2025-03-04,Positive,Love how clean my area looks now!,0.88
+813,SoHo,Infrastructure,2025-03-16,Positive,Love how clean my area looks now!,0.36
+814,Downtown,Safety,2025-02-01,Neutral,Mixed feelings about transport.,-0.07
+815,Chelsea,Housing,2025-02-04,Positive,Feeling safer at night recently.,0.37
+816,Chinatown,Safety,2025-02-09,Negative,Water leakage not fixed for weeks.,-0.59
+817,Uptown,Sanitation,2025-03-21,Neutral,Average service overall.,-0.08
+818,Harlem,Transport,2025-02-04,Positive,Buses are on time lately!,0.95
+819,Uptown,Parks,2025-01-04,Negative,Buses keep getting delayed.,-0.23
+820,SoHo,Sanitation,2025-01-22,Neutral,Average service overall.,0.09
+821,Uptown,Housing,2025-02-15,Negative,Too much noise and trash!,-0.97
+822,Chelsea,Infrastructure,2025-03-26,Positive,Great improvement in road maintenance.,0.96
+823,Uptown,Housing,2025-02-24,Positive,Buses are on time lately!,1.0
+824,Downtown,Housing,2025-01-28,Negative,Buses keep getting delayed.,-0.25
+825,Bronx Park,Safety,2025-02-04,Neutral,Parks are okay but could be better.,0.03
+826,Uptown,Infrastructure,2025-03-08,Negative,Roads full of potholes again.,-0.44
+827,Chelsea,Sanitation,2025-03-05,Negative,Too much noise and trash!,-0.9
+828,Brooklyn Heights,Housing,2025-03-30,Negative,Roads full of potholes again.,-0.3
+829,Brooklyn Heights,Sanitation,2025-03-06,Neutral,Parks are okay but could be better.,-0.09
+830,Harlem,Parks,2025-01-31,Positive,Buses are on time lately!,0.45
+831,Harlem,Safety,2025-01-31,Positive,Love how clean my area looks now!,0.99
+832,Harlem,Sanitation,2025-01-01,Negative,Roads full of potholes again.,-0.66
+833,Queens Village,Infrastructure,2025-01-12,Neutral,Parks are okay but could be better.,-0.07
+834,Midtown,Housing,2025-01-10,Neutral,Parks are okay but could be better.,0.09
+835,Harlem,Parks,2025-03-09,Neutral,Parks are okay but could be better.,0.1
+836,Uptown,Infrastructure,2025-01-12,Positive,Great improvement in road maintenance.,0.35
+837,Harlem,Safety,2025-03-20,Positive,Buses are on time lately!,0.89
+838,Midtown,Parks,2025-01-13,Neutral,Average service overall.,-0.02
+839,Queens Village,Parks,2025-02-19,Negative,Buses keep getting delayed.,-0.69
+840,Midtown,Parks,2025-01-13,Positive,Love how clean my area looks now!,0.41
+841,SoHo,Housing,2025-02-07,Negative,Buses keep getting delayed.,-0.96
+842,Harlem,Transport,2025-03-23,Neutral,Parks are okay but could be better.,-0.05
+843,Harlem,Parks,2025-01-08,Neutral,Average service overall.,-0.09
+844,Harlem,Infrastructure,2025-03-06,Neutral,Average service overall.,0.08
+845,SoHo,Infrastructure,2025-03-18,Positive,Love how clean my area looks now!,0.73
+846,Midtown,Safety,2025-02-11,Neutral,Average service overall.,0.08
+847,Downtown,Sanitation,2025-01-28,Negative,Water leakage not fixed for weeks.,-0.43
+848,Uptown,Sanitation,2025-02-06,Positive,Buses are on time lately!,0.31
+849,Chelsea,Transport,2025-02-07,Neutral,Parks are okay but could be better.,0.09
+850,Uptown,Housing,2025-03-02,Positive,Love how clean my area looks now!,0.92
+851,Harlem,Housing,2025-02-11,Negative,Too much noise and trash!,-0.72
+852,Queens Village,Parks,2025-03-08,Neutral,Average service overall.,-0.08
+853,SoHo,Transport,2025-03-06,Positive,Great improvement in road maintenance.,0.76
+854,Downtown,Safety,2025-01-14,Positive,Buses are on time lately!,0.78
+855,Chinatown,Safety,2025-03-02,Negative,Water leakage not fixed for weeks.,-0.28
+856,Downtown,Sanitation,2025-01-27,Neutral,Average service overall.,-0.09
+857,Chelsea,Safety,2025-01-29,Neutral,Mixed feelings about transport.,-0.07
+858,Uptown,Parks,2025-02-19,Positive,Buses are on time lately!,0.68
+859,Harlem,Infrastructure,2025-03-31,Negative,Water leakage not fixed for weeks.,-0.5
+860,Bronx Park,Safety,2025-03-18,Neutral,Parks are okay but could be better.,-0.09
+861,Chinatown,Transport,2025-01-23,Negative,Buses keep getting delayed.,-0.68
+862,Harlem,Parks,2025-02-17,Positive,Great improvement in road maintenance.,0.67
+863,SoHo,Safety,2025-01-24,Positive,Love how clean my area looks now!,0.79
+864,Chinatown,Housing,2025-02-19,Neutral,Mixed feelings about transport.,-0.04
+865,Chelsea,Safety,2025-01-22,Negative,Too much noise and trash!,-0.61
+866,Bronx Park,Housing,2025-03-30,Negative,Buses keep getting delayed.,-0.35
+867,Midtown,Parks,2025-02-01,Negative,Water leakage not fixed for weeks.,-0.24
+868,Midtown,Safety,2025-01-10,Positive,Buses are on time lately!,0.38
+869,Midtown,Housing,2025-03-25,Negative,Roads full of potholes again.,-0.8
+870,Queens Village,Infrastructure,2025-01-23,Positive,Feeling safer at night recently.,0.95
+871,Midtown,Sanitation,2025-02-17,Neutral,Mixed feelings about transport.,-0.02
+872,Brooklyn Heights,Parks,2025-02-08,Negative,Buses keep getting delayed.,-0.43
+873,Chinatown,Housing,2025-02-20,Neutral,Mixed feelings about transport.,0.02
+874,Bronx Park,Transport,2025-03-06,Neutral,Average service overall.,-0.04
+875,SoHo,Safety,2025-02-21,Positive,Feeling safer at night recently.,0.72
+876,Brooklyn Heights,Housing,2025-02-04,Positive,Buses are on time lately!,0.72
+877,Brooklyn Heights,Housing,2025-02-21,Neutral,Average service overall.,0.02
+878,Bronx Park,Housing,2025-03-12,Positive,Feeling safer at night recently.,0.28
+879,SoHo,Sanitation,2025-03-13,Positive,Buses are on time lately!,1.0
+880,Chinatown,Transport,2025-03-20,Positive,Great improvement in road maintenance.,0.52
+881,Uptown,Transport,2025-03-23,Positive,Buses are on time lately!,0.71
+882,Harlem,Infrastructure,2025-03-14,Positive,Great improvement in road maintenance.,0.91
+883,Uptown,Sanitation,2025-03-13,Positive,Great improvement in road maintenance.,0.54
+884,Chelsea,Housing,2025-02-11,Negative,Water leakage not fixed for weeks.,-0.38
+885,Bronx Park,Parks,2025-01-20,Negative,Too much noise and trash!,-0.22
+886,Uptown,Sanitation,2025-01-18,Positive,Love how clean my area looks now!,0.49
+887,Uptown,Sanitation,2025-03-19,Neutral,Mixed feelings about transport.,-0.02
+888,Uptown,Transport,2025-03-08,Neutral,Parks are okay but could be better.,0.08
+889,Midtown,Infrastructure,2025-01-28,Neutral,Parks are okay but could be better.,-0.07
+890,Downtown,Infrastructure,2025-01-25,Negative,Buses keep getting delayed.,-0.98
+891,Uptown,Sanitation,2025-02-12,Positive,Great improvement in road maintenance.,0.93
+892,Harlem,Sanitation,2025-03-28,Neutral,Parks are okay but could be better.,0.06
+893,Bronx Park,Safety,2025-01-21,Neutral,Mixed feelings about transport.,0.09
+894,Chelsea,Housing,2025-01-27,Positive,Feeling safer at night recently.,0.25
+895,Downtown,Transport,2025-03-06,Negative,Roads full of potholes again.,-0.88
+896,Queens Village,Housing,2025-01-26,Neutral,Mixed feelings about transport.,-0.08
+897,Harlem,Parks,2025-01-29,Positive,Buses are on time lately!,0.75
+898,Harlem,Parks,2025-02-04,Neutral,Parks are okay but could be better.,0.02
+899,Midtown,Infrastructure,2025-03-21,Negative,Water leakage not fixed for weeks.,-0.71
+900,Midtown,Transport,2025-02-01,Negative,Too much noise and trash!,-0.95
+901,Bronx Park,Housing,2025-01-26,Negative,Roads full of potholes again.,-0.49
+902,Harlem,Infrastructure,2025-01-26,Neutral,Parks are okay but could be better.,0.01
+903,SoHo,Parks,2025-03-06,Positive,Buses are on time lately!,0.29
+904,SoHo,Sanitation,2025-02-17,Positive,Buses are on time lately!,0.93
+905,Bronx Park,Transport,2025-01-25,Positive,Buses are on time lately!,0.36
+906,Uptown,Transport,2025-03-05,Positive,Love how clean my area looks now!,0.79
+907,Brooklyn Heights,Housing,2025-01-15,Negative,Roads full of potholes again.,-0.29
+908,Queens Village,Safety,2025-01-26,Negative,Too much noise and trash!,-0.54
+909,Chelsea,Housing,2025-02-03,Negative,Roads full of potholes again.,-0.8
+910,Midtown,Sanitation,2025-01-18,Negative,Water leakage not fixed for weeks.,-0.75
+911,Chelsea,Sanitation,2025-01-14,Positive,Great improvement in road maintenance.,0.91
+912,Brooklyn Heights,Infrastructure,2025-03-26,Positive,Feeling safer at night recently.,0.44
+913,Chinatown,Transport,2025-01-25,Positive,Love how clean my area looks now!,0.8
+914,Bronx Park,Infrastructure,2025-03-17,Negative,Buses keep getting delayed.,-0.21
+915,Uptown,Sanitation,2025-01-12,Neutral,Parks are okay but could be better.,0.1
+916,Downtown,Safety,2025-02-15,Negative,Too much noise and trash!,-0.57
+917,Uptown,Transport,2025-03-09,Positive,Feeling safer at night recently.,0.86
+918,Harlem,Sanitation,2025-01-10,Negative,Too much noise and trash!,-0.21
+919,Uptown,Safety,2025-02-03,Positive,Love how clean my area looks now!,0.5
+920,Harlem,Housing,2025-02-15,Negative,Buses keep getting delayed.,-0.8
+921,Chelsea,Parks,2025-02-10,Negative,Water leakage not fixed for weeks.,-0.91
+922,Chinatown,Sanitation,2025-01-28,Neutral,Parks are okay but could be better.,-0.07
+923,Midtown,Parks,2025-03-27,Neutral,Mixed feelings about transport.,0.07
+924,Chinatown,Infrastructure,2025-01-02,Negative,Buses keep getting delayed.,-0.53
+925,Harlem,Parks,2025-03-18,Neutral,Parks are okay but could be better.,0.07
+926,Downtown,Sanitation,2025-01-16,Positive,Great improvement in road maintenance.,0.83
+927,Brooklyn Heights,Parks,2025-02-02,Positive,Feeling safer at night recently.,0.74
+928,Chelsea,Transport,2025-02-24,Neutral,Parks are okay but could be better.,0.02
+929,Chelsea,Sanitation,2025-02-26,Neutral,Mixed feelings about transport.,-0.09
+930,Uptown,Safety,2025-02-18,Positive,Buses are on time lately!,0.9
+931,Midtown,Parks,2025-03-21,Positive,Buses are on time lately!,0.53
+932,Uptown,Transport,2025-01-27,Positive,Great improvement in road maintenance.,0.65
+933,Uptown,Infrastructure,2025-03-06,Positive,Feeling safer at night recently.,0.22
+934,Harlem,Infrastructure,2025-01-30,Positive,Buses are on time lately!,0.95
+935,Brooklyn Heights,Parks,2025-02-19,Positive,Love how clean my area looks now!,0.92
+936,Midtown,Infrastructure,2025-01-08,Positive,Feeling safer at night recently.,0.63
+937,Uptown,Safety,2025-02-10,Positive,Buses are on time lately!,0.66
+938,Chelsea,Sanitation,2025-03-27,Negative,Too much noise and trash!,-0.44
+939,Uptown,Transport,2025-02-07,Positive,Love how clean my area looks now!,0.41
+940,Queens Village,Housing,2025-01-07,Negative,Water leakage not fixed for weeks.,-0.82
+941,Bronx Park,Parks,2025-02-17,Negative,Buses keep getting delayed.,-0.46
+942,Chelsea,Infrastructure,2025-03-02,Negative,Water leakage not fixed for weeks.,-0.92
+943,Queens Village,Sanitation,2025-03-31,Neutral,Average service overall.,-0.01
+944,Bronx Park,Housing,2025-01-13,Positive,Feeling safer at night recently.,0.59
+945,Downtown,Safety,2025-02-23,Positive,Love how clean my area looks now!,0.51
+946,Queens Village,Infrastructure,2025-01-14,Neutral,Mixed feelings about transport.,-0.06
+947,Harlem,Infrastructure,2025-01-30,Neutral,Mixed feelings about transport.,-0.03
+948,Downtown,Transport,2025-01-30,Positive,Feeling safer at night recently.,0.47
+949,SoHo,Safety,2025-03-01,Positive,Feeling safer at night recently.,0.6
+950,Midtown,Safety,2025-02-05,Negative,Buses keep getting delayed.,-0.46
+951,Chelsea,Parks,2025-03-04,Neutral,Average service overall.,0.09
+952,SoHo,Housing,2025-03-25,Positive,Love how clean my area looks now!,0.32
+953,Chelsea,Transport,2025-03-08,Positive,Buses are on time lately!,0.9
+954,Midtown,Parks,2025-03-04,Positive,Love how clean my area looks now!,0.43
+955,Midtown,Transport,2025-02-04,Negative,Roads full of potholes again.,-0.53
+956,Chelsea,Safety,2025-01-18,Negative,Water leakage not fixed for weeks.,-0.56
+957,Midtown,Transport,2025-02-16,Negative,Too much noise and trash!,-0.55
+958,Queens Village,Transport,2025-02-17,Negative,Roads full of potholes again.,-0.42
+959,Chinatown,Transport,2025-03-11,Neutral,Mixed feelings about transport.,-0.02
+960,Brooklyn Heights,Sanitation,2025-02-15,Neutral,Average service overall.,-0.04
+961,Chelsea,Sanitation,2025-02-14,Neutral,Average service overall.,0.07
+962,SoHo,Housing,2025-03-18,Neutral,Average service overall.,-0.06
+963,SoHo,Housing,2025-02-11,Negative,Buses keep getting delayed.,-0.86
+964,Midtown,Safety,2025-02-07,Neutral,Average service overall.,-0.1
+965,Chelsea,Transport,2025-03-12,Neutral,Mixed feelings about transport.,-0.06
+966,Chinatown,Safety,2025-03-31,Negative,Roads full of potholes again.,-0.59
+967,Chinatown,Sanitation,2025-03-07,Positive,Love how clean my area looks now!,0.63
+968,Brooklyn Heights,Transport,2025-03-19,Negative,Buses keep getting delayed.,-0.8
+969,Queens Village,Parks,2025-03-27,Positive,Great improvement in road maintenance.,0.26
+970,Brooklyn Heights,Sanitation,2025-02-05,Neutral,Average service overall.,0.05
+971,Harlem,Sanitation,2025-02-27,Positive,Feeling safer at night recently.,0.81
+972,SoHo,Sanitation,2025-03-14,Neutral,Average service overall.,0.1
+973,Chinatown,Transport,2025-02-23,Neutral,Average service overall.,0.08
+974,Midtown,Housing,2025-02-27,Positive,Love how clean my area looks now!,0.94
+975,Chinatown,Infrastructure,2025-02-16,Negative,Too much noise and trash!,-0.36
+976,Chinatown,Parks,2025-03-21,Neutral,Parks are okay but could be better.,0.02
+977,Bronx Park,Parks,2025-02-02,Negative,Water leakage not fixed for weeks.,-0.9
+978,SoHo,Safety,2025-02-13,Positive,Feeling safer at night recently.,0.7
+979,Harlem,Transport,2025-03-18,Negative,Roads full of potholes again.,-0.96
+980,Brooklyn Heights,Housing,2025-03-27,Positive,Great improvement in road maintenance.,0.91
+981,Harlem,Sanitation,2025-01-11,Positive,Buses are on time lately!,0.59
+982,Bronx Park,Infrastructure,2025-01-03,Positive,Love how clean my area looks now!,0.76
+983,Queens Village,Transport,2025-01-02,Neutral,Average service overall.,-0.09
+984,Harlem,Transport,2025-01-23,Negative,Buses keep getting delayed.,-0.57
+985,Chinatown,Housing,2025-03-26,Positive,Great improvement in road maintenance.,0.44
+986,Downtown,Infrastructure,2025-02-23,Neutral,Mixed feelings about transport.,-0.04
+987,Chelsea,Sanitation,2025-02-05,Negative,Water leakage not fixed for weeks.,-0.69
+988,Harlem,Transport,2025-03-22,Neutral,Average service overall.,-0.1
+989,Chelsea,Parks,2025-03-17,Negative,Water leakage not fixed for weeks.,-0.63
+990,Bronx Park,Parks,2025-01-13,Neutral,Mixed feelings about transport.,-0.0
+991,Harlem,Infrastructure,2025-03-13,Negative,Roads full of potholes again.,-0.31
+992,Harlem,Sanitation,2025-03-18,Positive,Great improvement in road maintenance.,0.56
+993,Uptown,Infrastructure,2025-02-08,Negative,Buses keep getting delayed.,-0.71
+994,Chinatown,Transport,2025-01-15,Neutral,Mixed feelings about transport.,0.1
+995,Midtown,Parks,2025-03-01,Neutral,Mixed feelings about transport.,0.01
+996,Chelsea,Safety,2025-01-13,Positive,Great improvement in road maintenance.,0.58
+997,Queens Village,Infrastructure,2025-01-31,Neutral,Parks are okay but could be better.,-0.0
+998,Uptown,Safety,2025-03-08,Positive,Great improvement in road maintenance.,0.85
+999,Chinatown,Safety,2025-02-24,Positive,Love how clean my area looks now!,0.47
+1000,Bronx Park,Housing,2025-03-06,Neutral,Parks are okay but could be better.,-0.02

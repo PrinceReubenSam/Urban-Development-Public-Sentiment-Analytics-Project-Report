@@ -1,0 +1,1001 @@
+Trip_ID,Mode,Route,Neighborhood,Date,Scheduled_Arrival,Delay_Minutes,Ridership,Service_Rating
+1,Bus,Bus-102,Queens Village,2025-02-24,2025-01-01 08:53:00,7.0,286,Average
+2,Metro,Metro-C,Queens Village,2025-02-17,2025-01-01 12:57:00,9.7,291,Average
+3,Metro,Metro-B,SoHo,2025-02-22,2025-01-01 06:52:00,5.8,251,Average
+4,Bus,Metro-C,Chelsea,2025-02-19,2025-01-01 12:40:00,5.2,346,Average
+5,Metro,Bus-101,Brooklyn Heights,2025-02-01,2025-01-01 10:24:00,5.6,173,Average
+6,Tram,Bus-101,Chinatown,2025-03-14,2025-01-01 14:38:00,10.6,347,Poor
+7,Tram,Metro-C,Downtown,2025-01-26,2025-01-01 13:00:00,3.5,344,Good
+8,Metro,Bus-202,Chinatown,2025-01-22,2025-01-01 13:15:00,9.3,240,Average
+9,Bus,Metro-B,Chelsea,2025-02-18,2025-01-01 16:24:00,7.0,335,Average
+10,Bus,Bus-202,Bronx Park,2025-03-26,2025-01-01 14:25:00,12.5,313,Poor
+11,Tram,Tram-2,Midtown,2025-01-06,2025-01-01 10:29:00,4.1,286,Good
+12,Bus,Bus-101,Harlem,2025-01-06,2025-01-01 08:41:00,4.2,354,Good
+13,Metro,Bus-101,Chelsea,2025-03-23,2025-01-01 07:02:00,4.9,179,Good
+14,Bus,Metro-B,Queens Village,2025-02-23,2025-01-01 08:40:00,6.6,323,Average
+15,Bus,Bus-101,Downtown,2025-02-04,2025-01-01 11:59:00,7.4,290,Average
+16,Bus,Tram-2,Harlem,2025-01-04,2025-01-01 09:59:00,9.3,307,Average
+17,Tram,Tram-2,Uptown,2025-03-04,2025-01-01 14:11:00,0.0,389,Good
+18,Bus,Tram-2,Chinatown,2025-01-16,2025-01-01 08:23:00,3.4,395,Good
+19,Metro,Bus-102,Harlem,2025-01-19,2025-01-01 13:00:00,2.3,345,Good
+20,Bus,Tram-2,Uptown,2025-03-07,2025-01-01 15:32:00,3.0,420,Good
+21,Bus,Tram-2,Midtown,2025-03-26,2025-01-01 08:56:00,5.0,231,Good
+22,Bus,Bus-102,Uptown,2025-03-12,2025-01-01 06:45:00,5.6,373,Average
+23,Metro,Bus-202,Downtown,2025-03-03,2025-01-01 17:14:00,6.9,282,Average
+24,Bus,Metro-A,Queens Village,2025-03-19,2025-01-01 07:49:00,9.0,229,Average
+25,Bus,Bus-101,Chelsea,2025-02-20,2025-01-01 13:38:00,5.9,222,Average
+26,Bus,Tram-2,SoHo,2025-02-03,2025-01-01 09:08:00,4.5,363,Good
+27,Bus,Bus-101,Chelsea,2025-03-08,2025-01-01 14:07:00,6.9,362,Average
+28,Tram,Metro-B,Chelsea,2025-03-17,2025-01-01 09:17:00,4.4,385,Good
+29,Tram,Bus-101,Uptown,2025-03-02,2025-01-01 07:14:00,8.2,399,Average
+30,Bus,Metro-C,Chinatown,2025-01-11,2025-01-01 15:47:00,13.0,270,Poor
+31,Metro,Bus-202,Harlem,2025-03-12,2025-01-01 14:30:00,6.7,385,Average
+32,Tram,Bus-102,SoHo,2025-01-22,2025-01-01 10:41:00,4.5,402,Good
+33,Bus,Bus-101,SoHo,2025-03-13,2025-01-01 14:08:00,5.7,319,Average
+34,Metro,Bus-101,Harlem,2025-02-11,2025-01-01 11:05:00,1.3,322,Good
+35,Tram,Bus-101,Harlem,2025-02-17,2025-01-01 17:34:00,5.1,274,Average
+36,Bus,Metro-A,Queens Village,2025-01-06,2025-01-01 10:37:00,5.9,343,Average
+37,Bus,Metro-A,Downtown,2025-02-27,2025-01-01 08:12:00,8.3,213,Average
+38,Tram,Metro-B,Midtown,2025-02-07,2025-01-01 08:49:00,3.2,335,Good
+39,Metro,Bus-102,Downtown,2025-01-21,2025-01-01 07:01:00,5.7,258,Average
+40,Bus,Bus-101,Harlem,2025-03-27,2025-01-01 06:26:00,0.0,265,Good
+41,Bus,Bus-101,Chinatown,2025-03-02,2025-01-01 13:47:00,1.9,215,Good
+42,Bus,Bus-101,Brooklyn Heights,2025-02-05,2025-01-01 14:09:00,9.1,258,Average
+43,Metro,Bus-101,Brooklyn Heights,2025-01-15,2025-01-01 14:19:00,5.5,205,Average
+44,Metro,Metro-A,Midtown,2025-03-30,2025-01-01 09:46:00,8.6,311,Average
+45,Tram,Bus-202,Harlem,2025-03-20,2025-01-01 08:44:00,1.7,409,Good
+46,Bus,Bus-202,Brooklyn Heights,2025-03-04,2025-01-01 09:59:00,9.4,279,Average
+47,Metro,Metro-B,Midtown,2025-03-27,2025-01-01 09:41:00,3.1,408,Good
+48,Metro,Metro-C,SoHo,2025-02-15,2025-01-01 07:48:00,5.0,283,Good
+49,Bus,Tram-2,Midtown,2025-03-22,2025-01-01 14:24:00,0.8,244,Good
+50,Bus,Bus-102,SoHo,2025-01-21,2025-01-01 13:41:00,2.4,281,Good
+51,Tram,Bus-202,Queens Village,2025-03-19,2025-01-01 12:54:00,5.5,265,Average
+52,Metro,Metro-C,Brooklyn Heights,2025-03-11,2025-01-01 14:30:00,10.7,405,Poor
+53,Bus,Bus-101,Midtown,2025-01-08,2025-01-01 09:23:00,6.8,225,Average
+54,Metro,Bus-202,Midtown,2025-02-14,2025-01-01 07:57:00,1.7,339,Good
+55,Bus,Metro-B,Midtown,2025-02-17,2025-01-01 14:06:00,4.8,273,Good
+56,Metro,Tram-2,Chinatown,2025-03-14,2025-01-01 12:36:00,3.1,297,Good
+57,Metro,Bus-202,Midtown,2025-01-26,2025-01-01 14:51:00,8.3,245,Average
+58,Metro,Metro-B,Chinatown,2025-01-01,2025-01-01 07:36:00,9.2,353,Average
+59,Tram,Metro-A,Chelsea,2025-01-07,2025-01-01 13:51:00,0.4,316,Good
+60,Metro,Tram-2,Queens Village,2025-03-27,2025-01-01 10:14:00,10.5,323,Poor
+61,Bus,Metro-B,Chelsea,2025-02-16,2025-01-01 06:01:00,2.3,327,Good
+62,Metro,Metro-C,Bronx Park,2025-03-01,2025-01-01 14:50:00,7.9,163,Average
+63,Bus,Bus-202,Chelsea,2025-01-09,2025-01-01 07:18:00,4.8,373,Good
+64,Bus,Metro-A,Harlem,2025-01-28,2025-01-01 13:37:00,10.1,220,Poor
+65,Bus,Metro-C,SoHo,2025-02-11,2025-01-01 06:26:00,0.8,239,Good
+66,Bus,Metro-B,Harlem,2025-02-03,2025-01-01 09:55:00,7.1,275,Average
+67,Metro,Metro-B,Downtown,2025-03-05,2025-01-01 11:37:00,3.2,243,Good
+68,Bus,Metro-C,Chelsea,2025-03-13,2025-01-01 07:45:00,1.0,388,Good
+69,Metro,Bus-202,Brooklyn Heights,2025-01-29,2025-01-01 17:04:00,8.1,260,Average
+70,Metro,Tram-2,Uptown,2025-02-05,2025-01-01 16:02:00,3.4,402,Good
+71,Bus,Metro-A,Chelsea,2025-01-23,2025-01-01 08:26:00,0.0,290,Good
+72,Metro,Bus-101,Queens Village,2025-03-17,2025-01-01 13:15:00,11.5,284,Poor
+73,Bus,Bus-102,Chelsea,2025-02-03,2025-01-01 06:00:00,0.0,342,Good
+74,Bus,Tram-2,Chinatown,2025-02-11,2025-01-01 12:09:00,5.0,343,Good
+75,Metro,Metro-A,Downtown,2025-01-19,2025-01-01 13:11:00,10.7,265,Poor
+76,Bus,Metro-C,Midtown,2025-02-14,2025-01-01 16:19:00,12.0,289,Poor
+77,Bus,Metro-B,Downtown,2025-03-11,2025-01-01 12:02:00,5.7,273,Average
+78,Metro,Metro-C,Downtown,2025-03-10,2025-01-01 17:23:00,2.5,206,Good
+79,Metro,Metro-A,SoHo,2025-01-06,2025-01-01 15:21:00,7.7,328,Average
+80,Bus,Metro-C,Uptown,2025-01-19,2025-01-01 16:04:00,5.9,321,Average
+81,Tram,Metro-C,Downtown,2025-03-04,2025-01-01 17:18:00,5.3,317,Average
+82,Metro,Bus-102,SoHo,2025-03-21,2025-01-01 06:50:00,2.0,337,Good
+83,Metro,Bus-202,Midtown,2025-03-23,2025-01-01 10:15:00,3.3,375,Good
+84,Bus,Bus-102,Harlem,2025-01-18,2025-01-01 11:32:00,3.6,324,Good
+85,Metro,Bus-101,Midtown,2025-03-08,2025-01-01 10:38:00,6.4,280,Average
+86,Metro,Bus-101,Brooklyn Heights,2025-02-05,2025-01-01 08:05:00,6.4,271,Average
+87,Metro,Bus-102,Downtown,2025-01-25,2025-01-01 10:20:00,5.4,324,Average
+88,Metro,Tram-2,Downtown,2025-03-21,2025-01-01 10:17:00,8.7,200,Average
+89,Bus,Tram-2,Harlem,2025-03-29,2025-01-01 08:55:00,0.2,285,Good
+90,Bus,Metro-C,Queens Village,2025-01-01,2025-01-01 13:10:00,6.9,234,Average
+91,Bus,Metro-C,Downtown,2025-01-22,2025-01-01 17:50:00,1.7,309,Good
+92,Bus,Metro-B,Uptown,2025-03-31,2025-01-01 17:42:00,3.6,366,Good
+93,Metro,Bus-101,Bronx Park,2025-02-27,2025-01-01 17:54:00,2.8,265,Good
+94,Bus,Metro-B,Downtown,2025-03-26,2025-01-01 13:26:00,9.4,164,Average
+95,Tram,Bus-101,Bronx Park,2025-03-27,2025-01-01 06:43:00,4.7,177,Good
+96,Tram,Bus-102,Midtown,2025-01-16,2025-01-01 07:08:00,0.1,296,Good
+97,Bus,Tram-2,Chelsea,2025-01-24,2025-01-01 16:31:00,3.7,293,Good
+98,Bus,Metro-C,Queens Village,2025-02-06,2025-01-01 14:27:00,13.2,269,Poor
+99,Metro,Tram-2,SoHo,2025-03-10,2025-01-01 15:29:00,5.9,309,Average
+100,Tram,Bus-102,Chinatown,2025-02-07,2025-01-01 06:20:00,0.0,385,Good
+101,Bus,Metro-B,Queens Village,2025-02-02,2025-01-01 13:38:00,4.0,154,Good
+102,Bus,Metro-B,Chinatown,2025-02-08,2025-01-01 15:49:00,4.2,324,Good
+103,Metro,Metro-A,Midtown,2025-02-14,2025-01-01 06:37:00,12.1,350,Poor
+104,Metro,Metro-C,Queens Village,2025-03-09,2025-01-01 11:50:00,5.2,304,Average
+105,Bus,Metro-C,SoHo,2025-03-22,2025-01-01 10:25:00,1.0,372,Good
+106,Metro,Metro-C,Chinatown,2025-01-13,2025-01-01 12:15:00,10.0,355,Average
+107,Bus,Bus-101,Harlem,2025-03-21,2025-01-01 16:39:00,5.2,290,Average
+108,Bus,Metro-B,Uptown,2025-02-04,2025-01-01 07:00:00,6.5,285,Average
+109,Bus,Bus-102,Queens Village,2025-02-18,2025-01-01 11:58:00,5.9,167,Average
+110,Bus,Metro-B,Midtown,2025-03-31,2025-01-01 14:07:00,5.1,290,Average
+111,Bus,Tram-2,Downtown,2025-03-24,2025-01-01 08:59:00,10.7,249,Poor
+112,Bus,Bus-101,SoHo,2025-01-02,2025-01-01 15:11:00,3.4,391,Good
+113,Bus,Metro-C,Chinatown,2025-03-20,2025-01-01 08:28:00,8.8,294,Average
+114,Bus,Bus-202,Chinatown,2025-03-18,2025-01-01 12:23:00,6.6,257,Average
+115,Bus,Metro-A,Uptown,2025-03-09,2025-01-01 09:43:00,0.2,281,Good
+116,Tram,Bus-101,Chinatown,2025-01-15,2025-01-01 06:38:00,5.3,408,Average
+117,Bus,Tram-2,Bronx Park,2025-02-06,2025-01-01 14:31:00,11.6,259,Poor
+118,Bus,Metro-C,Brooklyn Heights,2025-02-02,2025-01-01 13:28:00,10.1,229,Poor
+119,Metro,Tram-2,Bronx Park,2025-03-17,2025-01-01 09:58:00,8.5,266,Average
+120,Tram,Tram-2,Chinatown,2025-02-01,2025-01-01 06:33:00,0.0,403,Good
+121,Bus,Metro-C,SoHo,2025-01-07,2025-01-01 15:01:00,0.0,313,Good
+122,Metro,Tram-2,Queens Village,2025-02-19,2025-01-01 17:44:00,3.3,303,Good
+123,Metro,Bus-102,Midtown,2025-02-19,2025-01-01 17:35:00,3.9,368,Good
+124,Metro,Metro-A,Downtown,2025-01-18,2025-01-01 12:03:00,5.6,194,Average
+125,Bus,Bus-202,Queens Village,2025-03-17,2025-01-01 14:09:00,3.6,237,Good
+126,Metro,Tram-2,Harlem,2025-02-16,2025-01-01 11:52:00,7.7,373,Average
+127,Bus,Tram-2,Queens Village,2025-02-11,2025-01-01 06:00:00,4.3,234,Good
+128,Metro,Metro-B,Queens Village,2025-03-30,2025-01-01 13:21:00,4.0,289,Good
+129,Metro,Metro-A,Midtown,2025-02-21,2025-01-01 11:21:00,5.7,270,Average
+130,Bus,Bus-101,Uptown,2025-02-23,2025-01-01 10:02:00,6.2,318,Average
+131,Metro,Metro-A,Chinatown,2025-03-06,2025-01-01 11:14:00,11.6,280,Poor
+132,Bus,Metro-A,Uptown,2025-03-11,2025-01-01 09:24:00,5.0,372,Good
+133,Metro,Metro-C,Harlem,2025-03-17,2025-01-01 11:32:00,9.3,330,Average
+134,Bus,Metro-C,Chelsea,2025-03-18,2025-01-01 09:04:00,1.1,323,Good
+135,Bus,Metro-C,Downtown,2025-03-27,2025-01-01 06:46:00,13.2,414,Poor
+136,Bus,Bus-202,Bronx Park,2025-01-29,2025-01-01 09:20:00,3.1,347,Good
+137,Tram,Metro-A,Downtown,2025-02-03,2025-01-01 14:28:00,5.2,189,Average
+138,Bus,Bus-202,Chinatown,2025-01-24,2025-01-01 11:06:00,7.1,286,Average
+139,Bus,Tram-2,Downtown,2025-01-27,2025-01-01 14:44:00,1.9,410,Good
+140,Bus,Metro-C,Brooklyn Heights,2025-03-24,2025-01-01 06:02:00,5.3,240,Average
+141,Metro,Tram-2,Bronx Park,2025-03-06,2025-01-01 07:55:00,5.4,364,Average
+142,Metro,Metro-C,Harlem,2025-02-14,2025-01-01 09:41:00,3.7,299,Good
+143,Bus,Bus-102,Chinatown,2025-01-12,2025-01-01 13:13:00,9.7,297,Average
+144,Bus,Bus-202,SoHo,2025-03-15,2025-01-01 13:46:00,3.9,376,Good
+145,Bus,Bus-202,Harlem,2025-03-18,2025-01-01 15:13:00,3.2,316,Good
+146,Bus,Bus-101,Brooklyn Heights,2025-03-08,2025-01-01 13:41:00,0.0,293,Good
+147,Bus,Metro-B,Bronx Park,2025-03-21,2025-01-01 10:01:00,10.1,338,Poor
+148,Metro,Metro-A,Midtown,2025-02-21,2025-01-01 13:50:00,7.8,346,Average
+149,Bus,Bus-101,Brooklyn Heights,2025-01-20,2025-01-01 10:35:00,3.0,276,Good
+150,Bus,Bus-202,Harlem,2025-01-21,2025-01-01 16:03:00,4.4,404,Good
+151,Bus,Bus-101,Chinatown,2025-03-17,2025-01-01 10:05:00,6.0,352,Average
+152,Tram,Bus-102,Chelsea,2025-01-28,2025-01-01 06:36:00,7.6,282,Average
+153,Tram,Metro-B,Chinatown,2025-03-01,2025-01-01 06:54:00,3.2,408,Good
+154,Metro,Bus-202,Bronx Park,2025-01-05,2025-01-01 09:16:00,6.0,292,Average
+155,Bus,Bus-202,Chelsea,2025-01-14,2025-01-01 12:54:00,3.4,308,Good
+156,Bus,Metro-A,Uptown,2025-03-31,2025-01-01 15:30:00,7.1,239,Average
+157,Bus,Metro-C,Bronx Park,2025-02-24,2025-01-01 16:03:00,11.8,191,Poor
+158,Bus,Metro-B,Bronx Park,2025-01-27,2025-01-01 09:17:00,8.6,345,Average
+159,Metro,Bus-102,Brooklyn Heights,2025-01-07,2025-01-01 06:32:00,11.1,356,Poor
+160,Metro,Tram-2,Chinatown,2025-03-23,2025-01-01 13:35:00,0.0,313,Good
+161,Metro,Bus-101,Harlem,2025-02-17,2025-01-01 10:01:00,7.0,232,Average
+162,Metro,Metro-A,Midtown,2025-01-14,2025-01-01 12:10:00,2.1,254,Good
+163,Bus,Bus-202,Downtown,2025-03-19,2025-01-01 15:39:00,12.1,207,Poor
+164,Metro,Tram-2,Queens Village,2025-03-14,2025-01-01 06:25:00,4.9,186,Good
+165,Bus,Bus-102,Midtown,2025-03-01,2025-01-01 14:07:00,2.8,410,Good
+166,Bus,Metro-B,Downtown,2025-01-25,2025-01-01 08:41:00,8.4,391,Average
+167,Metro,Bus-101,Uptown,2025-02-18,2025-01-01 17:11:00,5.3,284,Average
+168,Bus,Metro-A,Harlem,2025-03-21,2025-01-01 08:40:00,3.3,320,Good
+169,Bus,Bus-202,Chinatown,2025-03-04,2025-01-01 14:49:00,6.5,244,Average
+170,Bus,Bus-202,SoHo,2025-02-22,2025-01-01 10:46:00,5.3,332,Average
+171,Metro,Tram-2,Bronx Park,2025-03-16,2025-01-01 07:56:00,9.8,342,Average
+172,Metro,Tram-2,Midtown,2025-02-26,2025-01-01 10:14:00,4.2,362,Good
+173,Bus,Bus-101,Downtown,2025-01-31,2025-01-01 07:00:00,8.3,329,Average
+174,Metro,Metro-B,SoHo,2025-01-07,2025-01-01 13:01:00,8.0,323,Average
+175,Bus,Bus-102,Midtown,2025-01-27,2025-01-01 11:40:00,1.7,371,Good
+176,Bus,Metro-C,Harlem,2025-02-13,2025-01-01 17:41:00,2.1,353,Good
+177,Metro,Metro-B,Chinatown,2025-02-15,2025-01-01 10:59:00,5.5,329,Average
+178,Metro,Metro-B,Chelsea,2025-02-10,2025-01-01 17:06:00,1.6,312,Good
+179,Tram,Metro-B,Midtown,2025-02-16,2025-01-01 12:10:00,0.0,324,Good
+180,Bus,Metro-C,Midtown,2025-03-25,2025-01-01 10:27:00,8.7,323,Average
+181,Metro,Bus-101,Chinatown,2025-01-06,2025-01-01 10:31:00,0.0,282,Good
+182,Metro,Metro-C,Uptown,2025-01-09,2025-01-01 09:29:00,2.1,301,Good
+183,Tram,Bus-101,Brooklyn Heights,2025-03-07,2025-01-01 12:44:00,10.3,219,Poor
+184,Bus,Metro-C,Midtown,2025-01-23,2025-01-01 15:30:00,6.2,262,Average
+185,Metro,Bus-102,Chinatown,2025-02-23,2025-01-01 17:14:00,4.2,299,Good
+186,Metro,Metro-B,Brooklyn Heights,2025-03-18,2025-01-01 16:55:00,4.8,251,Good
+187,Bus,Bus-101,Chinatown,2025-01-13,2025-01-01 12:36:00,6.4,278,Average
+188,Bus,Metro-C,Chinatown,2025-03-28,2025-01-01 17:41:00,2.4,274,Good
+189,Bus,Bus-102,Uptown,2025-01-07,2025-01-01 09:20:00,4.1,355,Good
+190,Metro,Metro-C,Chinatown,2025-02-19,2025-01-01 16:10:00,5.8,377,Average
+191,Metro,Bus-202,Harlem,2025-01-01,2025-01-01 06:41:00,5.1,320,Average
+192,Metro,Bus-102,Midtown,2025-03-21,2025-01-01 15:56:00,3.5,305,Good
+193,Metro,Metro-B,Downtown,2025-03-29,2025-01-01 09:17:00,12.9,241,Poor
+194,Metro,Metro-A,Downtown,2025-02-28,2025-01-01 09:02:00,7.8,277,Average
+195,Bus,Metro-B,Downtown,2025-01-08,2025-01-01 11:57:00,5.9,348,Average
+196,Bus,Metro-A,Chinatown,2025-02-23,2025-01-01 09:02:00,6.2,360,Average
+197,Bus,Bus-102,SoHo,2025-01-15,2025-01-01 08:26:00,1.5,381,Good
+198,Bus,Bus-202,Brooklyn Heights,2025-03-28,2025-01-01 16:36:00,6.9,315,Average
+199,Bus,Bus-202,Brooklyn Heights,2025-02-25,2025-01-01 17:28:00,15.2,290,Poor
+200,Metro,Bus-101,Chinatown,2025-01-05,2025-01-01 07:05:00,3.1,329,Good
+201,Bus,Bus-202,Harlem,2025-01-30,2025-01-01 17:46:00,4.4,333,Good
+202,Bus,Tram-2,Harlem,2025-03-05,2025-01-01 16:50:00,3.2,300,Good
+203,Bus,Bus-102,Bronx Park,2025-02-09,2025-01-01 12:45:00,5.5,264,Average
+204,Bus,Bus-101,Chinatown,2025-01-26,2025-01-01 11:11:00,6.7,319,Average
+205,Tram,Bus-202,Queens Village,2025-03-27,2025-01-01 06:03:00,8.2,300,Average
+206,Metro,Bus-102,Uptown,2025-02-14,2025-01-01 15:57:00,6.0,345,Average
+207,Metro,Metro-B,Downtown,2025-02-19,2025-01-01 16:35:00,9.2,393,Average
+208,Bus,Bus-202,Uptown,2025-03-02,2025-01-01 14:51:00,6.0,280,Average
+209,Metro,Metro-C,Downtown,2025-03-10,2025-01-01 12:18:00,4.0,326,Good
+210,Metro,Metro-A,Chelsea,2025-02-09,2025-01-01 08:51:00,6.7,316,Average
+211,Metro,Bus-102,Chelsea,2025-02-10,2025-01-01 12:22:00,6.7,318,Average
+212,Bus,Bus-101,Chinatown,2025-02-04,2025-01-01 10:35:00,2.3,268,Good
+213,Metro,Metro-B,Chelsea,2025-01-10,2025-01-01 09:03:00,3.8,369,Good
+214,Metro,Tram-2,SoHo,2025-03-08,2025-01-01 14:55:00,0.0,365,Good
+215,Metro,Metro-B,Bronx Park,2025-01-12,2025-01-01 07:03:00,10.7,301,Poor
+216,Metro,Bus-202,Harlem,2025-02-04,2025-01-01 11:31:00,6.6,329,Average
+217,Bus,Metro-A,SoHo,2025-01-04,2025-01-01 12:56:00,8.1,316,Average
+218,Metro,Metro-B,Uptown,2025-03-31,2025-01-01 16:13:00,2.6,337,Good
+219,Bus,Tram-2,Uptown,2025-02-26,2025-01-01 09:40:00,4.7,362,Good
+220,Metro,Metro-C,Chelsea,2025-01-25,2025-01-01 07:52:00,7.7,218,Average
+221,Bus,Bus-101,Harlem,2025-01-29,2025-01-01 07:58:00,2.3,364,Good
+222,Bus,Bus-102,Bronx Park,2025-03-12,2025-01-01 16:25:00,5.9,381,Average
+223,Bus,Metro-A,Downtown,2025-01-21,2025-01-01 12:08:00,4.6,312,Good
+224,Metro,Tram-2,SoHo,2025-01-29,2025-01-01 14:29:00,2.8,318,Good
+225,Bus,Bus-202,Bronx Park,2025-01-16,2025-01-01 15:42:00,6.0,252,Average
+226,Metro,Bus-202,Midtown,2025-02-07,2025-01-01 13:42:00,3.4,344,Good
+227,Metro,Bus-202,Brooklyn Heights,2025-02-18,2025-01-01 12:21:00,10.7,256,Poor
+228,Bus,Metro-A,Chelsea,2025-03-18,2025-01-01 11:10:00,4.5,362,Good
+229,Bus,Metro-B,Downtown,2025-01-24,2025-01-01 13:51:00,7.7,280,Average
+230,Bus,Metro-A,Midtown,2025-01-22,2025-01-01 10:52:00,3.8,394,Good
+231,Metro,Bus-202,Downtown,2025-01-29,2025-01-01 07:13:00,4.9,373,Good
+232,Metro,Metro-C,Downtown,2025-02-08,2025-01-01 15:57:00,7.6,272,Average
+233,Bus,Tram-2,Chelsea,2025-02-07,2025-01-01 14:33:00,5.1,314,Average
+234,Bus,Bus-102,Downtown,2025-02-23,2025-01-01 14:40:00,9.1,287,Average
+235,Metro,Bus-102,Bronx Park,2025-01-17,2025-01-01 06:10:00,12.6,259,Poor
+236,Metro,Metro-A,Bronx Park,2025-02-05,2025-01-01 14:19:00,6.6,212,Average
+237,Metro,Bus-202,Midtown,2025-02-17,2025-01-01 15:32:00,8.0,254,Average
+238,Metro,Bus-101,Uptown,2025-02-12,2025-01-01 09:57:00,0.1,403,Good
+239,Bus,Metro-C,Harlem,2025-03-31,2025-01-01 10:07:00,10.8,375,Poor
+240,Bus,Metro-A,SoHo,2025-02-13,2025-01-01 11:21:00,1.4,386,Good
+241,Bus,Bus-202,SoHo,2025-01-28,2025-01-01 10:01:00,5.9,329,Average
+242,Bus,Metro-B,Queens Village,2025-03-10,2025-01-01 07:18:00,4.8,363,Good
+243,Bus,Bus-102,Chelsea,2025-03-18,2025-01-01 10:17:00,4.3,317,Good
+244,Bus,Bus-102,Chinatown,2025-01-16,2025-01-01 07:15:00,10.0,352,Average
+245,Bus,Metro-C,Chinatown,2025-01-20,2025-01-01 10:21:00,2.9,239,Good
+246,Tram,Bus-102,Midtown,2025-01-30,2025-01-01 14:27:00,12.0,297,Poor
+247,Metro,Bus-101,Downtown,2025-02-10,2025-01-01 12:26:00,6.7,280,Average
+248,Metro,Bus-202,Downtown,2025-03-17,2025-01-01 09:25:00,9.7,285,Average
+249,Metro,Bus-202,Chelsea,2025-01-26,2025-01-01 17:24:00,6.0,252,Average
+250,Bus,Metro-C,Brooklyn Heights,2025-01-09,2025-01-01 15:41:00,9.4,304,Average
+251,Metro,Bus-202,Uptown,2025-03-04,2025-01-01 06:47:00,0.0,391,Good
+252,Bus,Metro-C,Queens Village,2025-02-12,2025-01-01 11:39:00,6.6,231,Average
+253,Metro,Bus-202,Bronx Park,2025-02-23,2025-01-01 13:07:00,12.2,202,Poor
+254,Bus,Bus-101,Downtown,2025-03-31,2025-01-01 17:37:00,5.7,250,Average
+255,Tram,Tram-2,Queens Village,2025-01-16,2025-01-01 17:13:00,8.5,293,Average
+256,Bus,Metro-A,SoHo,2025-02-14,2025-01-01 07:39:00,0.0,303,Good
+257,Bus,Metro-A,Brooklyn Heights,2025-01-19,2025-01-01 09:54:00,6.5,262,Average
+258,Tram,Bus-202,Bronx Park,2025-02-22,2025-01-01 13:35:00,12.0,206,Poor
+259,Bus,Metro-B,Chelsea,2025-03-05,2025-01-01 15:13:00,0.9,417,Good
+260,Metro,Bus-102,Queens Village,2025-01-09,2025-01-01 13:31:00,10.2,272,Poor
+261,Metro,Bus-101,Midtown,2025-02-03,2025-01-01 12:07:00,5.9,366,Average
+262,Metro,Metro-B,Bronx Park,2025-01-29,2025-01-01 17:24:00,7.9,284,Average
+263,Tram,Metro-B,Chelsea,2025-02-19,2025-01-01 16:11:00,3.9,316,Good
+264,Tram,Bus-202,Chinatown,2025-01-10,2025-01-01 15:34:00,3.9,304,Good
+265,Bus,Bus-101,Chelsea,2025-03-07,2025-01-01 13:17:00,3.5,282,Good
+266,Metro,Metro-A,Chelsea,2025-03-22,2025-01-01 10:59:00,7.5,296,Average
+267,Metro,Bus-102,Bronx Park,2025-02-16,2025-01-01 16:59:00,7.4,209,Average
+268,Metro,Metro-A,Brooklyn Heights,2025-02-27,2025-01-01 13:01:00,13.5,213,Poor
+269,Bus,Metro-B,Bronx Park,2025-02-28,2025-01-01 07:19:00,9.6,364,Average
+270,Metro,Bus-102,Harlem,2025-02-28,2025-01-01 10:13:00,2.9,334,Good
+271,Tram,Tram-2,Uptown,2025-01-15,2025-01-01 15:59:00,6.2,413,Average
+272,Tram,Metro-B,Brooklyn Heights,2025-03-29,2025-01-01 08:27:00,9.9,229,Average
+273,Bus,Metro-A,Midtown,2025-03-26,2025-01-01 11:57:00,0.4,246,Good
+274,Bus,Metro-A,Brooklyn Heights,2025-02-01,2025-01-01 06:39:00,5.0,220,Good
+275,Bus,Bus-202,SoHo,2025-01-18,2025-01-01 12:41:00,3.5,311,Good
+276,Metro,Metro-A,Midtown,2025-01-25,2025-01-01 14:39:00,0.7,310,Good
+277,Metro,Bus-101,Chinatown,2025-02-04,2025-01-01 08:57:00,11.7,301,Poor
+278,Bus,Metro-B,Bronx Park,2025-02-22,2025-01-01 17:35:00,11.1,221,Poor
+279,Bus,Metro-C,Chelsea,2025-01-08,2025-01-01 08:58:00,4.7,323,Good
+280,Bus,Metro-C,Bronx Park,2025-01-20,2025-01-01 07:17:00,7.6,268,Average
+281,Bus,Bus-102,SoHo,2025-01-29,2025-01-01 06:18:00,2.0,368,Good
+282,Tram,Metro-A,Queens Village,2025-02-01,2025-01-01 09:17:00,2.2,342,Good
+283,Metro,Bus-202,SoHo,2025-03-14,2025-01-01 11:28:00,0.0,314,Good
+284,Bus,Bus-202,Harlem,2025-01-08,2025-01-01 17:23:00,10.3,381,Poor
+285,Metro,Metro-A,Chelsea,2025-03-01,2025-01-01 07:34:00,9.5,322,Average
+286,Bus,Bus-101,Chelsea,2025-03-23,2025-01-01 10:22:00,3.0,242,Good
+287,Tram,Bus-202,Downtown,2025-03-08,2025-01-01 07:00:00,9.5,377,Average
+288,Bus,Metro-C,Queens Village,2025-01-06,2025-01-01 14:09:00,9.6,382,Average
+289,Bus,Bus-102,Downtown,2025-03-04,2025-01-01 10:22:00,8.6,319,Average
+290,Bus,Metro-B,Chinatown,2025-01-08,2025-01-01 10:07:00,1.1,313,Good
+291,Metro,Tram-2,Uptown,2025-01-01,2025-01-01 06:25:00,0.0,326,Good
+292,Metro,Bus-101,Uptown,2025-02-23,2025-01-01 11:04:00,6.8,317,Average
+293,Metro,Bus-202,Bronx Park,2025-03-24,2025-01-01 07:41:00,2.7,320,Good
+294,Bus,Metro-B,Uptown,2025-03-26,2025-01-01 06:15:00,2.9,339,Good
+295,Bus,Tram-2,Chelsea,2025-01-11,2025-01-01 17:38:00,3.6,402,Good
+296,Bus,Metro-A,SoHo,2025-02-23,2025-01-01 15:17:00,2.4,334,Good
+297,Metro,Metro-A,Queens Village,2025-01-30,2025-01-01 14:55:00,9.0,248,Average
+298,Bus,Bus-102,Bronx Park,2025-03-11,2025-01-01 16:45:00,6.6,230,Average
+299,Metro,Tram-2,Bronx Park,2025-02-22,2025-01-01 12:03:00,9.8,223,Average
+300,Metro,Metro-A,Queens Village,2025-03-13,2025-01-01 11:32:00,8.5,294,Average
+301,Metro,Metro-A,Chelsea,2025-02-04,2025-01-01 17:25:00,11.0,254,Poor
+302,Bus,Metro-C,Chinatown,2025-01-29,2025-01-01 09:23:00,1.2,268,Good
+303,Bus,Bus-202,Chinatown,2025-02-13,2025-01-01 16:35:00,5.5,375,Average
+304,Bus,Bus-102,Bronx Park,2025-02-04,2025-01-01 06:34:00,9.9,212,Average
+305,Metro,Metro-B,Chinatown,2025-01-31,2025-01-01 14:31:00,4.6,352,Good
+306,Metro,Metro-A,Chelsea,2025-02-23,2025-01-01 12:38:00,0.7,215,Good
+307,Bus,Metro-C,Harlem,2025-03-03,2025-01-01 08:17:00,8.4,393,Average
+308,Bus,Bus-101,Harlem,2025-02-12,2025-01-01 16:32:00,5.6,257,Average
+309,Metro,Bus-101,Downtown,2025-02-09,2025-01-01 08:31:00,3.0,244,Good
+310,Metro,Metro-B,Brooklyn Heights,2025-01-03,2025-01-01 14:35:00,9.4,303,Average
+311,Bus,Tram-2,Midtown,2025-02-05,2025-01-01 12:07:00,10.5,322,Poor
+312,Metro,Bus-102,Uptown,2025-02-07,2025-01-01 07:25:00,3.2,385,Good
+313,Bus,Metro-C,Chinatown,2025-03-06,2025-01-01 11:31:00,5.4,245,Average
+314,Bus,Bus-202,Harlem,2025-02-28,2025-01-01 16:33:00,9.3,306,Average
+315,Tram,Metro-C,SoHo,2025-03-22,2025-01-01 13:03:00,0.9,302,Good
+316,Metro,Bus-101,Queens Village,2025-02-26,2025-01-01 09:50:00,13.2,213,Poor
+317,Metro,Bus-101,Brooklyn Heights,2025-03-21,2025-01-01 13:04:00,11.0,298,Poor
+318,Bus,Metro-B,Downtown,2025-01-04,2025-01-01 07:17:00,4.0,335,Good
+319,Metro,Tram-2,Midtown,2025-03-22,2025-01-01 08:30:00,3.4,292,Good
+320,Bus,Tram-2,Harlem,2025-02-24,2025-01-01 09:39:00,3.0,397,Good
+321,Bus,Metro-B,Downtown,2025-01-19,2025-01-01 12:22:00,1.3,249,Good
+322,Metro,Metro-C,Brooklyn Heights,2025-01-29,2025-01-01 12:33:00,8.8,343,Average
+323,Bus,Bus-101,Queens Village,2025-01-16,2025-01-01 12:06:00,5.4,297,Average
+324,Metro,Metro-C,Uptown,2025-03-25,2025-01-01 14:38:00,4.2,279,Good
+325,Metro,Metro-C,Harlem,2025-01-16,2025-01-01 08:48:00,0.7,419,Good
+326,Bus,Bus-102,Queens Village,2025-03-17,2025-01-01 14:01:00,10.8,246,Poor
+327,Bus,Bus-101,Midtown,2025-02-17,2025-01-01 11:47:00,7.6,369,Average
+328,Bus,Tram-2,Chinatown,2025-03-15,2025-01-01 09:57:00,3.3,316,Good
+329,Bus,Bus-202,Brooklyn Heights,2025-01-15,2025-01-01 15:53:00,9.1,287,Average
+330,Metro,Metro-C,Midtown,2025-04-01,2025-01-01 15:58:00,5.7,353,Average
+331,Metro,Bus-101,Uptown,2025-03-17,2025-01-01 14:55:00,7.7,382,Average
+332,Bus,Metro-C,Queens Village,2025-01-24,2025-01-01 07:24:00,5.0,251,Good
+333,Bus,Bus-102,Chelsea,2025-03-21,2025-01-01 08:56:00,4.3,345,Good
+334,Metro,Metro-A,Uptown,2025-02-13,2025-01-01 14:11:00,1.4,363,Good
+335,Metro,Bus-101,Bronx Park,2025-01-26,2025-01-01 07:38:00,8.8,270,Average
+336,Bus,Metro-B,Harlem,2025-01-04,2025-01-01 15:57:00,6.2,310,Average
+337,Bus,Metro-A,Chinatown,2025-03-01,2025-01-01 07:42:00,3.4,319,Good
+338,Metro,Metro-C,Brooklyn Heights,2025-02-28,2025-01-01 08:50:00,7.0,367,Average
+339,Bus,Metro-B,SoHo,2025-03-20,2025-01-01 10:00:00,6.7,318,Average
+340,Bus,Metro-B,Queens Village,2025-02-13,2025-01-01 06:19:00,12.1,329,Poor
+341,Metro,Metro-B,Chelsea,2025-02-21,2025-01-01 13:14:00,6.2,287,Average
+342,Metro,Bus-101,SoHo,2025-03-08,2025-01-01 09:01:00,3.4,288,Good
+343,Metro,Tram-2,Harlem,2025-01-10,2025-01-01 09:58:00,3.9,484,Good
+344,Metro,Metro-C,Harlem,2025-03-07,2025-01-01 10:15:00,6.3,347,Average
+345,Metro,Metro-A,Brooklyn Heights,2025-01-16,2025-01-01 07:46:00,8.7,297,Average
+346,Bus,Bus-102,Chelsea,2025-03-25,2025-01-01 17:13:00,0.0,348,Good
+347,Bus,Tram-2,Harlem,2025-02-13,2025-01-01 12:26:00,6.3,391,Average
+348,Bus,Metro-C,SoHo,2025-01-07,2025-01-01 09:01:00,1.2,353,Good
+349,Bus,Bus-101,Chelsea,2025-03-08,2025-01-01 16:45:00,0.5,359,Good
+350,Metro,Metro-B,SoHo,2025-02-15,2025-01-01 17:41:00,0.0,280,Good
+351,Metro,Bus-102,Uptown,2025-01-27,2025-01-01 06:28:00,2.6,389,Good
+352,Tram,Metro-C,Midtown,2025-01-06,2025-01-01 10:16:00,2.4,297,Good
+353,Metro,Metro-A,Chelsea,2025-03-19,2025-01-01 12:13:00,0.0,352,Good
+354,Bus,Metro-C,Downtown,2025-02-11,2025-01-01 07:48:00,5.7,202,Average
+355,Bus,Tram-2,Midtown,2025-01-01,2025-01-01 09:28:00,3.9,340,Good
+356,Metro,Bus-202,Midtown,2025-02-06,2025-01-01 12:01:00,5.0,196,Good
+357,Metro,Tram-2,Chelsea,2025-03-20,2025-01-01 14:02:00,2.9,304,Good
+358,Metro,Metro-C,Chinatown,2025-03-03,2025-01-01 07:52:00,10.9,223,Poor
+359,Metro,Bus-102,Harlem,2025-03-05,2025-01-01 06:07:00,6.2,352,Average
+360,Metro,Metro-C,Uptown,2025-03-01,2025-01-01 12:41:00,1.8,344,Good
+361,Metro,Metro-C,Chinatown,2025-01-10,2025-01-01 09:55:00,5.2,270,Average
+362,Bus,Bus-101,Chinatown,2025-03-12,2025-01-01 09:47:00,9.6,380,Average
+363,Metro,Metro-A,Downtown,2025-02-25,2025-01-01 11:03:00,9.6,243,Average
+364,Metro,Bus-102,Queens Village,2025-03-01,2025-01-01 08:07:00,3.9,117,Good
+365,Bus,Metro-C,Chelsea,2025-03-20,2025-01-01 07:33:00,1.8,344,Good
+366,Metro,Metro-B,SoHo,2025-01-17,2025-01-01 17:36:00,1.5,244,Good
+367,Bus,Metro-A,Harlem,2025-01-29,2025-01-01 16:08:00,3.3,277,Good
+368,Tram,Tram-2,Chinatown,2025-01-19,2025-01-01 15:52:00,3.6,283,Good
+369,Bus,Bus-102,Uptown,2025-02-02,2025-01-01 15:49:00,3.4,269,Good
+370,Metro,Tram-2,Queens Village,2025-03-10,2025-01-01 14:26:00,10.3,244,Poor
+371,Bus,Metro-C,Downtown,2025-03-04,2025-01-01 16:11:00,9.5,218,Average
+372,Metro,Tram-2,Bronx Park,2025-01-05,2025-01-01 09:53:00,7.7,268,Average
+373,Bus,Tram-2,Harlem,2025-03-04,2025-01-01 08:47:00,0.0,259,Good
+374,Bus,Bus-101,Bronx Park,2025-01-01,2025-01-01 09:08:00,5.5,261,Average
+375,Bus,Tram-2,Midtown,2025-03-24,2025-01-01 14:33:00,3.8,366,Good
+376,Tram,Metro-B,Chinatown,2025-02-05,2025-01-01 14:18:00,1.7,348,Good
+377,Bus,Metro-B,Brooklyn Heights,2025-01-12,2025-01-01 17:43:00,11.5,264,Poor
+378,Bus,Metro-A,Harlem,2025-01-15,2025-01-01 15:32:00,1.1,271,Good
+379,Metro,Metro-C,SoHo,2025-03-18,2025-01-01 14:51:00,5.7,340,Average
+380,Metro,Bus-202,Queens Village,2025-03-18,2025-01-01 12:55:00,3.0,234,Good
+381,Tram,Tram-2,Uptown,2025-02-27,2025-01-01 13:06:00,5.3,350,Average
+382,Bus,Tram-2,Harlem,2025-01-23,2025-01-01 13:54:00,4.2,235,Good
+383,Metro,Bus-102,SoHo,2025-01-29,2025-01-01 17:19:00,8.3,373,Average
+384,Bus,Bus-101,Chelsea,2025-02-12,2025-01-01 12:36:00,1.4,320,Good
+385,Bus,Bus-202,Bronx Park,2025-01-07,2025-01-01 15:16:00,7.0,370,Average
+386,Metro,Metro-A,Chelsea,2025-01-19,2025-01-01 10:52:00,3.6,384,Good
+387,Metro,Bus-202,Queens Village,2025-03-01,2025-01-01 16:54:00,7.6,297,Average
+388,Metro,Tram-2,Downtown,2025-03-02,2025-01-01 10:42:00,5.7,282,Average
+389,Bus,Bus-102,Chinatown,2025-01-24,2025-01-01 11:07:00,4.4,272,Good
+390,Bus,Metro-C,Harlem,2025-02-23,2025-01-01 08:32:00,3.6,367,Good
+391,Bus,Bus-101,Brooklyn Heights,2025-03-25,2025-01-01 09:05:00,1.9,257,Good
+392,Tram,Metro-C,Bronx Park,2025-02-05,2025-01-01 10:03:00,11.6,318,Poor
+393,Bus,Metro-A,Bronx Park,2025-02-05,2025-01-01 10:24:00,17.2,280,Poor
+394,Bus,Bus-202,Harlem,2025-01-06,2025-01-01 17:20:00,5.5,341,Average
+395,Bus,Metro-A,Midtown,2025-02-22,2025-01-01 17:04:00,2.0,338,Good
+396,Metro,Tram-2,Chelsea,2025-02-16,2025-01-01 17:50:00,1.6,272,Good
+397,Bus,Metro-A,Bronx Park,2025-01-03,2025-01-01 11:18:00,10.5,209,Poor
+398,Tram,Metro-C,SoHo,2025-03-04,2025-01-01 13:27:00,5.0,280,Good
+399,Bus,Bus-102,Uptown,2025-03-23,2025-01-01 07:47:00,2.4,392,Good
+400,Metro,Metro-A,Chinatown,2025-01-17,2025-01-01 11:10:00,7.7,261,Average
+401,Bus,Metro-B,Bronx Park,2025-02-08,2025-01-01 16:16:00,2.5,219,Good
+402,Metro,Bus-102,SoHo,2025-03-28,2025-01-01 07:12:00,6.1,359,Average
+403,Tram,Bus-202,Queens Village,2025-02-19,2025-01-01 08:05:00,8.8,256,Average
+404,Bus,Bus-101,Queens Village,2025-02-04,2025-01-01 11:04:00,5.1,250,Average
+405,Tram,Bus-101,Chinatown,2025-01-29,2025-01-01 15:42:00,1.1,285,Good
+406,Bus,Tram-2,Midtown,2025-02-27,2025-01-01 06:57:00,5.8,192,Average
+407,Tram,Tram-2,Brooklyn Heights,2025-02-10,2025-01-01 15:45:00,12.3,220,Poor
+408,Metro,Metro-B,Chinatown,2025-01-10,2025-01-01 10:04:00,4.7,368,Good
+409,Bus,Bus-202,Downtown,2025-02-10,2025-01-01 13:58:00,4.2,261,Good
+410,Bus,Metro-C,Midtown,2025-02-25,2025-01-01 06:18:00,6.0,213,Average
+411,Bus,Bus-101,Bronx Park,2025-03-31,2025-01-01 15:42:00,14.1,209,Poor
+412,Bus,Bus-101,Chinatown,2025-01-13,2025-01-01 10:44:00,6.7,327,Average
+413,Bus,Bus-101,Chelsea,2025-03-15,2025-01-01 14:14:00,6.4,335,Average
+414,Bus,Metro-C,Queens Village,2025-02-04,2025-01-01 15:03:00,11.7,254,Poor
+415,Bus,Bus-101,SoHo,2025-03-12,2025-01-01 13:19:00,5.2,298,Average
+416,Metro,Metro-A,Chinatown,2025-02-08,2025-01-01 13:53:00,3.1,238,Good
+417,Bus,Bus-202,Chelsea,2025-03-15,2025-01-01 11:59:00,0.0,337,Good
+418,Bus,Bus-102,Midtown,2025-03-01,2025-01-01 10:32:00,2.6,350,Good
+419,Metro,Bus-102,Downtown,2025-02-03,2025-01-01 09:09:00,3.4,353,Good
+420,Bus,Metro-B,SoHo,2025-03-31,2025-01-01 15:34:00,5.8,277,Average
+421,Bus,Metro-A,Uptown,2025-03-09,2025-01-01 11:52:00,5.7,408,Average
+422,Bus,Bus-101,Downtown,2025-01-08,2025-01-01 17:58:00,7.3,285,Average
+423,Tram,Bus-101,Bronx Park,2025-02-03,2025-01-01 09:57:00,4.8,261,Good
+424,Metro,Tram-2,Chelsea,2025-02-28,2025-01-01 06:08:00,10.1,363,Poor
+425,Bus,Tram-2,Chinatown,2025-03-29,2025-01-01 06:41:00,4.1,282,Good
+426,Metro,Metro-B,Chinatown,2025-03-18,2025-01-01 07:53:00,7.2,200,Average
+427,Metro,Bus-101,Harlem,2025-01-15,2025-01-01 13:42:00,4.8,356,Good
+428,Metro,Metro-B,Queens Village,2025-01-27,2025-01-01 07:06:00,8.7,286,Average
+429,Metro,Metro-A,Bronx Park,2025-02-19,2025-01-01 08:27:00,10.4,242,Poor
+430,Metro,Bus-102,Chelsea,2025-03-19,2025-01-01 10:05:00,2.7,349,Good
+431,Bus,Bus-101,Chinatown,2025-03-04,2025-01-01 09:39:00,9.3,350,Average
+432,Bus,Bus-202,Uptown,2025-02-11,2025-01-01 10:42:00,0.0,264,Good
+433,Bus,Metro-C,SoHo,2025-02-07,2025-01-01 14:42:00,0.7,334,Good
+434,Metro,Metro-A,Bronx Park,2025-02-11,2025-01-01 15:16:00,12.5,146,Poor
+435,Metro,Bus-101,Midtown,2025-03-17,2025-01-01 06:09:00,7.2,302,Average
+436,Metro,Metro-C,Uptown,2025-02-07,2025-01-01 07:54:00,10.9,321,Poor
+437,Tram,Bus-202,SoHo,2025-03-19,2025-01-01 10:47:00,4.0,357,Good
+438,Bus,Tram-2,Brooklyn Heights,2025-03-27,2025-01-01 12:36:00,13.2,215,Poor
+439,Metro,Metro-B,Queens Village,2025-02-12,2025-01-01 16:57:00,2.5,247,Good
+440,Metro,Tram-2,Bronx Park,2025-02-09,2025-01-01 07:11:00,4.4,99,Good
+441,Tram,Bus-102,Chelsea,2025-03-24,2025-01-01 15:42:00,7.4,346,Average
+442,Tram,Tram-2,Downtown,2025-02-06,2025-01-01 09:14:00,1.5,284,Good
+443,Metro,Bus-101,SoHo,2025-03-25,2025-01-01 17:13:00,3.2,337,Good
+444,Bus,Bus-202,Midtown,2025-02-27,2025-01-01 17:49:00,8.9,234,Average
+445,Metro,Tram-2,Chinatown,2025-01-18,2025-01-01 12:59:00,6.9,329,Average
+446,Bus,Bus-101,Downtown,2025-03-01,2025-01-01 16:34:00,6.8,371,Average
+447,Metro,Bus-102,Uptown,2025-01-20,2025-01-01 13:47:00,1.9,331,Good
+448,Tram,Metro-C,Queens Village,2025-02-28,2025-01-01 14:52:00,8.7,301,Average
+449,Bus,Bus-202,Chelsea,2025-02-24,2025-01-01 14:41:00,6.5,275,Average
+450,Metro,Tram-2,Downtown,2025-01-11,2025-01-01 06:46:00,4.8,284,Good
+451,Bus,Metro-B,Midtown,2025-03-14,2025-01-01 06:30:00,6.5,232,Average
+452,Bus,Metro-B,SoHo,2025-02-20,2025-01-01 08:31:00,7.0,372,Average
+453,Bus,Bus-202,Chelsea,2025-02-25,2025-01-01 10:54:00,4.1,326,Good
+454,Metro,Metro-B,Brooklyn Heights,2025-01-13,2025-01-01 08:43:00,8.3,208,Average
+455,Tram,Tram-2,Chinatown,2025-03-19,2025-01-01 06:21:00,6.8,269,Average
+456,Tram,Tram-2,Queens Village,2025-03-19,2025-01-01 15:55:00,9.7,272,Average
+457,Bus,Bus-202,Downtown,2025-01-29,2025-01-01 17:48:00,9.4,334,Average
+458,Metro,Tram-2,Queens Village,2025-02-01,2025-01-01 12:33:00,5.0,343,Good
+459,Metro,Metro-C,Queens Village,2025-02-01,2025-01-01 08:48:00,6.5,262,Average
+460,Bus,Bus-101,Queens Village,2025-03-23,2025-01-01 10:15:00,6.6,200,Average
+461,Bus,Bus-102,SoHo,2025-03-03,2025-01-01 09:12:00,1.1,344,Good
+462,Bus,Metro-C,Queens Village,2025-02-12,2025-01-01 12:24:00,2.7,358,Good
+463,Tram,Metro-C,Brooklyn Heights,2025-01-31,2025-01-01 15:41:00,0.0,187,Good
+464,Metro,Metro-B,Uptown,2025-03-01,2025-01-01 16:08:00,6.9,292,Average
+465,Metro,Bus-101,Midtown,2025-02-20,2025-01-01 10:46:00,0.7,339,Good
+466,Bus,Bus-202,Chelsea,2025-01-11,2025-01-01 13:39:00,9.5,326,Average
+467,Metro,Metro-B,Brooklyn Heights,2025-02-12,2025-01-01 10:57:00,10.3,241,Poor
+468,Bus,Bus-101,Chelsea,2025-01-12,2025-01-01 11:05:00,3.5,329,Good
+469,Bus,Tram-2,Midtown,2025-01-08,2025-01-01 09:21:00,7.3,357,Average
+470,Metro,Bus-202,Uptown,2025-01-25,2025-01-01 17:36:00,4.6,335,Good
+471,Bus,Bus-202,Bronx Park,2025-01-06,2025-01-01 09:45:00,5.3,250,Average
+472,Metro,Metro-B,Chelsea,2025-01-27,2025-01-01 11:42:00,4.7,348,Good
+473,Bus,Tram-2,Chelsea,2025-03-25,2025-01-01 12:23:00,1.8,305,Good
+474,Metro,Metro-B,Uptown,2025-01-29,2025-01-01 11:02:00,5.3,397,Average
+475,Bus,Metro-A,Downtown,2025-02-05,2025-01-01 14:01:00,4.6,390,Good
+476,Metro,Bus-101,Brooklyn Heights,2025-03-18,2025-01-01 12:05:00,7.8,224,Average
+477,Bus,Metro-A,Downtown,2025-02-21,2025-01-01 10:50:00,6.3,226,Average
+478,Bus,Bus-101,Downtown,2025-02-19,2025-01-01 09:39:00,7.1,307,Average
+479,Tram,Bus-102,Downtown,2025-03-04,2025-01-01 07:58:00,11.7,224,Poor
+480,Bus,Metro-C,Queens Village,2025-03-21,2025-01-01 13:31:00,7.3,203,Average
+481,Metro,Bus-202,Chinatown,2025-02-18,2025-01-01 13:24:00,9.0,206,Average
+482,Tram,Metro-B,Chelsea,2025-01-24,2025-01-01 11:34:00,6.2,299,Average
+483,Bus,Bus-102,Downtown,2025-01-02,2025-01-01 09:35:00,11.0,287,Poor
+484,Bus,Bus-102,Brooklyn Heights,2025-01-18,2025-01-01 16:08:00,7.0,243,Average
+485,Metro,Bus-202,Chinatown,2025-01-03,2025-01-01 10:50:00,7.5,378,Average
+486,Tram,Bus-202,Chinatown,2025-03-21,2025-01-01 17:13:00,5.2,374,Average
+487,Tram,Bus-101,Downtown,2025-01-11,2025-01-01 10:21:00,0.0,385,Good
+488,Metro,Metro-A,SoHo,2025-02-03,2025-01-01 15:59:00,0.5,335,Good
+489,Metro,Tram-2,Downtown,2025-01-27,2025-01-01 14:50:00,8.5,347,Average
+490,Bus,Bus-101,SoHo,2025-03-04,2025-01-01 12:21:00,5.4,348,Average
+491,Tram,Tram-2,Downtown,2025-03-24,2025-01-01 08:10:00,2.9,299,Good
+492,Tram,Bus-102,Brooklyn Heights,2025-01-03,2025-01-01 06:33:00,8.7,245,Average
+493,Bus,Tram-2,SoHo,2025-01-04,2025-01-01 06:04:00,5.3,219,Average
+494,Bus,Metro-A,Queens Village,2025-02-12,2025-01-01 16:06:00,8.0,300,Average
+495,Bus,Bus-101,Chinatown,2025-01-31,2025-01-01 16:55:00,7.6,366,Average
+496,Bus,Bus-202,Downtown,2025-01-15,2025-01-01 07:09:00,8.5,212,Average
+497,Metro,Metro-A,Chinatown,2025-01-31,2025-01-01 15:18:00,5.3,308,Average
+498,Bus,Metro-C,Downtown,2025-03-20,2025-01-01 14:09:00,5.2,338,Average
+499,Bus,Metro-A,Chelsea,2025-01-26,2025-01-01 12:21:00,7.9,300,Average
+500,Bus,Metro-C,Chelsea,2025-01-13,2025-01-01 11:59:00,6.1,378,Average
+501,Tram,Bus-101,Harlem,2025-01-26,2025-01-01 08:02:00,0.5,313,Good
+502,Metro,Bus-202,Downtown,2025-01-01,2025-01-01 17:04:00,7.4,262,Average
+503,Bus,Metro-A,Harlem,2025-02-24,2025-01-01 17:57:00,1.2,383,Good
+504,Bus,Metro-C,Uptown,2025-01-09,2025-01-01 15:18:00,0.4,293,Good
+505,Tram,Bus-202,Uptown,2025-03-02,2025-01-01 13:47:00,1.3,304,Good
+506,Metro,Metro-B,Chinatown,2025-01-17,2025-01-01 10:45:00,5.5,264,Average
+507,Bus,Metro-B,SoHo,2025-03-26,2025-01-01 08:28:00,4.9,275,Good
+508,Bus,Metro-B,Downtown,2025-03-23,2025-01-01 14:24:00,5.5,296,Average
+509,Bus,Tram-2,Midtown,2025-02-19,2025-01-01 06:29:00,4.3,283,Good
+510,Bus,Metro-A,Downtown,2025-02-18,2025-01-01 11:36:00,5.2,313,Average
+511,Metro,Bus-101,Downtown,2025-01-20,2025-01-01 06:30:00,9.9,201,Average
+512,Tram,Bus-101,Midtown,2025-03-17,2025-01-01 17:17:00,0.0,252,Good
+513,Bus,Tram-2,Uptown,2025-02-27,2025-01-01 08:16:00,2.4,343,Good
+514,Metro,Bus-101,Harlem,2025-03-13,2025-01-01 14:57:00,9.2,394,Average
+515,Bus,Metro-C,Chinatown,2025-01-13,2025-01-01 07:44:00,6.9,328,Average
+516,Metro,Metro-B,Uptown,2025-03-15,2025-01-01 11:50:00,7.1,311,Average
+517,Metro,Metro-A,Midtown,2025-01-24,2025-01-01 09:11:00,0.0,234,Good
+518,Bus,Bus-101,Downtown,2025-03-09,2025-01-01 12:14:00,3.0,256,Good
+519,Bus,Bus-101,Uptown,2025-02-23,2025-01-01 17:39:00,4.8,338,Good
+520,Metro,Bus-102,Brooklyn Heights,2025-02-13,2025-01-01 08:22:00,12.7,151,Poor
+521,Bus,Bus-102,Chelsea,2025-02-15,2025-01-01 17:41:00,1.3,258,Good
+522,Bus,Bus-102,Downtown,2025-01-22,2025-01-01 10:43:00,5.6,251,Average
+523,Metro,Metro-A,Bronx Park,2025-03-08,2025-01-01 13:43:00,9.9,247,Average
+524,Tram,Metro-B,Midtown,2025-02-24,2025-01-01 09:00:00,1.1,306,Good
+525,Bus,Bus-202,Queens Village,2025-02-11,2025-01-01 12:16:00,9.6,238,Average
+526,Metro,Metro-B,SoHo,2025-01-30,2025-01-01 06:24:00,0.0,358,Good
+527,Bus,Metro-B,Queens Village,2025-02-20,2025-01-01 08:49:00,9.5,275,Average
+528,Metro,Metro-A,Uptown,2025-02-08,2025-01-01 13:56:00,0.3,322,Good
+529,Metro,Metro-C,Downtown,2025-01-07,2025-01-01 07:26:00,5.4,320,Average
+530,Metro,Metro-C,SoHo,2025-01-02,2025-01-01 15:35:00,5.8,361,Average
+531,Bus,Metro-A,SoHo,2025-03-25,2025-01-01 07:54:00,5.1,260,Average
+532,Metro,Bus-102,Chinatown,2025-01-28,2025-01-01 12:41:00,5.4,307,Average
+533,Metro,Bus-101,Queens Village,2025-01-04,2025-01-01 13:06:00,11.0,313,Poor
+534,Bus,Tram-2,Downtown,2025-03-01,2025-01-01 06:12:00,1.7,341,Good
+535,Bus,Tram-2,Chinatown,2025-03-31,2025-01-01 15:09:00,6.0,327,Average
+536,Bus,Bus-202,Harlem,2025-03-19,2025-01-01 15:29:00,2.2,309,Good
+537,Bus,Bus-101,Queens Village,2025-03-02,2025-01-01 12:26:00,10.8,290,Poor
+538,Metro,Bus-202,Chelsea,2025-02-19,2025-01-01 14:28:00,6.8,359,Average
+539,Bus,Bus-102,Chelsea,2025-03-21,2025-01-01 10:56:00,6.9,324,Average
+540,Bus,Bus-202,Chinatown,2025-01-23,2025-01-01 09:00:00,10.3,320,Poor
+541,Metro,Bus-101,Harlem,2025-01-26,2025-01-01 08:19:00,8.0,308,Average
+542,Bus,Bus-101,Brooklyn Heights,2025-01-22,2025-01-01 16:37:00,7.6,202,Average
+543,Metro,Tram-2,Brooklyn Heights,2025-01-09,2025-01-01 15:24:00,8.1,260,Average
+544,Bus,Metro-C,Chelsea,2025-01-05,2025-01-01 09:22:00,6.6,284,Average
+545,Tram,Bus-102,Bronx Park,2025-01-03,2025-01-01 06:05:00,9.1,226,Average
+546,Metro,Metro-A,Midtown,2025-01-25,2025-01-01 16:17:00,7.5,380,Average
+547,Metro,Bus-202,Midtown,2025-01-17,2025-01-01 17:27:00,0.0,356,Good
+548,Bus,Tram-2,Bronx Park,2025-02-19,2025-01-01 16:30:00,14.3,175,Poor
+549,Metro,Bus-202,Chinatown,2025-02-10,2025-01-01 07:24:00,5.6,254,Average
+550,Bus,Bus-202,Midtown,2025-03-29,2025-01-01 11:36:00,0.5,290,Good
+551,Bus,Metro-A,Midtown,2025-02-12,2025-01-01 15:03:00,2.7,276,Good
+552,Bus,Bus-102,Queens Village,2025-01-15,2025-01-01 07:59:00,1.7,284,Good
+553,Metro,Bus-101,Queens Village,2025-03-04,2025-01-01 10:14:00,4.8,206,Good
+554,Bus,Metro-B,Bronx Park,2025-03-25,2025-01-01 14:42:00,8.2,308,Average
+555,Metro,Bus-202,Downtown,2025-03-18,2025-01-01 17:16:00,11.3,286,Poor
+556,Bus,Metro-B,Harlem,2025-03-28,2025-01-01 12:35:00,5.8,303,Average
+557,Bus,Bus-102,Chinatown,2025-02-10,2025-01-01 08:07:00,6.1,308,Average
+558,Metro,Metro-B,Queens Village,2025-03-16,2025-01-01 10:49:00,4.7,248,Good
+559,Bus,Bus-202,Queens Village,2025-02-04,2025-01-01 10:59:00,5.6,167,Average
+560,Metro,Metro-A,Brooklyn Heights,2025-01-09,2025-01-01 17:22:00,5.8,269,Average
+561,Bus,Metro-B,Harlem,2025-01-12,2025-01-01 13:18:00,2.5,304,Good
+562,Metro,Bus-102,Brooklyn Heights,2025-02-27,2025-01-01 09:17:00,7.0,221,Average
+563,Metro,Bus-102,Downtown,2025-02-21,2025-01-01 11:41:00,5.9,343,Average
+564,Bus,Metro-C,Harlem,2025-01-15,2025-01-01 09:25:00,3.6,354,Good
+565,Bus,Metro-C,Midtown,2025-03-30,2025-01-01 13:26:00,3.4,430,Good
+566,Metro,Metro-A,Brooklyn Heights,2025-03-21,2025-01-01 06:59:00,8.5,310,Average
+567,Metro,Metro-B,Chelsea,2025-01-30,2025-01-01 14:48:00,3.8,286,Good
+568,Bus,Metro-B,Chinatown,2025-03-06,2025-01-01 17:46:00,0.6,263,Good
+569,Bus,Metro-C,Midtown,2025-03-07,2025-01-01 08:32:00,5.5,284,Average
+570,Metro,Bus-101,Harlem,2025-02-16,2025-01-01 16:50:00,4.3,287,Good
+571,Metro,Tram-2,Chelsea,2025-03-21,2025-01-01 15:03:00,0.0,324,Good
+572,Bus,Bus-102,Downtown,2025-01-29,2025-01-01 15:49:00,5.0,211,Good
+573,Bus,Bus-101,Chelsea,2025-02-16,2025-01-01 15:31:00,6.5,351,Average
+574,Bus,Bus-102,Queens Village,2025-01-17,2025-01-01 12:36:00,4.7,273,Good
+575,Metro,Bus-101,Bronx Park,2025-02-15,2025-01-01 11:57:00,4.9,286,Good
+576,Bus,Metro-C,Chelsea,2025-01-02,2025-01-01 17:06:00,3.8,261,Good
+577,Tram,Metro-C,SoHo,2025-03-18,2025-01-01 15:51:00,5.7,345,Average
+578,Bus,Tram-2,Downtown,2025-02-06,2025-01-01 06:31:00,12.2,353,Poor
+579,Bus,Bus-101,Midtown,2025-01-02,2025-01-01 06:12:00,7.4,265,Average
+580,Metro,Bus-102,Brooklyn Heights,2025-01-04,2025-01-01 08:01:00,11.3,224,Poor
+581,Tram,Metro-B,Uptown,2025-01-01,2025-01-01 14:20:00,4.3,376,Good
+582,Metro,Bus-102,Downtown,2025-02-01,2025-01-01 16:05:00,4.7,240,Good
+583,Bus,Bus-202,SoHo,2025-04-01,2025-01-01 10:29:00,5.8,321,Average
+584,Metro,Metro-C,Queens Village,2025-03-20,2025-01-01 12:00:00,7.8,342,Average
+585,Metro,Metro-A,Brooklyn Heights,2025-02-14,2025-01-01 07:49:00,9.2,225,Average
+586,Bus,Metro-A,Chinatown,2025-03-09,2025-01-01 13:27:00,2.6,386,Good
+587,Bus,Metro-C,Uptown,2025-02-12,2025-01-01 09:02:00,4.7,323,Good
+588,Bus,Bus-202,Chelsea,2025-02-07,2025-01-01 13:46:00,4.4,262,Good
+589,Bus,Metro-A,SoHo,2025-01-24,2025-01-01 17:24:00,4.5,363,Good
+590,Tram,Metro-C,Chelsea,2025-01-24,2025-01-01 16:01:00,4.5,324,Good
+591,Bus,Metro-A,Chinatown,2025-03-05,2025-01-01 16:32:00,4.6,309,Good
+592,Tram,Metro-C,Downtown,2025-01-25,2025-01-01 10:02:00,8.2,250,Average
+593,Metro,Tram-2,Bronx Park,2025-02-25,2025-01-01 16:00:00,7.4,265,Average
+594,Metro,Metro-B,SoHo,2025-03-11,2025-01-01 14:57:00,0.0,229,Good
+595,Metro,Metro-B,Harlem,2025-02-21,2025-01-01 16:50:00,0.0,331,Good
+596,Bus,Bus-102,Midtown,2025-03-04,2025-01-01 06:54:00,6.0,373,Average
+597,Bus,Bus-202,Harlem,2025-01-14,2025-01-01 09:32:00,3.3,232,Good
+598,Bus,Metro-C,Bronx Park,2025-01-02,2025-01-01 09:09:00,3.5,239,Good
+599,Metro,Bus-101,Chinatown,2025-01-26,2025-01-01 15:11:00,5.7,265,Average
+600,Bus,Bus-102,Harlem,2025-01-19,2025-01-01 15:29:00,4.3,245,Good
+601,Metro,Bus-102,Queens Village,2025-03-03,2025-01-01 11:10:00,6.6,166,Average
+602,Bus,Metro-C,SoHo,2025-02-28,2025-01-01 09:50:00,4.5,273,Good
+603,Bus,Metro-C,Queens Village,2025-02-09,2025-01-01 09:02:00,12.0,256,Poor
+604,Bus,Bus-102,Uptown,2025-01-03,2025-01-01 11:35:00,7.1,398,Average
+605,Tram,Bus-102,Bronx Park,2025-03-17,2025-01-01 08:23:00,9.1,184,Average
+606,Metro,Metro-B,Uptown,2025-02-16,2025-01-01 10:29:00,3.0,355,Good
+607,Bus,Bus-101,Uptown,2025-03-12,2025-01-01 07:17:00,3.8,351,Good
+608,Metro,Bus-102,Uptown,2025-01-17,2025-01-01 14:56:00,4.2,424,Good
+609,Bus,Metro-B,Downtown,2025-01-23,2025-01-01 06:24:00,5.9,317,Average
+610,Tram,Bus-102,Downtown,2025-03-05,2025-01-01 08:02:00,7.3,320,Average
+611,Metro,Metro-A,Bronx Park,2025-02-01,2025-01-01 13:57:00,3.9,295,Good
+612,Bus,Bus-102,Brooklyn Heights,2025-01-16,2025-01-01 07:54:00,8.3,222,Average
+613,Metro,Metro-C,Harlem,2025-03-11,2025-01-01 09:43:00,6.0,292,Average
+614,Bus,Bus-202,Downtown,2025-01-09,2025-01-01 08:59:00,5.3,344,Average
+615,Tram,Bus-202,Chelsea,2025-03-31,2025-01-01 10:22:00,4.5,216,Good
+616,Bus,Bus-102,Queens Village,2025-02-02,2025-01-01 13:52:00,4.7,234,Good
+617,Metro,Tram-2,Downtown,2025-01-05,2025-01-01 12:09:00,3.0,222,Good
+618,Bus,Metro-A,Chinatown,2025-01-02,2025-01-01 14:57:00,6.0,320,Average
+619,Metro,Bus-101,Uptown,2025-01-03,2025-01-01 12:53:00,1.1,319,Good
+620,Metro,Bus-102,Downtown,2025-01-06,2025-01-01 12:37:00,1.4,320,Good
+621,Metro,Bus-101,Bronx Park,2025-03-13,2025-01-01 17:00:00,5.3,254,Average
+622,Metro,Metro-A,Queens Village,2025-02-26,2025-01-01 17:42:00,5.2,191,Average
+623,Metro,Bus-102,Queens Village,2025-03-23,2025-01-01 08:43:00,10.4,194,Poor
+624,Bus,Tram-2,Brooklyn Heights,2025-01-17,2025-01-01 16:43:00,8.6,268,Average
+625,Bus,Metro-B,Midtown,2025-02-23,2025-01-01 15:24:00,2.8,270,Good
+626,Bus,Tram-2,Midtown,2025-03-17,2025-01-01 13:55:00,3.6,282,Good
+627,Tram,Metro-C,Harlem,2025-03-13,2025-01-01 07:24:00,8.5,367,Average
+628,Bus,Tram-2,Chelsea,2025-02-18,2025-01-01 12:09:00,7.6,356,Average
+629,Metro,Metro-B,SoHo,2025-01-24,2025-01-01 09:31:00,0.4,422,Good
+630,Metro,Metro-C,Bronx Park,2025-03-11,2025-01-01 09:25:00,12.1,244,Poor
+631,Bus,Metro-B,Chinatown,2025-03-14,2025-01-01 11:21:00,5.2,277,Average
+632,Bus,Bus-202,Downtown,2025-01-06,2025-01-01 08:25:00,9.2,309,Average
+633,Bus,Metro-B,Bronx Park,2025-02-17,2025-01-01 12:40:00,8.2,232,Average
+634,Bus,Bus-102,Chelsea,2025-02-09,2025-01-01 16:46:00,8.3,292,Average
+635,Bus,Bus-101,Midtown,2025-02-23,2025-01-01 11:38:00,1.9,298,Good
+636,Bus,Bus-202,Bronx Park,2025-02-14,2025-01-01 07:28:00,7.9,342,Average
+637,Metro,Bus-202,Downtown,2025-01-24,2025-01-01 07:20:00,10.4,323,Poor
+638,Tram,Bus-101,Brooklyn Heights,2025-01-26,2025-01-01 13:37:00,0.9,309,Good
+639,Bus,Bus-202,Harlem,2025-02-02,2025-01-01 09:51:00,4.5,401,Good
+640,Bus,Metro-B,Brooklyn Heights,2025-03-02,2025-01-01 09:35:00,6.9,314,Average
+641,Bus,Tram-2,Midtown,2025-02-07,2025-01-01 09:09:00,7.5,252,Average
+642,Metro,Metro-A,Uptown,2025-03-23,2025-01-01 08:50:00,6.5,384,Average
+643,Metro,Metro-B,Midtown,2025-03-23,2025-01-01 17:58:00,7.6,359,Average
+644,Bus,Metro-C,Harlem,2025-01-14,2025-01-01 15:12:00,5.3,353,Average
+645,Bus,Metro-C,Downtown,2025-03-14,2025-01-01 14:03:00,6.9,278,Average
+646,Metro,Tram-2,Chelsea,2025-03-16,2025-01-01 17:16:00,3.7,346,Good
+647,Metro,Tram-2,SoHo,2025-02-16,2025-01-01 13:02:00,4.4,331,Good
+648,Bus,Bus-202,Brooklyn Heights,2025-02-19,2025-01-01 06:37:00,12.4,220,Poor
+649,Metro,Bus-102,Midtown,2025-02-02,2025-01-01 07:24:00,2.9,272,Good
+650,Bus,Bus-102,Chelsea,2025-01-10,2025-01-01 09:03:00,3.5,353,Good
+651,Bus,Bus-202,Brooklyn Heights,2025-02-17,2025-01-01 08:29:00,7.8,223,Average
+652,Metro,Bus-202,Midtown,2025-03-03,2025-01-01 17:39:00,8.4,268,Average
+653,Metro,Bus-101,Harlem,2025-03-19,2025-01-01 09:13:00,5.3,358,Average
+654,Bus,Bus-101,Brooklyn Heights,2025-03-24,2025-01-01 10:19:00,11.0,275,Poor
+655,Tram,Metro-A,Midtown,2025-03-31,2025-01-01 15:51:00,8.5,337,Average
+656,Bus,Metro-A,Downtown,2025-03-22,2025-01-01 15:54:00,8.5,227,Average
+657,Metro,Metro-A,Harlem,2025-02-11,2025-01-01 08:11:00,1.4,348,Good
+658,Bus,Metro-A,Chelsea,2025-04-01,2025-01-01 17:48:00,9.7,285,Average
+659,Metro,Tram-2,Chelsea,2025-02-09,2025-01-01 14:10:00,9.0,267,Average
+660,Tram,Tram-2,SoHo,2025-01-24,2025-01-01 10:24:00,4.0,307,Good
+661,Bus,Bus-101,Bronx Park,2025-01-16,2025-01-01 07:34:00,4.5,328,Good
+662,Tram,Bus-102,Uptown,2025-01-14,2025-01-01 09:10:00,0.0,322,Good
+663,Metro,Bus-202,Downtown,2025-03-01,2025-01-01 08:12:00,7.5,398,Average
+664,Metro,Metro-C,Harlem,2025-01-05,2025-01-01 14:51:00,2.5,217,Good
+665,Bus,Bus-102,Brooklyn Heights,2025-01-11,2025-01-01 16:16:00,2.9,191,Good
+666,Metro,Metro-B,Chelsea,2025-03-07,2025-01-01 16:28:00,0.0,384,Good
+667,Metro,Tram-2,Downtown,2025-03-22,2025-01-01 17:02:00,5.3,367,Average
+668,Bus,Metro-A,Harlem,2025-03-03,2025-01-01 10:32:00,5.2,277,Average
+669,Tram,Metro-A,Harlem,2025-03-05,2025-01-01 07:05:00,8.8,324,Average
+670,Bus,Metro-B,Brooklyn Heights,2025-02-24,2025-01-01 06:32:00,9.5,304,Average
+671,Bus,Bus-102,Harlem,2025-02-15,2025-01-01 17:31:00,3.5,309,Good
+672,Metro,Metro-A,Chinatown,2025-01-05,2025-01-01 15:59:00,6.5,316,Average
+673,Metro,Bus-102,Downtown,2025-02-16,2025-01-01 07:51:00,7.6,289,Average
+674,Metro,Bus-202,Midtown,2025-01-02,2025-01-01 10:18:00,7.6,234,Average
+675,Bus,Metro-B,Chelsea,2025-03-09,2025-01-01 11:41:00,4.6,301,Good
+676,Tram,Metro-C,Chelsea,2025-02-07,2025-01-01 08:50:00,7.9,319,Average
+677,Bus,Bus-102,Midtown,2025-03-17,2025-01-01 17:17:00,7.9,314,Average
+678,Bus,Bus-202,Downtown,2025-03-13,2025-01-01 10:58:00,7.0,202,Average
+679,Bus,Bus-102,Uptown,2025-03-20,2025-01-01 10:17:00,2.9,378,Good
+680,Metro,Bus-102,Downtown,2025-03-06,2025-01-01 08:56:00,9.5,295,Average
+681,Tram,Metro-A,Queens Village,2025-01-06,2025-01-01 13:56:00,5.9,216,Average
+682,Metro,Bus-101,Harlem,2025-01-09,2025-01-01 09:53:00,0.1,410,Good
+683,Metro,Tram-2,Bronx Park,2025-02-10,2025-01-01 07:59:00,4.1,242,Good
+684,Bus,Bus-102,Brooklyn Heights,2025-02-09,2025-01-01 14:18:00,5.7,254,Average
+685,Metro,Bus-102,Chinatown,2025-01-08,2025-01-01 08:58:00,7.4,341,Average
+686,Bus,Bus-102,Bronx Park,2025-01-30,2025-01-01 06:05:00,7.4,354,Average
+687,Bus,Bus-101,Midtown,2025-02-05,2025-01-01 06:03:00,6.0,342,Average
+688,Bus,Bus-202,Brooklyn Heights,2025-02-22,2025-01-01 07:52:00,6.6,310,Average
+689,Metro,Metro-C,Brooklyn Heights,2025-01-02,2025-01-01 12:12:00,6.6,218,Average
+690,Metro,Metro-C,Brooklyn Heights,2025-01-21,2025-01-01 17:10:00,5.0,273,Good
+691,Metro,Metro-B,Chelsea,2025-02-14,2025-01-01 17:08:00,4.5,292,Good
+692,Bus,Metro-A,Chinatown,2025-03-09,2025-01-01 16:20:00,4.9,344,Good
+693,Bus,Bus-101,Chelsea,2025-03-16,2025-01-01 06:13:00,6.0,358,Average
+694,Metro,Bus-202,Harlem,2025-03-06,2025-01-01 15:12:00,5.5,402,Average
+695,Bus,Bus-102,Queens Village,2025-02-01,2025-01-01 12:55:00,7.5,161,Average
+696,Metro,Bus-202,SoHo,2025-02-17,2025-01-01 15:43:00,0.0,301,Good
+697,Metro,Bus-101,Chinatown,2025-02-11,2025-01-01 16:37:00,8.6,374,Average
+698,Bus,Bus-101,Bronx Park,2025-02-03,2025-01-01 13:42:00,8.4,190,Average
+699,Tram,Bus-101,Harlem,2025-01-06,2025-01-01 13:58:00,4.8,361,Good
+700,Metro,Metro-B,Downtown,2025-01-05,2025-01-01 10:21:00,11.6,345,Poor
+701,Bus,Tram-2,Midtown,2025-01-16,2025-01-01 15:11:00,8.1,307,Average
+702,Metro,Metro-A,Queens Village,2025-02-22,2025-01-01 06:25:00,9.4,197,Average
+703,Bus,Metro-B,Harlem,2025-02-14,2025-01-01 07:20:00,4.6,314,Good
+704,Metro,Metro-B,Downtown,2025-01-25,2025-01-01 17:22:00,6.7,361,Average
+705,Metro,Tram-2,Queens Village,2025-02-16,2025-01-01 14:37:00,8.8,345,Average
+706,Tram,Metro-B,Downtown,2025-03-25,2025-01-01 17:30:00,8.0,299,Average
+707,Metro,Bus-101,Chinatown,2025-02-19,2025-01-01 10:35:00,10.5,260,Poor
+708,Bus,Bus-101,Downtown,2025-01-06,2025-01-01 13:58:00,14.2,375,Poor
+709,Metro,Bus-202,Queens Village,2025-03-04,2025-01-01 13:08:00,8.9,310,Average
+710,Bus,Bus-102,Downtown,2025-03-06,2025-01-01 16:22:00,0.3,243,Good
+711,Metro,Metro-B,Bronx Park,2025-02-05,2025-01-01 08:47:00,5.8,277,Average
+712,Metro,Bus-102,Harlem,2025-02-15,2025-01-01 09:38:00,10.0,335,Average
+713,Bus,Metro-A,Queens Village,2025-03-26,2025-01-01 09:58:00,10.2,237,Poor
+714,Bus,Metro-C,Bronx Park,2025-01-27,2025-01-01 13:16:00,9.9,277,Average
+715,Metro,Bus-101,Downtown,2025-02-21,2025-01-01 14:54:00,6.3,344,Average
+716,Metro,Bus-202,Downtown,2025-02-25,2025-01-01 07:07:00,3.2,273,Good
+717,Bus,Metro-A,Brooklyn Heights,2025-03-05,2025-01-01 11:32:00,13.1,329,Poor
+718,Bus,Bus-202,Queens Village,2025-02-16,2025-01-01 16:39:00,5.6,181,Average
+719,Bus,Metro-C,Chinatown,2025-02-19,2025-01-01 09:35:00,7.6,420,Average
+720,Metro,Metro-C,Downtown,2025-03-20,2025-01-01 14:57:00,2.9,291,Good
+721,Bus,Tram-2,Midtown,2025-03-04,2025-01-01 09:45:00,4.8,362,Good
+722,Metro,Bus-101,Chelsea,2025-01-25,2025-01-01 15:14:00,7.7,329,Average
+723,Bus,Metro-A,SoHo,2025-03-07,2025-01-01 06:32:00,3.1,291,Good
+724,Metro,Tram-2,Chelsea,2025-01-03,2025-01-01 06:25:00,3.6,316,Good
+725,Bus,Metro-C,Chinatown,2025-01-04,2025-01-01 09:43:00,5.4,213,Average
+726,Metro,Metro-A,Harlem,2025-03-27,2025-01-01 17:01:00,0.6,355,Good
+727,Bus,Bus-202,Uptown,2025-02-13,2025-01-01 07:04:00,0.0,350,Good
+728,Metro,Tram-2,Midtown,2025-02-06,2025-01-01 09:28:00,7.6,299,Average
+729,Bus,Tram-2,Uptown,2025-01-25,2025-01-01 09:32:00,2.0,378,Good
+730,Metro,Bus-101,Downtown,2025-02-02,2025-01-01 09:34:00,8.9,290,Average
+731,Metro,Bus-102,Harlem,2025-02-13,2025-01-01 16:55:00,8.0,351,Average
+732,Bus,Bus-202,Bronx Park,2025-01-08,2025-01-01 07:15:00,12.2,308,Poor
+733,Metro,Bus-202,Downtown,2025-01-09,2025-01-01 11:00:00,1.9,261,Good
+734,Metro,Tram-2,Uptown,2025-03-29,2025-01-01 13:28:00,1.2,298,Good
+735,Bus,Tram-2,Downtown,2025-03-06,2025-01-01 06:05:00,8.4,202,Average
+736,Bus,Bus-101,SoHo,2025-01-16,2025-01-01 09:11:00,5.5,339,Average
+737,Bus,Bus-102,Brooklyn Heights,2025-01-21,2025-01-01 16:28:00,14.8,291,Poor
+738,Metro,Bus-202,SoHo,2025-01-21,2025-01-01 15:03:00,1.1,266,Good
+739,Metro,Metro-C,Harlem,2025-01-09,2025-01-01 10:33:00,8.1,391,Average
+740,Bus,Metro-B,Bronx Park,2025-01-08,2025-01-01 06:42:00,9.8,219,Average
+741,Metro,Metro-B,SoHo,2025-02-16,2025-01-01 09:26:00,0.0,227,Good
+742,Metro,Bus-102,Queens Village,2025-03-24,2025-01-01 11:22:00,6.4,343,Average
+743,Tram,Metro-A,Bronx Park,2025-02-20,2025-01-01 11:13:00,9.4,161,Average
+744,Metro,Bus-101,Uptown,2025-03-31,2025-01-01 12:39:00,0.0,388,Good
+745,Tram,Bus-102,SoHo,2025-03-29,2025-01-01 10:02:00,0.0,369,Good
+746,Metro,Metro-B,Brooklyn Heights,2025-02-13,2025-01-01 17:30:00,2.8,285,Good
+747,Bus,Tram-2,Bronx Park,2025-03-12,2025-01-01 12:40:00,9.4,234,Average
+748,Metro,Metro-B,Downtown,2025-02-13,2025-01-01 09:14:00,5.3,313,Average
+749,Bus,Tram-2,Brooklyn Heights,2025-03-02,2025-01-01 13:01:00,6.2,321,Average
+750,Bus,Bus-101,Downtown,2025-03-20,2025-01-01 08:23:00,5.0,239,Good
+751,Bus,Tram-2,SoHo,2025-01-11,2025-01-01 07:56:00,0.0,381,Good
+752,Metro,Bus-102,Midtown,2025-02-02,2025-01-01 16:26:00,4.0,355,Good
+753,Metro,Tram-2,Midtown,2025-03-03,2025-01-01 09:57:00,0.0,323,Good
+754,Bus,Metro-A,Uptown,2025-01-21,2025-01-01 08:43:00,6.9,313,Average
+755,Bus,Bus-102,Brooklyn Heights,2025-01-18,2025-01-01 16:29:00,13.1,315,Poor
+756,Bus,Bus-101,Downtown,2025-02-12,2025-01-01 13:23:00,0.0,314,Good
+757,Metro,Bus-102,Chinatown,2025-03-08,2025-01-01 15:08:00,4.0,258,Good
+758,Bus,Metro-A,Brooklyn Heights,2025-02-18,2025-01-01 13:17:00,6.9,250,Average
+759,Metro,Bus-101,Queens Village,2025-01-10,2025-01-01 11:08:00,7.5,309,Average
+760,Bus,Metro-B,Uptown,2025-01-03,2025-01-01 10:51:00,6.3,346,Average
+761,Bus,Metro-A,Chelsea,2025-01-15,2025-01-01 08:16:00,3.4,373,Good
+762,Bus,Bus-101,Chelsea,2025-03-19,2025-01-01 08:17:00,4.5,301,Good
+763,Bus,Metro-C,Downtown,2025-02-27,2025-01-01 08:42:00,15.7,238,Poor
+764,Tram,Tram-2,Midtown,2025-01-27,2025-01-01 10:59:00,5.1,418,Average
+765,Bus,Bus-102,Bronx Park,2025-03-21,2025-01-01 17:27:00,14.0,176,Poor
+766,Bus,Bus-101,Queens Village,2025-01-05,2025-01-01 15:06:00,9.6,244,Average
+767,Bus,Bus-102,Chelsea,2025-03-03,2025-01-01 16:50:00,3.1,332,Good
+768,Bus,Tram-2,Downtown,2025-01-19,2025-01-01 06:15:00,4.6,338,Good
+769,Bus,Bus-101,Downtown,2025-02-15,2025-01-01 15:01:00,6.7,321,Average
+770,Bus,Metro-B,SoHo,2025-02-04,2025-01-01 10:13:00,0.4,448,Good
+771,Metro,Metro-C,Midtown,2025-02-07,2025-01-01 15:38:00,2.8,302,Good
+772,Metro,Metro-C,Brooklyn Heights,2025-02-13,2025-01-01 09:38:00,6.8,225,Average
+773,Bus,Metro-A,Bronx Park,2025-01-04,2025-01-01 14:38:00,9.5,249,Average
+774,Bus,Bus-101,SoHo,2025-01-18,2025-01-01 13:55:00,9.3,316,Average
+775,Tram,Tram-2,Chelsea,2025-01-05,2025-01-01 09:29:00,3.3,315,Good
+776,Bus,Bus-101,Bronx Park,2025-02-21,2025-01-01 07:38:00,10.0,211,Average
+777,Bus,Bus-102,Uptown,2025-01-21,2025-01-01 08:22:00,0.0,379,Good
+778,Bus,Bus-202,Midtown,2025-03-09,2025-01-01 09:01:00,8.6,327,Average
+779,Bus,Bus-101,Chelsea,2025-01-03,2025-01-01 12:01:00,0.0,255,Good
+780,Metro,Metro-C,Downtown,2025-03-15,2025-01-01 12:03:00,9.1,337,Average
+781,Bus,Metro-C,Chelsea,2025-01-03,2025-01-01 06:10:00,4.5,278,Good
+782,Metro,Metro-C,Chinatown,2025-03-06,2025-01-01 10:57:00,5.0,249,Good
+783,Bus,Metro-B,Harlem,2025-02-08,2025-01-01 10:19:00,3.7,325,Good
+784,Bus,Bus-101,Harlem,2025-01-06,2025-01-01 13:41:00,0.7,232,Good
+785,Metro,Metro-A,Chelsea,2025-02-23,2025-01-01 09:08:00,1.0,348,Good
+786,Bus,Bus-101,Chinatown,2025-02-27,2025-01-01 10:02:00,7.9,167,Average
+787,Metro,Bus-202,Chelsea,2025-01-09,2025-01-01 11:31:00,4.8,267,Good
+788,Bus,Metro-C,Harlem,2025-02-02,2025-01-01 12:29:00,3.7,399,Good
+789,Metro,Bus-102,SoHo,2025-03-07,2025-01-01 15:26:00,5.1,298,Average
+790,Bus,Metro-C,Uptown,2025-03-17,2025-01-01 12:59:00,3.6,314,Good
+791,Metro,Bus-101,Harlem,2025-01-24,2025-01-01 12:57:00,2.2,384,Good
+792,Bus,Metro-B,Uptown,2025-01-07,2025-01-01 15:58:00,10.7,300,Poor
+793,Metro,Tram-2,Downtown,2025-01-18,2025-01-01 07:26:00,9.0,326,Average
+794,Bus,Bus-101,Uptown,2025-02-22,2025-01-01 12:58:00,3.7,399,Good
+795,Metro,Bus-101,SoHo,2025-03-11,2025-01-01 13:22:00,2.3,356,Good
+796,Bus,Metro-A,Chinatown,2025-01-24,2025-01-01 07:16:00,8.3,236,Average
+797,Tram,Metro-B,Uptown,2025-03-02,2025-01-01 07:59:00,0.9,310,Good
+798,Bus,Bus-202,Bronx Park,2025-03-10,2025-01-01 13:22:00,6.0,395,Average
+799,Bus,Tram-2,Brooklyn Heights,2025-03-10,2025-01-01 14:25:00,13.1,244,Poor
+800,Bus,Metro-C,Harlem,2025-02-22,2025-01-01 16:13:00,4.7,470,Good
+801,Bus,Bus-102,Chinatown,2025-02-02,2025-01-01 17:48:00,3.1,394,Good
+802,Bus,Bus-101,Queens Village,2025-02-16,2025-01-01 07:04:00,8.1,294,Average
+803,Tram,Bus-202,Downtown,2025-01-10,2025-01-01 17:08:00,9.3,303,Average
+804,Tram,Tram-2,Brooklyn Heights,2025-03-13,2025-01-01 14:09:00,9.9,245,Average
+805,Bus,Bus-102,Bronx Park,2025-03-27,2025-01-01 16:20:00,11.6,255,Poor
+806,Tram,Bus-202,Midtown,2025-02-07,2025-01-01 14:03:00,1.7,274,Good
+807,Metro,Metro-B,SoHo,2025-02-06,2025-01-01 11:30:00,6.7,329,Average
+808,Bus,Metro-B,Chelsea,2025-03-23,2025-01-01 14:05:00,4.2,250,Good
+809,Metro,Tram-2,Brooklyn Heights,2025-02-13,2025-01-01 14:59:00,8.3,198,Average
+810,Metro,Metro-C,Chinatown,2025-03-15,2025-01-01 16:25:00,9.0,374,Average
+811,Tram,Bus-102,Chinatown,2025-01-26,2025-01-01 16:21:00,7.5,228,Average
+812,Bus,Metro-B,Chinatown,2025-01-28,2025-01-01 16:46:00,6.4,353,Average
+813,Metro,Tram-2,Downtown,2025-01-03,2025-01-01 15:38:00,0.8,193,Good
+814,Bus,Metro-B,Uptown,2025-01-14,2025-01-01 14:26:00,3.2,372,Good
+815,Bus,Metro-B,Harlem,2025-01-21,2025-01-01 16:47:00,2.3,310,Good
+816,Bus,Bus-202,Midtown,2025-03-20,2025-01-01 09:47:00,7.5,374,Average
+817,Tram,Bus-202,Chelsea,2025-02-09,2025-01-01 12:29:00,7.7,302,Average
+818,Metro,Metro-B,Chinatown,2025-01-28,2025-01-01 06:17:00,4.5,208,Good
+819,Metro,Metro-A,Chelsea,2025-02-20,2025-01-01 08:20:00,2.8,309,Good
+820,Metro,Bus-202,Queens Village,2025-02-05,2025-01-01 06:33:00,12.7,277,Poor
+821,Bus,Bus-102,Downtown,2025-01-29,2025-01-01 13:34:00,4.9,282,Good
+822,Bus,Tram-2,Chinatown,2025-03-31,2025-01-01 14:03:00,1.8,337,Good
+823,Bus,Tram-2,Queens Village,2025-01-26,2025-01-01 08:15:00,5.6,240,Average
+824,Bus,Metro-C,Midtown,2025-02-02,2025-01-01 06:33:00,3.7,245,Good
+825,Metro,Bus-102,Midtown,2025-02-06,2025-01-01 10:55:00,2.8,258,Good
+826,Metro,Bus-102,Harlem,2025-01-01,2025-01-01 10:45:00,7.1,295,Average
+827,Bus,Bus-102,Bronx Park,2025-01-12,2025-01-01 17:18:00,2.1,234,Good
+828,Bus,Metro-C,Harlem,2025-01-03,2025-01-01 12:22:00,2.0,441,Good
+829,Bus,Bus-102,Uptown,2025-02-16,2025-01-01 06:58:00,3.2,403,Good
+830,Bus,Bus-101,Chelsea,2025-03-24,2025-01-01 13:23:00,5.4,353,Average
+831,Tram,Metro-C,SoHo,2025-03-29,2025-01-01 13:33:00,8.9,355,Average
+832,Metro,Tram-2,Midtown,2025-01-23,2025-01-01 14:40:00,10.0,323,Average
+833,Metro,Bus-101,SoHo,2025-02-13,2025-01-01 12:52:00,0.0,348,Good
+834,Bus,Metro-C,Downtown,2025-02-23,2025-01-01 14:27:00,1.0,296,Good
+835,Bus,Metro-B,Brooklyn Heights,2025-01-06,2025-01-01 09:19:00,8.1,271,Average
+836,Bus,Metro-B,Chinatown,2025-03-08,2025-01-01 13:12:00,3.4,204,Good
+837,Metro,Tram-2,Downtown,2025-02-17,2025-01-01 15:34:00,3.2,270,Good
+838,Metro,Metro-B,Midtown,2025-04-01,2025-01-01 06:09:00,5.5,296,Average
+839,Bus,Bus-102,Queens Village,2025-01-10,2025-01-01 14:44:00,8.8,231,Average
+840,Metro,Metro-C,Chelsea,2025-03-31,2025-01-01 11:01:00,2.2,290,Good
+841,Bus,Bus-101,SoHo,2025-02-03,2025-01-01 08:49:00,1.9,347,Good
+842,Metro,Bus-102,Harlem,2025-03-08,2025-01-01 17:17:00,2.3,359,Good
+843,Tram,Metro-B,Brooklyn Heights,2025-02-16,2025-01-01 09:19:00,6.8,284,Average
+844,Metro,Bus-202,Bronx Park,2025-03-11,2025-01-01 09:39:00,10.3,297,Poor
+845,Metro,Bus-101,Downtown,2025-03-29,2025-01-01 09:48:00,3.5,326,Good
+846,Bus,Bus-102,Bronx Park,2025-02-11,2025-01-01 09:33:00,6.7,245,Average
+847,Bus,Metro-C,SoHo,2025-01-31,2025-01-01 07:56:00,2.6,359,Good
+848,Bus,Tram-2,SoHo,2025-01-23,2025-01-01 09:35:00,3.8,245,Good
+849,Bus,Bus-102,Chinatown,2025-02-23,2025-01-01 17:31:00,6.2,289,Average
+850,Metro,Bus-202,Queens Village,2025-03-07,2025-01-01 17:16:00,14.2,243,Poor
+851,Metro,Metro-B,Queens Village,2025-01-30,2025-01-01 14:14:00,9.8,345,Average
+852,Bus,Bus-101,Uptown,2025-01-24,2025-01-01 15:13:00,5.1,357,Average
+853,Metro,Tram-2,Harlem,2025-02-27,2025-01-01 09:47:00,3.8,254,Good
+854,Bus,Bus-101,Midtown,2025-01-29,2025-01-01 17:38:00,2.5,338,Good
+855,Bus,Tram-2,Midtown,2025-01-23,2025-01-01 16:56:00,3.8,354,Good
+856,Bus,Metro-C,SoHo,2025-01-15,2025-01-01 11:39:00,1.7,328,Good
+857,Bus,Bus-101,Downtown,2025-02-19,2025-01-01 07:53:00,7.9,323,Average
+858,Bus,Metro-B,Chelsea,2025-02-23,2025-01-01 11:14:00,0.0,193,Good
+859,Bus,Metro-C,Midtown,2025-01-11,2025-01-01 07:37:00,7.2,173,Average
+860,Bus,Metro-C,Midtown,2025-01-05,2025-01-01 13:28:00,5.1,249,Average
+861,Tram,Tram-2,Downtown,2025-01-31,2025-01-01 17:04:00,9.0,296,Average
+862,Bus,Metro-A,Harlem,2025-02-06,2025-01-01 11:25:00,2.4,397,Good
+863,Bus,Bus-101,Brooklyn Heights,2025-02-24,2025-01-01 09:44:00,5.4,212,Average
+864,Bus,Bus-101,Queens Village,2025-01-25,2025-01-01 09:15:00,6.8,226,Average
+865,Metro,Bus-102,Chinatown,2025-02-13,2025-01-01 14:38:00,4.1,313,Good
+866,Bus,Tram-2,Chinatown,2025-01-16,2025-01-01 08:12:00,7.8,284,Average
+867,Metro,Bus-202,Chinatown,2025-03-16,2025-01-01 17:22:00,7.8,281,Average
+868,Metro,Metro-A,Downtown,2025-02-03,2025-01-01 06:33:00,12.5,267,Poor
+869,Metro,Metro-B,Chinatown,2025-02-24,2025-01-01 06:07:00,3.9,374,Good
+870,Metro,Bus-102,SoHo,2025-03-04,2025-01-01 16:07:00,0.0,388,Good
+871,Bus,Metro-A,Uptown,2025-02-09,2025-01-01 12:17:00,2.1,341,Good
+872,Bus,Tram-2,Downtown,2025-02-15,2025-01-01 08:10:00,7.4,371,Average
+873,Bus,Metro-A,Downtown,2025-01-19,2025-01-01 11:24:00,8.9,314,Average
+874,Metro,Metro-C,Queens Village,2025-02-09,2025-01-01 15:04:00,9.0,326,Average
+875,Bus,Bus-101,Chinatown,2025-01-05,2025-01-01 12:13:00,3.9,266,Good
+876,Bus,Metro-C,Bronx Park,2025-03-31,2025-01-01 10:56:00,13.8,227,Poor
+877,Tram,Bus-101,Brooklyn Heights,2025-03-08,2025-01-01 17:16:00,5.0,235,Good
+878,Bus,Bus-102,Uptown,2025-01-08,2025-01-01 17:53:00,2.5,336,Good
+879,Metro,Tram-2,Downtown,2025-01-19,2025-01-01 13:00:00,3.5,291,Good
+880,Metro,Tram-2,Uptown,2025-03-12,2025-01-01 08:52:00,3.4,356,Good
+881,Bus,Metro-A,Downtown,2025-02-05,2025-01-01 10:14:00,11.5,387,Poor
+882,Bus,Bus-102,Harlem,2025-03-01,2025-01-01 16:05:00,4.2,356,Good
+883,Bus,Tram-2,Queens Village,2025-03-25,2025-01-01 13:57:00,7.7,243,Average
+884,Metro,Bus-202,SoHo,2025-01-06,2025-01-01 09:39:00,0.0,332,Good
+885,Metro,Bus-202,Harlem,2025-03-21,2025-01-01 07:56:00,3.7,396,Good
+886,Metro,Metro-C,Chelsea,2025-02-14,2025-01-01 10:07:00,8.2,357,Average
+887,Tram,Bus-101,Chinatown,2025-03-27,2025-01-01 11:10:00,4.6,383,Good
+888,Metro,Metro-A,Chelsea,2025-01-30,2025-01-01 14:25:00,3.8,294,Good
+889,Bus,Metro-B,Brooklyn Heights,2025-01-23,2025-01-01 08:53:00,11.4,233,Poor
+890,Bus,Bus-101,Bronx Park,2025-01-31,2025-01-01 07:56:00,7.7,225,Average
+891,Metro,Bus-102,SoHo,2025-01-28,2025-01-01 14:37:00,7.7,312,Average
+892,Bus,Tram-2,Harlem,2025-01-21,2025-01-01 10:01:00,0.8,267,Good
+893,Bus,Bus-101,Uptown,2025-02-26,2025-01-01 13:47:00,5.3,355,Average
+894,Metro,Metro-B,Uptown,2025-01-30,2025-01-01 17:32:00,8.2,356,Average
+895,Bus,Metro-B,Brooklyn Heights,2025-03-13,2025-01-01 13:46:00,11.1,335,Poor
+896,Tram,Bus-202,Downtown,2025-01-22,2025-01-01 10:13:00,1.2,200,Good
+897,Metro,Bus-102,Uptown,2025-02-15,2025-01-01 16:49:00,1.4,293,Good
+898,Bus,Bus-101,Chinatown,2025-01-20,2025-01-01 15:09:00,4.7,349,Good
+899,Tram,Metro-A,Bronx Park,2025-02-26,2025-01-01 17:38:00,11.7,269,Poor
+900,Bus,Bus-101,Queens Village,2025-02-14,2025-01-01 17:11:00,4.1,271,Good
+901,Bus,Bus-202,Chinatown,2025-02-19,2025-01-01 12:37:00,2.3,372,Good
+902,Bus,Metro-C,Bronx Park,2025-03-31,2025-01-01 13:00:00,3.8,209,Good
+903,Bus,Metro-B,Brooklyn Heights,2025-02-21,2025-01-01 10:51:00,5.6,232,Average
+904,Bus,Bus-102,Chinatown,2025-01-30,2025-01-01 11:23:00,1.6,266,Good
+905,Bus,Bus-102,Queens Village,2025-02-07,2025-01-01 09:36:00,12.9,168,Poor
+906,Bus,Metro-A,Queens Village,2025-01-20,2025-01-01 12:00:00,6.1,275,Average
+907,Bus,Bus-102,Midtown,2025-03-11,2025-01-01 09:37:00,7.5,282,Average
+908,Metro,Bus-202,Downtown,2025-02-16,2025-01-01 11:21:00,6.8,252,Average
+909,Metro,Bus-202,Brooklyn Heights,2025-03-04,2025-01-01 15:35:00,8.1,223,Average
+910,Bus,Bus-202,Chinatown,2025-03-22,2025-01-01 16:35:00,3.6,308,Good
+911,Bus,Bus-102,SoHo,2025-01-22,2025-01-01 08:25:00,6.1,293,Average
+912,Bus,Bus-102,SoHo,2025-02-24,2025-01-01 16:13:00,4.3,344,Good
+913,Bus,Bus-202,Brooklyn Heights,2025-01-19,2025-01-01 11:10:00,8.4,292,Average
+914,Metro,Bus-102,Chinatown,2025-03-28,2025-01-01 16:36:00,3.6,294,Good
+915,Metro,Bus-102,Harlem,2025-02-04,2025-01-01 08:44:00,3.3,302,Good
+916,Bus,Metro-B,Harlem,2025-01-08,2025-01-01 12:13:00,6.4,330,Average
+917,Bus,Bus-101,Downtown,2025-03-23,2025-01-01 11:07:00,7.4,287,Average
+918,Bus,Tram-2,Chinatown,2025-03-23,2025-01-01 10:45:00,5.8,375,Average
+919,Metro,Bus-102,Queens Village,2025-01-29,2025-01-01 11:18:00,5.8,284,Average
+920,Bus,Tram-2,Uptown,2025-02-16,2025-01-01 06:33:00,9.1,395,Average
+921,Tram,Metro-C,SoHo,2025-02-22,2025-01-01 14:19:00,2.4,363,Good
+922,Metro,Tram-2,Chinatown,2025-01-07,2025-01-01 14:27:00,5.3,243,Average
+923,Bus,Metro-B,Chinatown,2025-03-14,2025-01-01 13:50:00,4.8,281,Good
+924,Metro,Bus-102,Uptown,2025-01-22,2025-01-01 10:31:00,9.2,338,Average
+925,Tram,Bus-202,Uptown,2025-03-20,2025-01-01 13:15:00,2.4,383,Good
+926,Metro,Tram-2,Bronx Park,2025-01-17,2025-01-01 07:42:00,7.5,356,Average
+927,Bus,Bus-102,Midtown,2025-02-25,2025-01-01 10:20:00,5.8,284,Average
+928,Bus,Metro-A,Downtown,2025-03-10,2025-01-01 08:12:00,4.7,291,Good
+929,Metro,Metro-C,SoHo,2025-01-13,2025-01-01 09:33:00,4.1,372,Good
+930,Metro,Bus-202,Uptown,2025-02-09,2025-01-01 10:14:00,10.4,337,Poor
+931,Metro,Metro-A,Harlem,2025-01-12,2025-01-01 15:26:00,5.5,403,Average
+932,Metro,Metro-A,Brooklyn Heights,2025-02-17,2025-01-01 07:16:00,8.9,201,Average
+933,Metro,Tram-2,Harlem,2025-01-02,2025-01-01 09:54:00,2.5,354,Good
+934,Tram,Metro-A,Bronx Park,2025-03-07,2025-01-01 12:05:00,13.8,293,Poor
+935,Bus,Metro-B,Bronx Park,2025-02-25,2025-01-01 13:58:00,14.5,317,Poor
+936,Metro,Metro-B,Uptown,2025-03-24,2025-01-01 12:16:00,5.9,343,Average
+937,Metro,Tram-2,Bronx Park,2025-02-27,2025-01-01 10:17:00,10.6,304,Poor
+938,Metro,Bus-102,Queens Village,2025-03-18,2025-01-01 14:43:00,7.4,256,Average
+939,Metro,Bus-101,Chelsea,2025-01-27,2025-01-01 10:31:00,5.9,278,Average
+940,Bus,Bus-102,Chinatown,2025-01-30,2025-01-01 06:59:00,2.9,261,Good
+941,Metro,Bus-102,Chinatown,2025-02-07,2025-01-01 16:59:00,2.0,237,Good
+942,Metro,Bus-102,Uptown,2025-02-23,2025-01-01 13:57:00,0.0,318,Good
+943,Bus,Bus-102,Bronx Park,2025-03-21,2025-01-01 13:24:00,9.9,275,Average
+944,Bus,Bus-202,Brooklyn Heights,2025-03-09,2025-01-01 16:59:00,3.9,258,Good
+945,Bus,Bus-101,Queens Village,2025-02-26,2025-01-01 15:40:00,6.6,278,Average
+946,Bus,Bus-202,Downtown,2025-03-30,2025-01-01 06:44:00,6.6,350,Average
+947,Bus,Metro-A,Bronx Park,2025-01-15,2025-01-01 14:59:00,11.6,234,Poor
+948,Bus,Metro-C,Queens Village,2025-03-04,2025-01-01 11:57:00,6.3,386,Average
+949,Metro,Bus-102,Midtown,2025-01-04,2025-01-01 06:21:00,8.7,346,Average
+950,Metro,Metro-C,Downtown,2025-02-01,2025-01-01 07:08:00,9.6,278,Average
+951,Metro,Metro-B,Chinatown,2025-02-22,2025-01-01 14:46:00,2.2,298,Good
+952,Metro,Tram-2,Midtown,2025-03-04,2025-01-01 10:33:00,8.8,258,Average
+953,Bus,Tram-2,Uptown,2025-03-30,2025-01-01 15:17:00,2.4,339,Good
+954,Bus,Bus-202,SoHo,2025-03-10,2025-01-01 08:11:00,2.3,224,Good
+955,Metro,Bus-202,Uptown,2025-01-08,2025-01-01 07:38:00,2.5,403,Good
+956,Bus,Metro-B,Brooklyn Heights,2025-03-05,2025-01-01 09:23:00,8.1,128,Average
+957,Tram,Bus-102,Queens Village,2025-03-02,2025-01-01 17:33:00,6.8,271,Average
+958,Metro,Metro-C,SoHo,2025-02-15,2025-01-01 08:07:00,1.3,275,Good
+959,Metro,Metro-C,Downtown,2025-01-06,2025-01-01 12:59:00,4.5,253,Good
+960,Tram,Bus-101,Downtown,2025-01-08,2025-01-01 06:54:00,7.2,260,Average
+961,Bus,Metro-A,Midtown,2025-04-01,2025-01-01 17:51:00,4.9,405,Good
+962,Bus,Tram-2,Brooklyn Heights,2025-03-13,2025-01-01 06:03:00,9.6,213,Average
+963,Metro,Metro-A,Chinatown,2025-01-12,2025-01-01 15:30:00,5.6,354,Average
+964,Bus,Bus-101,Bronx Park,2025-02-26,2025-01-01 13:52:00,8.9,318,Average
+965,Tram,Bus-202,Bronx Park,2025-02-20,2025-01-01 10:29:00,10.4,143,Poor
+966,Bus,Metro-C,SoHo,2025-03-18,2025-01-01 10:38:00,8.1,302,Average
+967,Metro,Tram-2,Brooklyn Heights,2025-01-15,2025-01-01 06:39:00,12.4,343,Poor
+968,Metro,Metro-A,Brooklyn Heights,2025-03-04,2025-01-01 09:32:00,12.1,203,Poor
+969,Metro,Bus-202,Downtown,2025-02-14,2025-01-01 17:29:00,9.4,348,Average
+970,Bus,Bus-101,Chinatown,2025-01-30,2025-01-01 16:51:00,11.6,308,Poor
+971,Bus,Metro-A,Queens Village,2025-03-02,2025-01-01 07:35:00,9.4,265,Average
+972,Metro,Metro-C,Chinatown,2025-01-12,2025-01-01 13:02:00,6.4,312,Average
+973,Bus,Bus-102,Harlem,2025-01-19,2025-01-01 08:56:00,11.3,338,Poor
+974,Metro,Bus-202,Brooklyn Heights,2025-02-19,2025-01-01 07:22:00,0.0,221,Good
+975,Metro,Bus-101,Uptown,2025-02-25,2025-01-01 13:51:00,2.7,327,Good
+976,Metro,Metro-A,Chelsea,2025-01-23,2025-01-01 10:34:00,8.5,337,Average
+977,Metro,Metro-C,Brooklyn Heights,2025-03-08,2025-01-01 15:42:00,11.0,277,Poor
+978,Bus,Bus-102,SoHo,2025-01-09,2025-01-01 08:50:00,11.5,350,Poor
+979,Metro,Bus-102,Uptown,2025-01-02,2025-01-01 10:33:00,3.6,304,Good
+980,Metro,Bus-101,SoHo,2025-01-31,2025-01-01 13:00:00,2.5,364,Good
+981,Bus,Metro-B,Midtown,2025-03-21,2025-01-01 13:06:00,4.4,315,Good
+982,Tram,Metro-C,Chelsea,2025-03-07,2025-01-01 15:25:00,5.7,239,Average
+983,Bus,Metro-C,Chelsea,2025-03-21,2025-01-01 17:21:00,9.6,292,Average
+984,Bus,Tram-2,Downtown,2025-03-26,2025-01-01 09:52:00,11.7,243,Poor
+985,Bus,Bus-101,Brooklyn Heights,2025-01-24,2025-01-01 09:51:00,7.9,223,Average
+986,Tram,Bus-102,Downtown,2025-03-23,2025-01-01 15:58:00,7.5,264,Average
+987,Bus,Bus-102,Bronx Park,2025-03-22,2025-01-01 17:20:00,6.8,290,Average
+988,Metro,Bus-101,SoHo,2025-03-04,2025-01-01 17:27:00,2.3,301,Good
+989,Metro,Metro-B,Harlem,2025-02-04,2025-01-01 16:16:00,7.7,332,Average
+990,Bus,Tram-2,Harlem,2025-03-24,2025-01-01 13:46:00,9.4,323,Average
+991,Bus,Metro-A,Bronx Park,2025-01-28,2025-01-01 08:06:00,6.6,221,Average
+992,Metro,Bus-101,Midtown,2025-04-01,2025-01-01 06:33:00,6.1,291,Average
+993,Bus,Tram-2,Harlem,2025-01-29,2025-01-01 14:12:00,3.9,364,Good
+994,Metro,Metro-C,SoHo,2025-01-15,2025-01-01 09:00:00,6.4,340,Average
+995,Bus,Tram-2,Harlem,2025-02-10,2025-01-01 12:39:00,3.4,348,Good
+996,Bus,Bus-202,Bronx Park,2025-03-23,2025-01-01 13:34:00,2.9,323,Good
+997,Metro,Bus-102,Uptown,2025-01-22,2025-01-01 13:03:00,6.3,362,Average
+998,Bus,Metro-A,Downtown,2025-01-02,2025-01-01 07:23:00,5.8,192,Average
+999,Bus,Bus-101,Queens Village,2025-03-06,2025-01-01 16:15:00,7.5,282,Average
+1000,Bus,Bus-102,SoHo,2025-02-19,2025-01-01 08:12:00,5.1,302,Average

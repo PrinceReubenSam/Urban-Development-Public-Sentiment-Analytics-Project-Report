@@ -95,7 +95,7 @@ City planners often rely on outdated census data and anecdotal feedback, leading
 
 1.  **Clone the repository** to your local machine.
 2.  **Ensure you have Power BI Desktop** installed.
-3.  **Open the `Clinical_Trial_Dashboard.pbix` file**.
+3.  **Open the `Urban Develo ment & Public Sentiment Dashboard` file**.
 4.  **Explore the dashboards!** All visuals are interactive.
 5.  **(Important) Data Source Settings:** The `.pbix` file is configured to look for the CSV files in a specific local path. Upon opening, you may need to update the data source settings in Power BI to point to the location of the `/Data/` folder on your machine. This can be done via `Transform data` -> `Data source settings`.
 

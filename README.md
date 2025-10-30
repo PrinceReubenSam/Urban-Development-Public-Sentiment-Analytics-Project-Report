@@ -86,6 +86,30 @@ City planners often rely on outdated census data and anecdotal feedback, leading
 ## 📄 Final Deliverables
 - Interactive Power BI dashboards
 - Executive summary report
+
+- *   `README.md`: This detailed project explanation.
+
+---
+
+## 5. How To Use This Project
+
+1.  **Clone the repository** to your local machine.
+2.  **Ensure you have Power BI Desktop** installed.
+3.  **Open the `Clinical_Trial_Dashboard.pbix` file**.
+4.  **Explore the dashboards!** All visuals are interactive.
+5.  **(Important) Data Source Settings:** The `.pbix` file is configured to look for the CSV files in a specific local path. Upon opening, you may need to update the data source settings in Power BI to point to the location of the `/Data/` folder on your machine. This can be done via `Transform data` -> `Data source settings`.
+
+
+---
+
+## Connect with Me
+
+This end-to-end project was developed by **Reuben Samuel**. I am passionate about leveraging data engineering and business intelligence to solve complex problems and create actionable insights from raw data.
+
+I'd love to connect with you to discuss data analytics, Power BI development, or potential opportunities. Please feel free to reach out or view my professional profile on LinkedIn.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reuben%20Samuel-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reuben-samuel-b55b97234/)
+
 - Visuals for complaint distribution, sentiment trends, and resource gaps
 
 ---
